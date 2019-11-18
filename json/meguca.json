@@ -1,0 +1,2955 @@
+{
+   "@schemaLocation": "http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd",
+   "@version": "0.10",
+   "@lang": "en",
+   "siteinfo": {
+      "sitename": "Magia Record English Wiki",
+      "dbname": "magiarecorden",
+      "base": "https://magireco.fandom.com/wiki/Magia_Record_English_Wiki",
+      "generator": "MediaWiki 1.19.24",
+      "case": "first-letter",
+      "namespaces": {
+         "namespace": [
+            {
+               "@key": "-2",
+               "@case": "first-letter",
+               "#text": "Media"
+            },
+            {
+               "@key": "-1",
+               "@case": "first-letter",
+               "#text": "Special"
+            },
+            {
+               "@key": "0",
+               "@case": "first-letter"
+            },
+            {
+               "@key": "1",
+               "@case": "first-letter",
+               "#text": "Talk"
+            },
+            {
+               "@key": "2",
+               "@case": "first-letter",
+               "#text": "User"
+            },
+            {
+               "@key": "3",
+               "@case": "first-letter",
+               "#text": "User talk"
+            },
+            {
+               "@key": "4",
+               "@case": "first-letter",
+               "#text": "Magia Record English Wiki"
+            },
+            {
+               "@key": "5",
+               "@case": "first-letter",
+               "#text": "Magia Record English Wiki talk"
+            },
+            {
+               "@key": "6",
+               "@case": "first-letter",
+               "#text": "File"
+            },
+            {
+               "@key": "7",
+               "@case": "first-letter",
+               "#text": "File talk"
+            },
+            {
+               "@key": "8",
+               "@case": "first-letter",
+               "#text": "MediaWiki"
+            },
+            {
+               "@key": "9",
+               "@case": "first-letter",
+               "#text": "MediaWiki talk"
+            },
+            {
+               "@key": "10",
+               "@case": "first-letter",
+               "#text": "Template"
+            },
+            {
+               "@key": "11",
+               "@case": "first-letter",
+               "#text": "Template talk"
+            },
+            {
+               "@key": "12",
+               "@case": "first-letter",
+               "#text": "Help"
+            },
+            {
+               "@key": "13",
+               "@case": "first-letter",
+               "#text": "Help talk"
+            },
+            {
+               "@key": "14",
+               "@case": "first-letter",
+               "#text": "Category"
+            },
+            {
+               "@key": "15",
+               "@case": "first-letter",
+               "#text": "Category talk"
+            },
+            {
+               "@key": "110",
+               "@case": "first-letter",
+               "#text": "Forum"
+            },
+            {
+               "@key": "111",
+               "@case": "first-letter",
+               "#text": "Forum talk"
+            },
+            {
+               "@key": "500",
+               "@case": "first-letter",
+               "#text": "User blog"
+            },
+            {
+               "@key": "501",
+               "@case": "first-letter",
+               "#text": "User blog comment"
+            },
+            {
+               "@key": "502",
+               "@case": "first-letter",
+               "#text": "Blog"
+            },
+            {
+               "@key": "503",
+               "@case": "first-letter",
+               "#text": "Blog talk"
+            },
+            {
+               "@key": "828",
+               "@case": "first-letter",
+               "#text": "Module"
+            },
+            {
+               "@key": "829",
+               "@case": "first-letter",
+               "#text": "Module talk"
+            },
+            {
+               "@key": "1200",
+               "@case": "first-letter",
+               "#text": "Message Wall"
+            },
+            {
+               "@key": "1201",
+               "@case": "first-letter",
+               "#text": "Thread"
+            },
+            {
+               "@key": "1202",
+               "@case": "first-letter",
+               "#text": "Message Wall Greeting"
+            },
+            {
+               "@key": "2000",
+               "@case": "first-letter",
+               "#text": "Board"
+            },
+            {
+               "@key": "2001",
+               "@case": "first-letter",
+               "#text": "Board Thread"
+            },
+            {
+               "@key": "2002",
+               "@case": "first-letter",
+               "#text": "Topic"
+            }
+         ]
+      }
+   },
+   "page": [
+      {
+         "title": "Minami Rena",
+         "ns": "0",
+         "id": "190",
+         "revision": {
+            "id": "50408",
+            "parentid": "31958",
+            "timestamp": "2019-11-11T11:54:22Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "871",
+               "#text": "{{Minami Rena|Infobox}}\n\n{{Description\n| en = An awkward magical girl who can't express her feelings honestly.<br/>Because she usually hides her lack of confidence in her wilful attitude, those who don't know her well tend to misunderstand her.<br/>Despite her blunt manner, her taste in food is childishly sweet.<br/>Her hobby is chasing female idols.\n| jp = 思っていることを素直に表現できない、不器用な魔法少女。<br/>日頃は自信のなさを勝気な態度で隠しているため、付き合いの浅い<br/>うちは何かと誤解されやすい。<br/>ツンケンした態度に相反して、食の好みは子供っぽく甘党。<br/>趣味は女性アイドルの追っかけ。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "l43zhlsqsy18ja0zx31fkkxzfwva8is"
+         }
+      },
+      {
+         "title": "Miyako Hinano",
+         "ns": "0",
+         "id": "336",
+         "revision": {
+            "id": "40698",
+            "parentid": "31965",
+            "timestamp": "2019-07-20T19:42:34Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "875",
+               "#text": "{{Miyako Hinano|Infobox}}\n\n{{Description\n| en = Though she looks young, she is a veteran magical girl with a long career.<br/>She serves as president of the science club at school, so she is also a woman of science.<br/>She is adored by her underclassmen, but they also tease her a lot because of her childish appearance. She herself is exceedingly serious and aims to be a sexy type of girl.\n| jp = 幼い見た目に反して長い経歴を持つ、ベテラン魔法少女。<br/>学校では化学部の部長も務める、理系女子でもある。<br/>後輩たちからは慕われている反面、見た目の子供っぽさをイジられる<br/>ことも多い。本人は至極真面目にセクシー系を目指している。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]"
+            },
+            "sha1": "tbgslgsc75fmi710txbsaep61awhh9l"
+         }
+      },
+      {
+         "title": "Nanami Yachiyo",
+         "ns": "0",
+         "id": "186",
+         "revision": {
+            "id": "49284",
+            "parentid": "40695",
+            "timestamp": "2019-10-30T20:13:58Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "785",
+               "#text": "{{Nanami Yachiyo|Infobox}}\n\n{{Description\n| en = She is a veteran magical girl that came to Kamihama City seven years ago to fight witches.<br/>She is an expert on Kamihama City and magical girls. She keeps her distance from<br/>other magical girls, but she is collecting information on the outbreak of \"rumors\" in Kamihama City.\n| jp = ７年間、神浜市で魔女と戦ってきたベテランの魔法少女。<br/>神浜市や魔法少女についての情報に精通している。他の魔法少女とも<br/>距離を置き、神浜市で発生している「噂」をファイリングしている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "gg1pcgfb9ab22luq0rr9b02wqu86j0x"
+         }
+      },
+      {
+         "title": "Kurumi Manaka",
+         "ns": "0",
+         "id": "349",
+         "revision": {
+            "id": "31995",
+            "parentid": "28926",
+            "timestamp": "2018-10-25T01:45:14Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "923",
+               "#text": "{{Kurumi Manaka|Infobox}}\n\n{{Description\n| en = A cooking-type magical girl who inherited her cooking skills from her father. Her parents' home was a traditional, historic western-style restaurant with a long history. Her cooking ability is first-class and without any complaints, but her annoying attitude full of self-confidence is her fly in the soup. However, she just has pride in her skills backed up by her hard work and effort, and she has no bad intentions whatsoever.\n| jp = 父親譲りの料理の腕を持つ、クッキング系魔法少女。<br/>実家は歴史ある昔ながらの洋食店。料理の腕は文句なしに一級だが<br/>カチンとくるほどに自信満々なのが玉に瑕。<br/>本人は努力に裏打ちされた技術に誇りを持っているだけであり、悪意<br/>は一切ない。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "45lqd0ghuruvtyg5a9cdqy4z6vifekr"
+         }
+      },
+      {
+         "title": "Yui Tsuruno",
+         "ns": "0",
+         "id": "188",
+         "revision": {
+            "id": "49285",
+            "parentid": "40699",
+            "timestamp": "2019-10-30T20:14:05Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "991",
+               "#text": "{{Yui Tsuruno|Infobox}}\n\n{{Description\n| en = A magical girl who is reckless and full of energy. She comes from a historic,<br/>honorable family and will always respect and admire her grandfather and great-grandfather who guided it to prosperity.<br/>On the other hand, in the present day where the Yui household has fallen into ruin, she struggles greatly to try and restore its name,<br/>and for that purpose, her aim is to become the strongest magical girl of all.\n| jp = 元気いっぱいで猪突猛進な魔法少女。由緒正しい歴史ある生家と<br/>その隆盛を導いた祖父や曾祖父を敬愛してやまない。<br/>一方で、現在は没落した由比家をどうにか再興しようと奮闘しており<br/>そのために最強の魔法少女になることを目指している。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "21olcge8v0kegnpbcuitm92wvzl9kyi"
+         }
+      },
+      {
+         "title": "Ayano Rika",
+         "ns": "0",
+         "id": "341",
+         "revision": {
+            "id": "31982",
+            "parentid": "28905",
+            "timestamp": "2018-10-25T01:35:31Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "768",
+               "#text": "{{Ayano Rika|Infobox}}\n\n{{Description\n| en = A modern gal type magical girl who loves the latest fashion and makeup.<br/>Contrary to the fad follower norm, though, she is earnest in love, and she hides painful feelings that she has worried about for a long time.<br/>With her sincere personality, she is the type that can get anyone to open their heart to her.\n| jp = 最新のファッションやメイクが大好きな、今時のギャル系魔法少女。<br/>ミーハーな趣向とはウラハラに、恋には一途で、秘めたる切ない想い<br/>に長年悩み続けている。<br/>裏表のない性格で、誰とでもすぐに打ち解けられるタイプ。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "mug5xklnqtttdkjj8pmznrpv2ki7e9t"
+         }
+      },
+      {
+         "title": "Hozumi Shizuku",
+         "ns": "0",
+         "id": "347",
+         "revision": {
+            "id": "31993",
+            "parentid": "28923",
+            "timestamp": "2018-10-25T01:42:45Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "804",
+               "#text": "{{Hozumi Shizuku|Infobox}}\n\n{{Description\n| en = An elusive magical girl who wanders about searching for her own place. Because she cannot figure out what she likes, her dreams for the future, or even her own identity as a person, she carries a lot of anxiety due to her nebulous future. Befitting the only child of a family that runs a café, she is always calm.\n| jp = 居場所を求めてさ迷い歩く、どこかつかみどころのない魔法少女。<br/>好きなもの、将来の夢など、自分自身のアイデンティティを見付けら<br/>れないがゆえに、未来に対する漠然とした不安を抱えている。<br/>純喫茶の一人娘らしく、いつも落ち着いている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "dgakccokg31j7ddonfhhlpqlirpxtc7"
+         }
+      },
+      {
+         "title": "Minagi Sasara",
+         "ns": "0",
+         "id": "348",
+         "revision": {
+            "id": "31996",
+            "parentid": "28928",
+            "timestamp": "2018-10-25T01:45:22Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "874",
+               "#text": "{{Minagi Sasara|Infobox}}\n\n{{Description\n| en = A magical girl with a strong sense of justice. When she was young, she became obsessed with a knight of justice in a picture book, and since then, she's wished to become a knight that can help people in trouble as well. She also was influenced strongly by her father who was part of a rescue squad, and she prefers saving people's lives over defeating the enemies in front of her.\n| jp = 正義感の強い魔法少女。<br/>幼い頃、絵本に出てきた正義の騎士に夢中となり、それ以来、自分も<br/>困っている人たちを助ける騎士になりたいと願っていた。<br/>レスキュー部隊に所属する父の影響も強く、目の前の敵を倒すことよ<br/>りも人命救助を優先する。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "t5imysczxu4azghfj9q7gn4lgwjxfwo"
+         }
+      },
+      {
+         "title": "Shinobu Akira",
+         "ns": "0",
+         "id": "337",
+         "revision": {
+            "id": "31998",
+            "parentid": "28931",
+            "timestamp": "2018-10-25T01:45:46Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "842",
+               "#text": "{{Shinobu Akira|Infobox}}\n\n{{Description\n| en = A magical girl with a boyish appearance and conduct. Due to her father who runs a karate dojo, she was raised and trained as equals with the boys. With a personality that can't refuse a request from a person in need, she is called the \"Troubleshooter of Sankyouin\" thanks to her habit of getting involved in and taking care of all sorts of things.\n| jp = 外見や言動もボーイッシュな魔法少女。空手道場を営む父に、幼い頃<br/>から男の子たちと等しく鍛えられ育てられてきた。<br/>頼まれ事は断れない性格で、何でもついつい引き受けて解決してしま<br/>うことから「参京院のトラブルシューター」と呼ばれている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "hw1nrtmwygzbxbcrmevagofzu27rhg0"
+         }
+      },
+      {
+         "title": "Chitose Yuma",
+         "ns": "0",
+         "id": "229",
+         "revision": {
+            "id": "40688",
+            "parentid": "31983",
+            "timestamp": "2019-07-20T16:21:14Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "875",
+               "#text": "{{Chitose Yuma|Infobox}}\n{{Description\n| en = A still-young magical girl who sticks close to Sakura Kyouko's side.<br/>She adores Kyouko like a blood relative, will do anything Kyouko says, and if it's for Kyouko's sake, will try her hardest at anything.<br/>She has the innocence of a child, but because she suffered abuse, she possesses much more of a fear of being alone than others.\n| jp = いつも佐倉杏子に引っ付いている、まだまだ幼い魔法少女。<br/>杏子を肉親のように慕っており、杏子の言うことは絶対であり、杏子<br/>のためならどんなことでも頑張る。<br/>子供らしく無邪気だが、虐待のトラウマから、孤独には人一倍の恐怖<br/>心を持っている。\n}}\n{{Tabs}}\n[[Category:Characters]]\n[[Category:Puella Magi]]\n[[Category:Puella Magi Oriko Magica]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "sfxa1hzxy61rztfa1yi6fsip3mqtuo6"
+         }
+      },
+      {
+         "title": "Tomoe Mami",
+         "ns": "0",
+         "id": "272",
+         "revision": {
+            "id": "49282",
+            "parentid": "41943",
+            "timestamp": "2019-10-30T20:13:42Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "848",
+               "#text": "{{Tomoe Mami|Infobox}}\n\n{{Description\n| en = A magical girl who has been fighting witches in Mitakihara City for longer than Kaname Madoka and the others. A 3rd-year at Mitakihara Middle School.<br/>As a magical girl, she is a good senior to Madoka and the others. She takes pride in being able to save people. She likes black tea.\n| jp = 鹿目まどかたちよりも前から見滝原市で魔女たちと戦い続けている<br/>魔法少女。見滝原中学校の３年生。<br/>魔法少女としてもまどかたちのよき先輩でもあり、人を救えることを<br/>誇りに思っている。紅茶好き。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Unlimited]]\n[[Category:Regional Content]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "ox9ex78bwlkjp6m23cw4pheaj9m4k1y"
+         }
+      },
+      {
+         "title": "Kisaki Emiri",
+         "ns": "0",
+         "id": "354",
+         "revision": {
+            "id": "35713",
+            "parentid": "35710",
+            "timestamp": "2019-03-24T19:16:18Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "minor": null,
+            "comment": "StygianGrey moved page [[Kisaki Emily]] to [[Kisaki Emiri]] over a redirect without leaving a redirect: Not her name. Is her username on the messaging thing.",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "860",
+               "#text": "{{Kisaki Emiri|Infobox}}\n\n{{Description\n| en = An imp-type magical girl whose aim is to be the \"cutest of them all\". Refers to herself using \"aーshi\". With a straight-forward, bright, and unafraid personality, even if she meets someone for the first time, she'll give them a nickname right away and bluntly close the distance between them, and before they realize it, she'll have wormed her way into their heart.\n| jp = 「最強にカワイイ」を目指している小悪魔系な魔法少女。<br/>自分のことを「あーし」と言う。素直で明るく物怖じしない性格で<br/>初対面の相手でもすぐにあだ名をつけてズケズケと距離を詰めて<br/>いくが、いつの間にか相手の懐へスルリと潜り込んでしまう。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "2ktk98deb2iywkp8qemmu9agr1ozh2u"
+         }
+      },
+      {
+         "title": "Natsume Kako",
+         "ns": "0",
+         "id": "266",
+         "revision": {
+            "id": "43357",
+            "parentid": "42933",
+            "timestamp": "2019-09-02T17:48:33Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "947",
+               "#text": "{{Natsume Kako|Infobox}}\n\n{{Description\n| en = Anyway, she is a magical girl who loves books.<br/>She is the only daughter of a family that runs a second-hand bookstore in Kamihama City called \"Natsume Bookstore\", and her mother is a Japanese teacher.<br/>She lives a life of reading.<br/>She is kind-hearted, and while she doesn't draw attention to herself when her time to shine comes, she carries the mental strength to properly assert herself.\n| jp = とにかく本が大好きな魔法少女。<br/>神浜市の古書店「夏目書房」の一人娘で、母親は国語の教師。<br/>日々読書という生活を送っている。<br/>心優しく、普段は自分を押し出したりはしないが、ここぞという時は<br/>しっかり主張できる芯の強さも持ち合わせている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]\n[[Category:Has a Doppel]]"
+            },
+            "sha1": "p3ef45dc23msyvoqngjst1a4l78rfcb"
+         }
+      },
+      {
+         "title": "Mikuni Oriko",
+         "ns": "0",
+         "id": "230",
+         "revision": {
+            "id": "40704",
+            "parentid": "33582",
+            "timestamp": "2019-07-20T19:43:35Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "967",
+               "#text": "{{Mikuni Oriko|Infobox}}\n\n{{Description\n| en = An upper-class magical girl whose father used to be a member of the Diet. <br/>She will do anything necessary to reach her goal. She is often seen as a cold-hearted person, but that may just be due to her strong sense of justice that she got from her father. <br/>Contrary to her actions, her mannerism portrays gentleness, and she is fond of drinking black tea in elegance at home.\n| jp = 元議員の父親を持つ、お嬢様魔法少女。<br/>目的のためには手段を選ばないところがあり、冷酷な人だと思われが<br/>ちだが、それらは父親譲りの正義感の強さに因るところである。<br/>行動に反して物腰は至って柔らかく、家では優雅に紅茶を嗜んでいた<br/>りする。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Puella Magi Oriko Magica]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]"
+            },
+            "sha1": "7pjobnc696lpgznm3xtbwxbpiqe9uio"
+         }
+      },
+      {
+         "title": "Mariko Ayaka",
+         "ns": "0",
+         "id": "339",
+         "revision": {
+            "id": "31987",
+            "parentid": "28914",
+            "timestamp": "2018-10-25T01:40:22Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "779",
+               "#text": "{{Mariko Ayaka|Infobox}}\n\n{{Description\n| en = A magical girl who once spent her days living in gloom and negativity but gained a bright and refreshing personality due to her wish. In reaction to her former self, she now views all things with positivity. But sometimes, behind her smile, you can feel her guilt and manufactured brightness.\n| jp = かつてはネガティブで陰鬱な日々を送っていたが、願いによって明る<br/>く爽やかな性格を手に入れた魔法少女。<br/>かつての反動もあって、今は何事にもポジティブ。<br/>しかし、作られた明るさであることの後ろめたさも、笑顔の裏で時々<br/>感じている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "3113ooj5pu48eauz9lnzz64j7zi2vkk"
+         }
+      },
+      {
+         "title": "Yayoi Kanoko",
+         "ns": "0",
+         "id": "353",
+         "revision": {
+            "id": "31929",
+            "parentid": "28933",
+            "timestamp": "2018-10-25T01:11:09Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "850",
+               "#text": "{{Yayoi Kanoko|Infobox}}\n\n{{Description\n| en = A magical girl who dreams of becoming a fashion designer. She was born the only daughter of a family that owned a sheet metal factory, but not having any other successor, she is distressed at the thought that her parents will want her to inherit the factory. She is very diligent, but there are times when she gets strange looks from the people around her.\n| jp = ファッションデザイナーになることを夢見る魔法少女。<br/>板金工場の家に生まれた一人娘で、他に跡取りがおらず、親からは<br/>工場を受け継いでもらいたいと思われており、苦悩している。<br/>本人は大真面目だが周囲からは変な目で見られることがままある。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "rgws0mnbxd7p5uxv5gomu9ajyef9vlq"
+         }
+      },
+      {
+         "title": "Futaba Sana",
+         "ns": "0",
+         "id": "184",
+         "revision": {
+            "id": "47317",
+            "parentid": "45318",
+            "timestamp": "2019-10-10T22:43:39Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Removed some tags.",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "880",
+               "#text": "{{Futaba Sana|Infobox}}\n\n{{Description\n| en = A magical girl who is always thinking negative thoughts.<br/>Ostracized by her family and by the people around her, she never gained any real confidence in herself.<br/>But she is gentle to others, which leads her to submit to the will of those who can be confident in their own abilities,<br/>and she is always content to serve quietly and obediently at their side.\n| jp = 常にネガティブ思考の魔法少女。<br/>家族や周囲から拒絶され、まったく自分に自信が持てなくなっているが、<br/>他者に対しては優しく、そして自分を必要としてくれる人には従順で、<br/>気に入るといつもヒッソリとそばに付き添っている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Uncapped]]"
+            },
+            "sha1": "e63mw0x2q7068u24ezrnbk19npfayf0"
+         }
+      },
+      {
+         "title": "Enemies",
+         "ns": "0",
+         "id": "609",
+         "revision": {
+            "id": "50247",
+            "parentid": "43897",
+            "timestamp": "2019-11-09T20:46:27Z",
+            "contributor": {
+               "username": "Miklosaron",
+               "id": "32671266"
+            },
+            "comment": "Added the Futatsugi enemies and the new boss from arc 2",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "10469",
+               "#text": "==Witches' familiars==\n\n{| class=\"article-table\"  style=\"text-align:center; width:100%;\"\n! style=\"text-align:center; width:100px;\" | Minion\n! style=\"text-align:center; width:175px;\" | Witch-rune Name\n! style=\"text-align:center;\" | English Name\n! style=\"text-align:center; width:70px;\" | Drop item\n|-\n| {{ItemPic|size=100|item=Huygens}}\n| [[File:Enemy 7000 c.png|175px]]\n| [[Huygens]]\n| {{ItemPic|size=60|item=Pendulum Screw}}\n|-\n| {{ItemPic|size=100|item=Harold}}\n| [[File:Enemy 7001 c.png|175px]]\n| [[Harold]]\n| {{ItemPic|size=60|item=Standing Ear Wrapper}}\n|-\n| {{ItemPic|size=100|item=???}}\n| [[File:Enemy 7101 c.png|175px]]\n| [[???]]\n| {{ItemPic|size=60|item=Feather of a Swallow's Tail}}\n|-\n| {{ItemPic|size=100|item=Oscar}}\n| [[File:Enemy 7190 c.png|175px]]\n| [[Oscar]]\n| {{ItemPic|size=60|item=Feather of a Swallow's Tail}}\n|-\n| {{ItemPic|size=100|item=Zabaii}}\n| [[File:Enemy 7103 c.png|175px]]\n| [[Zabaii]]\n| {{ItemPic|size=60|item=Sandbox Scallop}}\n|-\n| {{ItemPic|size=100|item=Joseph}}\n| [[File:Enemy 7104 c.png|175px]]\n| [[Joseph]]\n| {{ItemPic|size=60|item=Blowing Horn}}\n|-\n| {{ItemPic|size=100|item=Ekaterina}}\n| [[File:Enemy 7105 c.png|175px]]\n| [[Ekaterina]]\n| {{ItemPic|size=60|item=Rooftop key}}\n|-\n| {{ItemPic|size=100|item=Kotori}}\n| [[File:Enemy 7106 c.png|175px]]\n| [[Kotori]]\n| {{ItemPic|size=60|item=Nanny's Pedestal}}\n|-\n| {{ItemPic|size=100|item=Patan}}\n| [[File:Enemy 7107 c.png|175px]]\n| [[Patan]]\n| {{ItemPic|size=60|item=Ikigami's Hairball}}\n|-\n| {{ItemPic|size=100|item=Bona}}\n| [[File:Enemy 7108 c.png|175px]]\n| [[Bona]]\n| {{ItemPic|size=60|item=Rubber Swim Ring}}\n|-\n| {{ItemPic|size=100|item=Coco}}\n| [[File:Enemy 7109 c.png|175px]]\n| [[Coco]]\n| {{ItemPic|size=60|item=Nomadistic Stake}}\n|-\n| {{ItemPic|size=100|item=Echo (1)}}\n| [[File:Enemy 7201 c.png|175px]]\n| [[Echo (1)]]\n| All types of exp gem\n|-\n| {{ItemPic|size=100|item=Echo (2)}}\n| [[File:Enemy 7202 c.png|175px]]\n| [[Echo (2)]]\n| All types of exp gem +\n|-\n| {{ItemPic|size=100|item=Echo (3)}}\n| [[File:Enemy 7202 c.png|175px]]\n| [[Echo (3)]]\n| All types of exp gem ++\n|-\n| {{ItemPic|size=100|item=Echo (4)}}\n| [[File:Enemy 7202 c.png|175px]]\n| [[Echo (4)]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Kirico Keepers (1)}}\n| [[File:Enemy 7211 c.png|175px]]\n| [[Kirico Keepers (1)]]\n| All types of orbs and book\n|-\n| {{ItemPic|size=100|item=Kirico Keepers (2)}}\n| [[File:Enemy 7212 c.png|175px]]\n| [[Kirico Keepers (2)]]\n| All types of orbs + and book +\n|-\n| {{ItemPic|size=100|item=Kirico Keepers (3)}}\n| [[File:Enemy 7213 c.png|175px]]\n| [[Kirico Keepers (3)]]\n| All types of orbs ++ and book ++\n|-\n| {{ItemPic|size=100|item=Kirico Keepers (4)}}\n| [[File:Enemy 7102 c.png|175px]]\n| [[Kirico Keepers (4)]]\n| {{ItemPic|size=60|item=Mirror Invitation Letter}}\n|-\n| {{ItemPic|size=100|item=Mathieu}}\n| [[File:Enemy 7400 c.png|175px]]\n| [[Mathieu]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Anthony}}\n| [[File:Enemy 7401 c.png|175px]]\n| [[Anthony]]\n| {{ItemPic|size=60|item=Forest Book}}\n|-\n| {{ItemPic|size=100|item=Pyotr}}\n| [[File:Enemy 7403 c.png|175px]]\n| [[Pyotr]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Bartels}}\n| [[File:Enemy 7404 c.png|175px]]\n| [[Bartels]]\n| N/A\n|-\n| {{ItemPic|size=100|item=????? (Aohana)}}\n| [[File:Enemy 7405 c.png|175px]]\n| [[????? (Aohana)]]\n| {{ItemPic|size=60|item=Dark Book}}\n|-\n| {{ItemPic|size=100|item=Zakuro}}\n| [[File:Enemy 7500 c.png|175px]]\n| [[Zakuro]]\n| N/A\n|}\n\n==Rumors' familiars==\n{| class=\"article-table\"  style=\"text-align:center; width:100%;\"\n! style=\"text-align:center; width:100px;\" | Minion\n! style=\"text-align:center; width:175px;\" | Name\n! style=\"text-align:center;\" | English Name\n! style=\"text-align:center; width:70px;\" | Drop item\n|-\n| {{ItemPic|size=100|item=Rumor of the Breakup Lock}}\n| [[File:Enemy 7002 c.png|175px]]\n| [[Rumor of the Breakup Lock]]\n| {{ItemPic|size=60|item=Chain of Padlock}}\n|-\n| {{ItemPic|size=100|item=Rumor of Spirit Medium Ema}}\n| [[File:Enemy 7003 c.png|175px]]\n| [[Rumor of Spirit Medium Ema]]\n| {{ItemPic|size=60|item=Ema's Mizuhiki}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Misery Owl}}\n| [[File:Enemy 7004 c.png|175px]]\n| [[Rumor of the Misery Owl]]\n| {{ItemPic|size=60|item=Owl Bucket}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Nameless Message}}\n| [[File:Enemy 7005 c.png|175px]]\n| [[Rumor of the Nameless Message]]\n| {{ItemPic|size=60|item=Mail Glider}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Memory Staff}}\n| [[File:Enemy 7006 c.png|175px]]\n| [[Rumor of the Memory Staff]]\n| {{ItemPic|size=60|item=Staff Keyswitch}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Chelate Mascot}}\n| [[File:Enemy 7007 c.png|175px]]\n| [[Rumor of the Chelate Mascot]]\n| {{ItemPic|size=60|item=Mascot's Mane}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Working Bear}}\n| [[File:Enemy 7009 c.png|175px]]\n| [[Rumor of the Working Bear]]\n| {{ItemPic|size=60|item=Bear's Ruff}}\n|}\n\n==Witches==\n\n{| class=\"article-table\"  style=\"text-align:center; width:100%;\"\n! style=\"text-align:center; width:100px;\" | Witch\n! style=\"text-align:center; width:175px;\" | Witch-rune Name\n! style=\"text-align:center;\" | English Name\n! style=\"text-align:center; width:70px;\" | Drop item\n|-\n| {{ItemPic|size=100|item=Teresa}}\n| [[File:Enemy 6000 c.png|175px]]\n| [[Teresa]]\n| {{ItemPic|size=60|item=Pendulum Bob}}\n|-\n| {{ItemPic|size=100|item=Candy}}\n| [[File:Enemy 6001 c.png|175px]]\n| [[Candy]]\n| {{ItemPic|size=60|item=Standing Ear Cotton}}\n|-\n| {{ItemPic|size=100|item=Zenobia}}\n| [[File:Enemy 6103 c.png|175px]]\n| [[Zenobia]]\n| {{ItemPic|size=60|item=Sandbox Shovels}}\n|-\n| {{ItemPic|size=100|item=Rebecca}}\n| [[File:Enemy 6104 c.png|175px]]\n| [[Rebecca]]\n| {{ItemPic|size=60|item=Sheep Horn}}\n|-\n| {{ItemPic|size=100|item=Stacey}}\n| [[File:Enemy 6105 c.png|175px]]\n| [[Stacey]]\n| {{ItemPic|size=60|item=Rooftop Balloons}}\n|-\n| {{ItemPic|size=100|item=Shin}}\n| [[File:Enemy 6106 c.png|175px]]\n| [[Shin]]\n| {{ItemPic|size=60|item=Nanny's Grip}}\n|-\n| {{ItemPic|size=100|item=Durbar}}\n| [[File:Enemy 6107 c.png|175px]]\n| [[Durbar]]\n| {{ItemPic|size=60|item=Ikigami's Water Jug}}\n|-\n| {{ItemPic|size=100|item=Paola}}\n| [[File:Enemy 6108 c.png|175px]]\n| [[Paola]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Lucy}}\n| [[File:Enemy 6109 c.png|175px]]\n| [[Lucy]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Shitori Egumo (Happy Witch)}}\n| [[File:Enemy 6101 c.png|175px]]\n| [[Shitori Egumo (Happy Witch)]]\n| {{ItemPic|size=60|item=Dark Book ++}}\n|-\n| {{ItemPic|size=100|item=Shitori Egumo (Happiness Witch)}}\n| [[File:Enemy 6101 c.png|175px]]\n| [[Shitori Egumo (Happiness Witch)]]\n| {{ItemPic|size=60|item=Dark Book ++}}\n|-\n| {{ItemPic|size=100|item=Patricia}}\n| [[File:Enemy 6400 c.png|175px]]\n| [[Patricia]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Gertrud}}\n| [[File:Enemy 6401 c.png|175px]]\n| [[Gertrud]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Charlotte}}\n| [[File:Enemy 6403 c.png|175px]]\n| [[Charlotte]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Uhrmann}}\n| [[File:Enemy 6404 c.png|175px]]\n| [[Uhrmann]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Walpurgisnacht}}\n| [[File:Enemy 6405 c.png|175px]]\n| [[Walpurgisnacht|????? (Walpurgisnacht)]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Matasaburo}}\n| [[File:Enemy 6500 c.png|175px]]\n| [[Matasaburo]]\n| N/A\n|}\n\n==Rumors==\n\n{| class=\"article-table\"  style=\"text-align:center; width:100%;\"\n! style=\"text-align:center; width:100px;\" | Witch\n! style=\"text-align:center; width:175px;\" | Name\n! style=\"text-align:center;\" | English Name\n! style=\"text-align:center; width:70px;\" | Drop item\n\n|-\n| {{ItemPic|size=100|item=Rumor of the Breakup Staircase}}\n| [[File:Enemy 6002 c.png|175px]]\n| [[Rumor of the Breakup Staircase]]\n| {{ItemPic|size=60|item=Monument of the Stairs}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Machibito Horse}}\n| [[File:Enemy 6003 c.png|175px]]\n| [[Rumor of the Machibito Horse]]\n| {{ItemPic|size=60|item=Machibito Horse's Wheel}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Misery Rhyton}}\n| [[File:Enemy 6004 c.png|175px]]\n| [[Rumor of the Misery Rhyton]]\n| {{ItemPic|size=60|item=Rhyton Ribbon}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Nameless Artificial Intelligence}}\n| [[File:Enemy 6005 c.png|175px]]\n| [[Rumor of the Nameless Artificial Intelligence]]\n| {{ItemPic|size=60|item=Code of Artificial Intelligence}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Memory Curator}}\n| [[File:Enemy 6006 c.png|175px]]\n| [[Rumor of the Memory Curator]]\n| {{ItemPic|size=60|item=Curator's Hood}}\n|-\n| {{ItemPic|size=100|item=Rumor Tsuruno}}\n| [[File:chara_1103_00_n.png|175px]]\n| [[Rumor Tsuruno]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Rumor of the Chelate Big Ferris }}\n| [[File:Enemy 6007 c.png|175px]]\n| [[Rumor of the Chelate Big Ferris]]\n| {{ItemPic|size=60|item=Big Ferris Turbine}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Flower Speaker}}\n| [[File:Enemy 6008 c.png|175px]]\n| [[Rumor of the Flower Speaker]]\n| {{ItemPic|size=60|item=Speaker's Bell}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Kamihama Saint}}\n| [[File:chara_6501_00_n.png|175px]]\n| [[Rumor of the Kamihama Saint]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Rumor of the Ten-Thousand-Year Sakura}}\n|\n| [[Rumor of the Ten-Thousand-Year Sakura]]\n| N/A\n|-\n| {{ItemPic|size=100|item=Rumor of the Soldier Bear}}\n| [[File:Enemy 6009 c.png|175px]]\n| [[Rumor of the Soldier Bear]]\n| {{ItemPic|size=60|item=Bear's Ruff}}\n|-\n| {{ItemPic|size=100|item=Rumor of the Queen Bear}}\n| [[File:Enemy 6010 c.png|175px]]\n| [[Rumor of the Queen Bear]]\n| {{ItemPic|size=60|item=Bear's Bolt}}\n|}\n\n==Other==\n\n{| class=\"article-table\" style=\"text-align:center; width:100%;\"\n! style=\"text-align:center; width:100px\" | Enemy\n! style=\"text-align:center;\" | Japanese Name\n! style=\"text-align:center;\" | English Name\n|-\n| [[File:Black Feather Minion.png|100px]]\n| lang=\"ja\" | 黒羽根\n| [[Black Feather Minion]]\n|-\n| [[File:White Feather Minion.png|100px]]\n| lang=\"ja\" | 白羽根\n| [[White Feather Minion]]\n|-\n| [[File:Rumor Spreader.png|100px]]\n| lang=\"ja\" | ウワサさん\n| [[Rumor Spreader]]\n|-\n| [[File:General Soldier.png|100px]]\n| lang=\"ja\" | 一般兵\n| [[General Soldier]]\n|-\n| [[File:Executive Soldier.png|100px]]\n| lang=\"ja\" | 幹部兵\n| [[Executive Soldier]]\n|-\n| [[File:Futatsugi City Magical Girl.png|100px]]\n| lang=\"ja\" | 二木市の魔法少女\n| Futatsugi City Magical Girl\n|-\n| [[File:Futatsugi City Magical Girl (Executive).png|100px]]\n| lang=\"ja\" | 二木市の魔法少女(幹部)\n| Futatsugi City Magical Girl (Executive)\n|-\n| [[File:Pleased Sapphire Lips.png|100px]]\n| lang=\"ja\" | 悦ぶサファイアの唇\n| Pleased Sapphire Lips\n|}\n[[Category:Characters]]\n[[Category:Navigation]]"
+            },
+            "sha1": "smtg9ehumob7551gebs1cc2pm74jze6"
+         }
+      },
+      {
+         "title": "Kaname Madoka",
+         "ns": "0",
+         "id": "89",
+         "revision": {
+            "id": "31956",
+            "parentid": "28884",
+            "timestamp": "2018-10-25T01:19:43Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "864",
+               "#text": "{{Kaname Madoka|Infobox}}\n\n{{Description\n| en = An incredibly gifted magical girl who operates in Mitakihara City.<br/>She is a second-year at Mitakihara Middle School. Her family consists of her father, mother, and little brother.<br/>Because of her innocent, gentle personality and her thoughtfulness towards others, she always has people around her. During battle, she uses a bow as her weapon.\n| jp = 途方もない素質をもった見滝原市で活躍する魔法少女。<br/>見滝原中学校の２年生。家族は父、母、弟。<br/>おっとりしていて他者への思いやりがある優しい性格で周囲に人が<br/>絶えない。戦闘時では弓を武器として使っている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "lsbp38ccrb8gg4qpsdvjzu8g0yy77og"
+         }
+      },
+      {
+         "title": "Isuzu Ren",
+         "ns": "0",
+         "id": "1258",
+         "revision": {
+            "id": "31955",
+            "parentid": "28883",
+            "timestamp": "2018-10-25T01:18:52Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "878",
+               "#text": "{{Isuzu Ren|Infobox}}\n\n{{Description\n| en = A magical girl who has trouble talking to people and has been shy since she was little.<br/>Due to her isolation and the suffering she felt living every day, she was at the end of her rope, but after discovering the world of magical girls, she was able to pull herself up from rock bottom.<br/>She has grown emotionally, but there are still times when she is timid.\n| jp = 小さい頃から内気で、人と話すことが苦手な魔法少女。<br/>孤立し、生きていくことに苦しみ、自らを追い詰めてしまうが、<br/>その時に魔法少女の世界を知ったことで、<br/>どん底から抜け出すことができた。<br/>精神的に成長もするが、まだ気弱な所がある。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "li6a4uer823ntd7dwwjelp0kcxg26si"
+         }
+      },
+      {
+         "title": "Misono Karin",
+         "ns": "0",
+         "id": "4572",
+         "revision": {
+            "id": "50410",
+            "parentid": "31952",
+            "timestamp": "2019-11-11T11:54:40Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "846",
+               "#text": "{{Misono Karin|Infobox}}\n\n{{Description\n| en = A self-styled magical girl born on Halloween.<br/>Her characteristic is dreamy and tends to interpret things as she likes, and combining the hobby of reading and drawing manga, she has created her design as a magical girl.<br/>She was influenced by her favorite manga ''Phantom Thief Girl Magical Kirin''.\n| jp = 自称、ハロウィンが生んだ魔法少女。<br/>夢見がちで都合良く解釈しようとする性格と、漫画の読み描きという趣味が相まって、魔法少女としての設定を作ってしまった。<br/>“怪盗少女マジカルきりん”というお気に入りの漫画に影響されている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "cc0b60nstl52w1w0k406hqgvg7wnubu"
+         }
+      },
+      {
+         "title": "Akino Kaede",
+         "ns": "0",
+         "id": "221",
+         "revision": {
+            "id": "50412",
+            "parentid": "40691",
+            "timestamp": "2019-11-11T11:54:54Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "871",
+               "#text": "{{Akino Kaede|Infobox}}\n\n{{Description\n| en = Akino Kaede is a magical girl who is always scared and worried.<br/>However, for her teammates she will face challenges as well.<br/>She loves nature, such as animals and insects, and she works in the garden at home.<br/>In addition, she enjoys playing catch, although she isn't very good at it.\n| jp = とっても怖がりで心配性な魔法少女。しかし、優しく友達思いで<br/>チームのメンバーのためには困難にも立ち向かっていく。<br/>動植物や虫など、自然が大好きで、家では家庭菜園に勤しんでいる。<br/>また、上手くはないが、クレーンゲームも趣味の一つ。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "j2lvbbduwl2rdn4nsay52sp5q3wgw4y"
+         }
+      },
+      {
+         "title": "Sakura Kyouko",
+         "ns": "0",
+         "id": "1437",
+         "revision": {
+            "id": "31954",
+            "parentid": "28894",
+            "timestamp": "2018-10-25T01:18:45Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "872",
+               "#text": "{{Sakura Kyouko|Infobox}}\n\n{{Description\n| en = A magical girl from Kazamino City.<br/>She does not seem to attend school, and nobody knows where she lives.<br/>Due to her self-centered personality and pragmatism, she often clashes with other girls.<br/>She's usually seen eating something.<br/>Her weapon is an articulated spear. She is also able to cast barrier magic.\n| jp = 風見野市出身の魔法少女。<br/>学校に通っている様子はなく、どこに住んでいるかも分からない。<br/>勝気な性格とドライな価値観から、他の少女たちと衝突することが多い。<br/>普段はいつも何かを食べている。<br/>武器は多関節の槍。結界魔法も使える。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "9perz6a303u57d0h0q6w3f2daf0ttfl"
+         }
+      },
+      {
+         "title": "Shizumi Konoha",
+         "ns": "0",
+         "id": "1510",
+         "revision": {
+            "id": "31953",
+            "parentid": "28895",
+            "timestamp": "2018-10-25T01:18:26Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "932",
+               "#text": "{{Shizumi Konoha|Infobox}}\n\n{{Description\n| en = A magical girl from Kamihama city's facility 'Azalea House'.<br/>Though she was born and raised in a well-off family, the family business declined and her father and mother died of disease one after the other, so she was taken in at Azalea House.<br/>She's a part of the facility's organizing committee, and excels no matter what she's doing, including studying.<br/>However, her cooking alone is bad.\n| jp = 神浜市の施設「つつじの家」出身の魔法少女。<br/>元は裕福な家庭で生まれ育ったが、家業が傾き、父親と母親を相次いで病で亡くし、つつじの家に引き取られた。<br/>施設内では皆の取りまとめ役で、勉強をはじめ、何をやらせても優秀。<br/>しかし、料理だけは下手。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "8eqwnp4x2rlgurwvdp2dz3g2mrfoggc"
+         }
+      },
+      {
+         "title": "Kure Kirika",
+         "ns": "0",
+         "id": "254",
+         "revision": {
+            "id": "49287",
+            "parentid": "31957",
+            "timestamp": "2019-10-30T20:14:19Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "977",
+               "#text": "{{Kure Kirika|Infobox}}\n\n{{Description\n| en = A magical girl with the scent of danger who acts as [[Mikuni Oriko]]'s faithful servant.<br/>For her master Oriko's sake, she will even stain her hands with unethical deeds without hesitation.<br/>She is called the \"black magical girl\" among the other magical girls.<br/>Her nature itself is pure like a child's, and her supreme love of sweets also belies her childish tastes.\n| jp = 美国織莉子の忠実な僕として働く、危険な香りのする魔法少女。<br/>君主である織莉子のためには、非道徳的なことにも迷わず手を染め<br/>魔法少女たちの間では“黒い魔法少女”などと呼ばれている。<br/>心根自体は子供のように純粋で、味覚も子供っぽく超甘党。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Oriko Magica]]\n[[Category:Unlimited]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "5905fd4af5zaimoz9pf498spyvkh2ci"
+         }
+      },
+      {
+         "title": "Kagami Masara",
+         "ns": "0",
+         "id": "342",
+         "revision": {
+            "id": "31985",
+            "parentid": "28910",
+            "timestamp": "2018-10-25T01:40:22Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "798",
+               "#text": "{{Kagami Masara|Infobox}}\n\n{{Description\n| en = A magical girl who rarely feels emotional highs or lows. She was born into a calm household that didn't have much strife, and her parents loved her as she grew up.<br/>But perhaps naturally, she developed a very cold personality and leads a quiet and detached life. Meanwhile, on the inside, she yearns for excitement.\n| jp = 感情の起伏に乏しい魔法少女。特に波風も立たない穏やかな家庭に<br/>生まれ、両親の愛情を受けながら成長していった。<br/>しかし、生来のものなのか、非常に冷めた性格となり、淡々とした<br/>毎日を送っている。一方、内心では刺激を求めている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "f15gvi5kmgikidhtcmq9827gx5lo8ua"
+         }
+      },
+      {
+         "title": "Chun Meiyui",
+         "ns": "0",
+         "id": "344",
+         "revision": {
+            "id": "47211",
+            "parentid": "32826",
+            "timestamp": "2019-10-09T09:20:24Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "874",
+               "#text": "{{Chun Meiyui|Infobox}}\n\n{{Description\n| en = A magical girl who belongs to the organization known as the \"Soukai Gang.\" A user of Kung fu.<br/>She left her parents in China and moved to Japan by herself.<br/>Normally her tone and demeanor are cool, but she conceals a passion for her beloved comrades and hometown that she treasures more than anything else. She is fond of mahjong.\n| jp = 「蒼海幇」という組織に所属する魔法少女。カンフーの使い手。<br/>中国にいる親の元から離れて、単身で日本に渡って来た。<br/>普段から口調も振る舞いもクールだが、仲間と地元のことをなにより<br/>も大切にしている熱い心を秘めている。麻雀をたしなむ。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]\n[[Category:Has a Doppel]]"
+            },
+            "sha1": "276liqm0u9bftt8f0aqcdfqpyk27a99"
+         }
+      },
+      {
+         "title": "Togame Momoko",
+         "ns": "0",
+         "id": "191",
+         "revision": {
+            "id": "50409",
+            "parentid": "31959",
+            "timestamp": "2019-11-11T11:54:29Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "918",
+               "#text": "{{Togame Momoko|Infobox}}\n\n{{Description\n| en = A magical girl with an elder sister-type disposition who saves magical girl apprentices in peril.<br/>She has older and younger brothers, and she has also that boyish frankness as part of her own personality.<br/>But in truth, she loves cute things like stuffed animals.<br/>Perhaps also because of her admiration of cute things, she is a fan of female idols.\n| jp = ひよっこ魔法少女たちのピンチを救ってくれる、姉御肌な魔法少女。<br/>男兄弟に挟まれており、本人もざっくばらんで男っぽい性格。<br/>しかし実は、ぬいぐるみなどの可愛いものが好き。<br/>可愛いものに憧れる気持ちから、女性アイドルのファンでもある。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "p6l4iaibu6lnpsudo1eauhoc4du8vol"
+         }
+      },
+      {
+         "title": "Tatsuki Asuka",
+         "ns": "0",
+         "id": "340",
+         "revision": {
+            "id": "45320",
+            "parentid": "40693",
+            "timestamp": "2019-09-20T20:31:44Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "927",
+               "#text": "{{Tatsuki Asuka|Infobox}}\n{{Description\n| en = A magical girl that is an assistant naginata instructor and trains daily to become a master of the art. She is the only daughter of a family that runs a dojo with a long history called \"Ryuushinkan.\"<br/>While she follows the rules and makes it a principle to be honest, she also has a thoughtless, careless side that can sometimes cause an uproar.\n| jp = 薙刀術の師範代で、免許皆伝を目指して日々稽古を重ねている魔法<br/>少女。長い歴史を持つ武術道場「竜真館」の一人娘。<br/>規律を守り、常に清廉を旨としているが、迂闊でそそっかしい一面も<br/>持ち、そのことで騒動を引き起こしてしまうことがある。\n}}\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Uncapped]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "eo0th3rvf9toej3edk8seg7xja9w8ld"
+         }
+      },
+      {
+         "title": "Yusa Hazuki",
+         "ns": "0",
+         "id": "1511",
+         "revision": {
+            "id": "31981",
+            "parentid": "28920",
+            "timestamp": "2018-10-25T01:34:10Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "824",
+               "#text": "{{Yusa Hazuki|Infobox}}\n\n{{Description\n| en = A magical girl from Kamihama City's facility 'Azalea House'.<br/>An accident occurred to her while traveling with her family, where only she survived and was taken to the Azalea House.<br/>However, despite her dark life experience, her personality is bright and social,<br/>and she's also good at communicating with the world around her.\n| jp = 神浜市の施設「つつじの家」出身の魔法少女。<br/>家族との旅行中に事故に遭い、自分だけが生き残り、つつじの家に引き取られる。<br/>だが、そんな暗い生い立ちにも関わらず、性格は明るく社交性もあり、<br/>周囲とのコミュニケーションや世渡りも上手。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "mghmtxrlxaxrp3hibx7tzyz0zklu6dr"
+         }
+      },
+      {
+         "title": "Tamaki Iroha",
+         "ns": "0",
+         "id": "107",
+         "revision": {
+            "id": "49286",
+            "parentid": "40705",
+            "timestamp": "2019-10-30T20:14:12Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "945",
+               "#text": "{{Tamaki Iroha|Infobox}}\n\n{{Description\n| en = A Magical Girl who came to Kamihama City to learn the truth behind her mysterious dreams. She has a friendly personality, and tends to overly concern herself with things.\nUnfamiliar with the most recent trends, she is specially inexperienced with smartphones. And although usually reserved, she shows her strong will at the most crucial moments.\n| jp = 不思議な夢の真相を探るべく、神浜市にやってきた魔法少女。<br/>お人好しな性格で、気遣いが行き過ぎてしまうことも多々ある。<br/>最新の流行には疎く、スマホの扱いもぎこちない。<br/>日頃は控えめだが、ここ一番では芯の強さを見せる。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Doppel Lore Translation Needed]]\n[[Category:Uncapped]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "13vttrbjsnw650aw2woz8rrldzizi7z"
+         }
+      },
+      {
+         "title": "Mitsuki Felicia",
+         "ns": "0",
+         "id": "182",
+         "revision": {
+            "id": "40701",
+            "parentid": "31964",
+            "timestamp": "2019-07-20T19:43:09Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "894",
+               "#text": "{{Mitsuki Felicia|Infobox}}\n\n{{Description\n| en = An energetic, unyielding, and unfettered magical girl. <br>As she hates witches from the bottom of her heart and wants to get revenge for her parents, <br>she lives as a \"mercenary\" waging war against witches all over Kamihama. <br>Her wild expressions during battle are the influence of shounen manga. <br>However, she is gentle at heart and loves animals.\n| jp = 元気で勝気で自由気ままな魔法少女。<br/>魔女を両親の仇として心底憎んでおり、<br/>そのため「傭兵」を生業として、神浜の各地で<br/>魔女との戦いを繰り広げている。<br/>ワイルドな口調はバトル系少年漫画の影響。<br/>ただ、心根は優しく動物が大好き。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]"
+            },
+            "sha1": "p3mhosd3tf5en2yghbakgq3ft60nbrn"
+         }
+      },
+      {
+         "title": "Tokiwa Nanaka",
+         "ns": "0",
+         "id": "345",
+         "revision": {
+            "id": "45319",
+            "parentid": "40694",
+            "timestamp": "2019-09-20T20:30:13Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1034",
+               "#text": "{{Tokiwa Nanaka|Infobox}}\n\n{{Description\n| en = A magical girl who is a member of the originating family of the famous \"Kashinryuu\" flower arranging that has continued on since the Edo period.<br/>She is attractive, irreproachable, and clear-headed. At first glance, she seems to have a calm and innocent personality, but in fact, she is a strategist who is always scheming.<br/>Further, she understands the situation she has been put in and copes with it calmly.\n| jp = 江戸時代から続く華道の名門「華心流」宗家に生まれた魔法少女。<br/>容姿端麗で品行方正で頭脳明晰。一見して穏やかでおっとりした性格<br/>のように思えるが、その実は策もめぐらせる戦略家。<br/>また、自分に与えられた状況を理解して冷静に対処していく。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Doppel Lore Needed]]\n[[Category:Uncapped]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "g14dizte2vcz1qg756qa7j1hxglrjew"
+         }
+      },
+      {
+         "title": "Utsuho Natsuki",
+         "ns": "0",
+         "id": "338",
+         "revision": {
+            "id": "31999",
+            "parentid": "28932",
+            "timestamp": "2018-10-25T01:45:54Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "740",
+               "#text": "{{Utsuho Natsuki|Infobox}}\n\n{{Description\n| en = A magical girl who cheers for everyone and glows with cheerfulness. She loves baseball and at school, she cheers for the baseball team members as a cheerleader. She's also the baseball team manager and acts as everyone’s supporter all year long without rest.\n| jp = みんなにエールを送ってくれる、元気はつらつ魔法少女。<br/>野球が大好きで、学校ではチアガールとして野球部員にエールを<br/>送っている。<br/>また、野球部のマネージャーも兼任しており、名実ともに、年中無休<br/>のみんなのサポーターである。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "pzn60ab1hu0c3ievilj6877cf7by2zp"
+         }
+      },
+      {
+         "title": "Eri Aimi",
+         "ns": "0",
+         "id": "1789",
+         "revision": {
+            "id": "31972",
+            "parentid": "28908",
+            "timestamp": "2018-10-25T01:27:15Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "819",
+               "#text": "{{Eri Aimi|Infobox}}\n\n{{Description\n| en = A magical girl who is hard in love.<br/>There is a favorite person she's liked from since they were junior high school students, and she becomes embarrassed when the person in question is before her, so she worries about speaking well.<br/>The delusional note written with confession situation & date plan is a secret that can't be shown to anyone.\n| jp = 恋に一生懸命な魔法少女。<br/>中学生の頃から好きな人がいるが、本人を前にすると<br/>恥ずかしくなってしまい、うまく話せないことに悩んでいる。<br/>告白シチュエーション・デートプランを書き綴った妄想ノートは<br/>誰にも見せられない秘密。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "9czbmrdjd5msf032y484fm6zhs5dw6m"
+         }
+      },
+      {
+         "title": "Mikuri Ayame",
+         "ns": "0",
+         "id": "1512",
+         "revision": {
+            "id": "31991",
+            "parentid": "28927",
+            "timestamp": "2018-10-25T01:41:38Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "788",
+               "#text": "{{Mikuri Ayame|Infobox}}\n\n{{Description\n| en = A magical girl from Kamihama City's facility 'Azalea House'.<br/>She grew up in Azalea House since she was abandoned at the age of one.<br/>She has a pure and straight heart, yet very wild.<br/>Being always active, she often pushes towards anything recklessly and gets herself into trouble.\n| jp = 神浜市の施設「つつじの家」出身の魔法少女。<br/>１歳の頃に捨てられて以来、つつじの家で育つ。<br/>純粋で真っ直ぐな心の持ち主で、なおかつとても野性的。<br/>常にアクティブで、何でも向こう見ずに突き進んでしまうためにトラブルも頻繁に巻き起こしてきた。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Limited]]"
+            },
+            "sha1": "dura8swxtrjfbczx0swz0rxsrcx4hbu"
+         }
+      },
+      {
+         "title": "Haruna Konomi",
+         "ns": "0",
+         "id": "346",
+         "revision": {
+            "id": "31992",
+            "parentid": "28922",
+            "timestamp": "2018-10-25T01:42:45Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "798",
+               "#text": "{{Haruna Konomi|Infobox}}\n\n{{Description\n| en = A magical girl with an unusually strong love of flowers who works as a florist. As she is warm-hearted, she will go to great lengths for the manager of the shop whom she admires. She is very good at serving customers, but when it comes to flowers, she can end up wasting time on them, too. Her specialty is flower arranging.\n| jp = 花への愛は人一倍の、お花屋さんで働く魔法少女。<br/>尊敬する店長さんのためには苦労も厭わないなど、情に厚い。<br/>接客もお手の物のしっかり者だが、花のこととなると愛ゆえに空回り<br/>してしまうことも。フラワーアレンジメントも得意。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "8qlstr64gcwk58dyo33sl48lawf5o3v"
+         }
+      },
+      {
+         "title": "Awane Kokoro",
+         "ns": "0",
+         "id": "4788",
+         "revision": {
+            "id": "50411",
+            "parentid": "31951",
+            "timestamp": "2019-11-11T11:54:47Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "872",
+               "#text": "{{Awane Kokoro|Infobox}}\n\n{{Description\n| en = A magical girl who holds down an obsession inside her heart.<br/>She has lived with her father since her parents' divorce in her childhood, but as they have not been able to face each other they have had an uneasy relationship for a long time.<br/>She does not openly express her attitude and spends her days indecisively.\n| jp = 心の内にわだかまりを押さえつけている魔法少女。<br/>幼い頃に両親が離婚して以来、父親と共に暮らすが、お互いが正面から向き合えず、ギクシャクした関係がずっと続いてきた。<br/>表立って態度に示したりもせず、煮え切らない日々を過ごしている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "ailhsvfaazx5aj52q0omjrwi9333ei1"
+         }
+      },
+      {
+         "title": "Yakumo Mitama",
+         "ns": "0",
+         "id": "4738",
+         "revision": {
+            "id": "31940",
+            "parentid": "28900",
+            "timestamp": "2018-10-25T01:15:06Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "713",
+               "#text": "{{Yakumo Mitama|Infobox}}\n\n{{Description\n| en = A magical girl who works as a coordinator at the edge of Kamihama City. Because she gains grief seeds as payment for magical adjustment and item sales, she rarely fights. Although she always greets everyone with a smile, not many magical girls know her true nature.\n| jp = 神浜市のはずれで調整屋を営んでいる魔法少女。魔力の調整やアイテムの販売を通してグリーフシードを得ているため、滅多に戦うことはない。普段は笑顔で気軽にみんなと接しているが、彼女の素性を知る魔法少女は少ない。\n}}\n\n{{Tabs}}\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "3x23ydt0v47owgjczlgr78g9k6bsbxx"
+         }
+      },
+      {
+         "title": "Amane Tsukuyo",
+         "ns": "0",
+         "id": "4945",
+         "revision": {
+            "id": "45322",
+            "parentid": "31950",
+            "timestamp": "2019-09-20T20:32:46Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "907",
+               "#text": "{{Amane Tsukuyo|Infobox}}\n\n{{Description\n| en = Tsukasa's older twin sister, a magical girl wishing for release.<br/>Always working diligently at koto, calligraphy, dance, and the like, her skills are excellent.<br/>But while her classmates and juniors place great trust in her, she has no friends she can treat casually. As a result, she feels most at ease when together with her sister Tsukasa.\n| jp = 月咲の双子の姉にあたる、解放を望む魔法少女。<br/>普段から箏曲、毛筆、舞踊などの稽古に勤しみ、優れた腕前を持つ。<br/>後輩や同期からの信頼も厚いが、気を許せる仲の人は居ないため、妹の月咲と一緒にいるのが最も心が安らぐ。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Wings of Magius]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "0saqr1j906nt4xzig1g2nl6ryw5bpee"
+         }
+      },
+      {
+         "title": "Amane Tsukasa",
+         "ns": "0",
+         "id": "4947",
+         "revision": {
+            "id": "45321",
+            "parentid": "40703",
+            "timestamp": "2019-09-20T20:32:18Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "910",
+               "#text": "{{Amane Tsukasa|Infobox}}\n\n{{Description\n| en = Tsukuyo's younger twin sister, a magical girl wishing for release.<br/>At the family bamboo workshop, she single-handedly manages the housework and finances on behalf of her father and his apprentices.<br/>She is easy to be around and has a bright personality. However, the only person she feels she can reveal her true feelings to is Tsukuyo.\n| jp = 月夜の双子の妹にあたる、解放を望む魔法少女。<br/>実家の竹細工工房で、父とその弟子のために、家事や家計を一手に引き受けている。<br/>明るく友人が多い性格だが、自身の本音をさらけ出せるのは月夜だけだと思っている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Wings of Magius]]\n[[Category:Limited]]\n[[Category:Has a Doppel]]\n[[Category:Uncapped]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "1gxz8tcih3ey5p63o5kpz86mpe1zo7i"
+         }
+      },
+      {
+         "title": "Akemi Homura (Megane ver.)",
+         "ns": "0",
+         "id": "6048",
+         "revision": {
+            "id": "49283",
+            "parentid": "46866",
+            "timestamp": "2019-10-30T20:13:50Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "937",
+               "#text": "{{Akemi Homura (Megane ver.)|Infobox}}\n\n{{Description\n| en = A timid magical girl who wished to become a being that could protect Madoka.<br/>A second-year student in Mitakihara Middle School. She is repeating the same time frame over and over to try to change the future where Madoka transforms into a witch.<br/>When she got a chance, she came to Kamihama City in hopes to find a way to change the future.\n| jp = まどかを守れる存在になることを願った気弱な魔法少女。<br/>見滝原中学校の２年生。まどかが魔女化する未来を変えるために<br/>同じ時を繰り返している。<br/>とあるきっかけから、神浜市で未来を変える希望を探すことになる。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Uncapped]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "3rhx8w2bezr1muz3wt7oyiqoqfu25wl"
+         }
+      },
+      {
+         "title": "Miki Sayaka",
+         "ns": "0",
+         "id": "4940",
+         "revision": {
+            "id": "49281",
+            "parentid": "31946",
+            "timestamp": "2019-10-30T20:13:27Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "937",
+               "#text": "{{Miki Sayaka|Infobox}}\n\n{{Description\n| en = This magical girl is straightforward and focused on justice. A second-year student at Mitakihara Middle School, she's best friends with her classmate Madoka. She looks up to her senpai magical girl, Mami, and her fighting style of mass-producing weapons is similar. She used to frequent the hospital where her childhood friend Kamijou Kyousuke was staying.\n| jp = 真っ直ぐで正義感が強い魔法少女。見滝原中学校の２年生で、クラスメイトのまどかとは親友。先輩のマミを魔法少女として尊敬しており、武器を量産する戦闘スタイルが似ている。以前は幼馴染の上条恭介が入院していた病院に、よく通っていた。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Unlimited]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "1fy5e3c2lyb16l2qc620b6agy14so4z"
+         }
+      },
+      {
+         "title": "Kaname Madoka (Haregi ver.)",
+         "ns": "0",
+         "id": "6092",
+         "revision": {
+            "id": "31948",
+            "parentid": "28789",
+            "timestamp": "2018-10-25T01:17:39Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "545",
+               "#text": "{{Kaname Madoka (Haregi ver.)|Infobox}}\n\n{{Description\n| en = \n| jp = 見滝原市で活動している中学２年生の魔法少女。魔法少女の祈りの力を着物に込めて、そのままの姿で戦うことができる。武器も羽子板に変わり、遠近両方の攻撃を可能にしている。その羽子板をよく見ると、よく知る者の姿をしているとか。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "c5ulppu6zzfcsl4ij0cufw585gt45wv"
+         }
+      },
+      {
+         "title": "Holy Mami",
+         "ns": "0",
+         "id": "5743",
+         "revision": {
+            "id": "31949",
+            "parentid": "28899",
+            "timestamp": "2018-10-25T01:17:51Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "786",
+               "#text": "{{Holy Mami|Infobox}}\n\n{{Description\n| en = Mitakihara City's magical girl, as well as Kaname Madoka's senior. She was proud of saving people and was hunting witches, but now she has moved the base of activities to Kamihama City, where she is busying leading magical girls to the garden of hope of salvation.\n| jp = 鹿目まどかたちの先輩にあたる、見滝原市の魔法少女。人を救うことを誇りに思い魔女を狩っていたが、今は活動の拠点を神浜市に移して、魔法少女たちを救い希望の花園へと導くための活動に勤しんでいる。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Wings of Magius]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Madoka Magica|Tomoe Mami]]\n[[Category:Limited]]"
+            },
+            "sha1": "f8q461heq80zuw3yuukfzz2n5ldg328"
+         }
+      },
+      {
+         "title": "Kazumi",
+         "ns": "0",
+         "id": "5212",
+         "revision": {
+            "id": "31930",
+            "parentid": "28885",
+            "timestamp": "2018-10-25T01:11:16Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "855",
+               "#text": "{{Kazumi|Infobox}}\n\n{{Description\n| en = Asunaro City's magical girl who has lost her memory.<br/>She usually acts with [[Misaki Umika]] and [[Maki Kaoru]], and also lives together with them.<br/>She desires food more than others, loves to eat, and has remarkable cooking skill.<br/>She can find out a witch's whereabouts by the condition of her hair.\n| jp = 記憶を失っているあすなろ市の魔法少女。<br/>普段は御崎海香、牧カオルと共に行動し、一緒に生活もしている。<br/>食に対しての意欲は人一倍で、食べるのも好きだが、作る方の腕前もかなりのもの。<br/>髪の毛の具合で魔女の居場所を察することができる。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Kazumi Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "8mkf7fi5ov5bpki1dbs1yh92z1pv7uf"
+         }
+      },
+      {
+         "title": "Misaki Umika",
+         "ns": "0",
+         "id": "5222",
+         "revision": {
+            "id": "31973",
+            "parentid": "28916",
+            "timestamp": "2018-10-25T01:27:20Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "851",
+               "#text": "{{Misaki Umika|Infobox}}\n\n{{Description\n| en = She's a magical girl from Asunaro city, and a popular novelist since her junior high school time.<br/>She lives in the same house with [[Kazumi]] and [[Maki Kaoru]].<br/>She has a habit that when she gets stuck in her writing, she cooks to relieve stress and then goes shopping.<br/>By the way, she writes novels on her personal computer.\n| jp = あすなろ市の魔法少女であり、中学生にして売れっ子の小説家。<br/>一軒家にかずみ、牧カオルと共に暮らしている。<br/>執筆に行き詰ると、ストレス解消に料理、そして買い物をするという習慣がある。<br/>ちなみに、小説はパソコンで書いている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Puella Magi Kazumi Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "211rl0zaw2kngf5u0jw7o8g77j26l4f"
+         }
+      },
+      {
+         "title": "Maki Kaoru",
+         "ns": "0",
+         "id": "5217",
+         "revision": {
+            "id": "31980",
+            "parentid": "28913",
+            "timestamp": "2018-10-25T01:33:14Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "785",
+               "#text": "{{Maki Kaoru|Infobox}}\n\n{{Description\n| en = A magical girl from Asunaro City. She's a soccer player, and her ability is good enough to say \"I will carry the number 10 in All Japan in the future.\" As a magical girl, she is good at fighting by making use of her physical strength. Her uniform is long-sleeved even in summer.\n| jp = あすなろ市の魔法少女。<br/>普段はサッカープレイヤーであり、『将来は全日本で10番を背負う』と語れるほど、その実力はかなりのもの。<br/>魔法少女としても、そのフィジカル面の強さを活かした戦い方が得意。<br/>ユニフォームは夏でも長袖。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Puella Magi Kazumi Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "8s2v03sd4kek0igtl76nxoqzkr1sufj"
+         }
+      },
+      {
+         "title": "Rumor Spreader",
+         "ns": "0",
+         "id": "6667",
+         "revision": {
+            "id": "45314",
+            "parentid": "24920",
+            "timestamp": "2019-09-20T13:23:54Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1182",
+               "#text": "{| class=\"wikiatable left-padding\" style=\"width: 40%; float: right; border:2px dotted pink\"\n|style=\"text-align:center; font-weight:bold; font-size:150%\" colspan=\"2\" |{{PAGENAME}}\n|-\n| colspan=\"2\" | [[File:Rumor Spreader full.png|center|thumb|250px]]\n|-\n|style =\"width:20%; font-weight:bold\"|Japanese name:\n|style =\"width:20%\" lang=\"ja\" | ウワサさん\n|-\n|style =\"width:20%; font-weight:bold\"|Illustrator:\n|style =\"width:20%\"|No Data\n|-\n|style =\"width:20%; font-weight:bold\"|Voice Actor:\n|style =\"width:20%\"|No Data\n|-\n<!-- ID = 8200 -->\n|}\n==Description==\nNo Data\n\n==Trivia==\n\n* Spreads rumors like something beginning with \"Hey did you already hear about this? Who did you hear it from?\" ({{Lang|ja|アラもう聞いた？誰から聞いた？}}) before their monsters appear.\n* She appears to be like a normal human in a normal human's eyes, but as the rumor spreader disappears, people whom the rumor spreader talks to do not remember who they were talking with (according to Main Story Chapter 4 Section 2).\n* The name {{Lang|ja|ウワサさん}} (Uwasa-san) was mentioned by [[Hiiragi Nemu]] when she stopped it spreading the Rumor of Chelationland.\n[[Category:Characters]]"
+            },
+            "sha1": "fplm81sp0vyl4xslms5ejf2mvpkdgcb"
+         }
+      },
+      {
+         "title": "Black Feather Minion",
+         "ns": "0",
+         "id": "6669",
+         "revision": {
+            "id": "41647",
+            "parentid": "32818",
+            "timestamp": "2019-08-13T09:12:26Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "2108",
+               "#text": "黒羽根\n\n{{#tag:tabber|\nLight = \n{{{!}} style=\"width: 100%; text-align:center;\"\n{{!}} [[File:Black Feather Minion Light Blades.png|center|250px]]\nID: 715018\n{{!}} [[File:Black Feather Minion Light Chains.png|center|250px]]\nID: 715008\n{{!}}}\n{{!}}-{{!}}\nDark = \n{{{!}} style=\"width: 100%; text-align:center;\"\n{{!}} [[File:Black Feather Minion Dark Blades.png|center|250px]]\nID: 715014\n{{!}} [[File:Black Feather Minion Dark Chains.png|center|250px]]\nID: 715004\n{{!}}}\n{{!}}-{{!}}\nAqua = \n{{{!}} style=\"width: 100%; text-align:center;\"\n{{!}} [[File:Black Feather Minion Aqua Blades.png|center|250px]]\nID: 715016\n{{!}} [[File:Black Feather Minion Aqua Chains.png|center|250px]]\nID: 715006\n{{!}}}\n{{!}}-{{!}}\nFlame = \n{{{!}} style=\"width: 100%; text-align:center;\"\n{{!}} [[File:Black Feather Minion Flame Blades.png|center|250px]]\nID: 715015\n{{!}} [[File:Black Feather Minion Flame Chains.png|center|250px]]\nID: 715005\n{{!}}}\n{{!}}-{{!}}\nForest = \n{{{!}} style=\"width: 100%; text-align:center;\"\n{{!}} [[File:Black Feather Minion Forest Blades.png|center|250px]]\nID: 715017\n{{!}} [[File:Black Feather Minion Forest Chains.png|center|250px]]\nID: 715007\n{{!}}}\n}}\n\n==Description==\n\n==Costumes==\n<tabber>\nLow = {{Costumes|Costume Name=Low|Japanese Costume Name=低|Costume ID=715000|Obtainability = Unobtainable}}\n|-|\nMiddle = {{Costumes|Costume Name=Middle|Japanese Costume Name=中|Costume ID=715001|Obtainability = Unobtainable}}\n|-|\nHigh = {{Costumes|Costume Name=High|Japanese Costume Name=高|Costume ID=715002|Obtainability = Unobtainable}}\n|-|\nB = {{Costumes|Costume Name=B|Japanese Costume Name=B|Costume ID=715003|Obtainability = Unobtainable}}\n|-|\nE = {{Costumes|Costume Name=E|Japanese Costume Name=E|Costume ID=715004|Obtainability = Unobtainable}}\n|-|\n\n<\/tabber>\n\nAlso see [[Kuro]], [[Futaba Sana/Costumes#Black Feather|Futaba Sana (Black Feather Costume)]], [[Mitsuki Felicia/Costumes#Black Feather|Mitsuki Felicia (Black Feather Costume)]], and [[Makino Ikumi/Costumes#Black Feather|Makino Ikumi (Black Feather Costume)]]\n[[Category:Characters]]\n[[Category:Wings of Magius]]\n[[Category:Unreleased]]"
+            },
+            "sha1": "61kfw0zn448c8pfypejcy7xxn5tmq9u"
+         }
+      },
+      {
+         "title": "Tart",
+         "ns": "0",
+         "id": "6830",
+         "revision": {
+            "id": "37662",
+            "parentid": "37660",
+            "timestamp": "2019-06-03T14:40:03Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Undo revision 37660 by [[Special:Contributions/StygianGrey|StygianGrey]] ([[User talk:StygianGrey|talk]])",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "762",
+               "#text": "{{Tart|Infobox}}\n\n{{Description\n| en = Magical girl of medieval France now known by the name of Jeanne d'Arc. Due to the death of her beloved sister Catherine, she stood up to save a France on the verge of collapse. She is simple and trustworthy, and calls Cube (Kyubey) \"Angel-sama\".\n| jp = 現在は“ジャンヌ・ダルク”の名で知られる中世フランスの魔法少女。最愛の妹カトリーヌの死をきっかけに、崩壊寸前のフランスを救うべく立ち上がった。素朴で人を信じやすく、キューブ（キュゥべえ）を“天使様”と呼び慕っている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Tart Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "6t61m1klc9cgmebrqmi155sfob5i0q3"
+         }
+      },
+      {
+         "title": "Riz Hawkwood",
+         "ns": "0",
+         "id": "6839",
+         "revision": {
+            "id": "31944",
+            "parentid": "28893",
+            "timestamp": "2018-10-25T01:15:58Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "913",
+               "#text": "{{Riz Hawkwood|Infobox}}\n\n{{Description\n| en = A \"cool\" magical girl from medieval Italy who rose to action with Tart and two others to save France. <br/>Supporting Tart with magic to manipulate \"shadows\", she fights on the front lines of the French army at the height of the Hundred Years War.<br/> Though she doesn't like to speak of it much, she seems to be a descendant of a certain famous soldier.\n| jp = タルトとふたりでフランスを救うべく立ち上がった、中世のイタリア出身のクールな魔法少女。“影”を操る魔法でタルトを支えつつ、百年戦争のさなか、フランス軍の前線で戦っている。当人はあまり口にしたがらないが、とある有名な軍人の子孫であるらしい。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Tart Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "pmeukv1k0yrprsg0tsaeam9rkmhf8ba"
+         }
+      },
+      {
+         "title": "Kuro",
+         "ns": "0",
+         "id": "6885",
+         "revision": {
+            "id": "32000",
+            "parentid": "28935",
+            "timestamp": "2018-10-25T01:46:51Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "165",
+               "#text": "{{Kuro|Infobox}}\n\n{{Description\n| en = ―\n| jp = ―\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Wings of Magius]]\n[[Category:Limited]]"
+            },
+            "sha1": "se47yq3ky9cy3elcv2hk4n1kznvgcbj"
+         }
+      },
+      {
+         "title": "Melissa de Vignolles",
+         "ns": "0",
+         "id": "6835",
+         "revision": {
+            "id": "45326",
+            "parentid": "40692",
+            "timestamp": "2019-09-20T20:35:15Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "872",
+               "#text": "{{Melissa de Vignolles|Infobox}}\n\n{{Description\n| en = Daughter of the mercenary captain (La Hire), known as the Soldier of the medieval French Magical girl Jeanne d'Arc, who is serving to care for the surroundings of Tart. Though usually a caring and ladylike girl, once she starts nothing can stop her anger.\n| jp = タルトの身の周りの世話をするために従軍している、中世フランスの魔法少女。ジャンヌ・ダルクの戦友として知られる傭兵隊長“憤怒（ラ・イル）”の娘。普段は世話好きでおしとやかな少女だが、一度キレるとその怒りは誰にも止められないという。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Puella Magi Tart Magica]]\n[[Category:Limited]]\n[[Category:Has a Doppel]]\n[[Category:Uncapped]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "smmiya0hc3r823fn91diztft2w775le"
+         }
+      },
+      {
+         "title": "Aino Mito",
+         "ns": "0",
+         "id": "7502",
+         "revision": {
+            "id": "31947",
+            "parentid": "28879",
+            "timestamp": "2018-10-25T01:17:20Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "835",
+               "#text": "{{Aino Mito|Infobox}}\n\n{{Description\n| en = A carefree and innocent magical girl. Always living a natural way of life. Despite her relaxed nature, there are times when she can have a bit of a sharp tongue and surprise people. [[Kumi Seika]] and [[Ibuki Reira]] are close childhood friends of hers that live in the same complex and she cherishes them more than anything else.\n| jp = 天真爛漫で屈託のない性格の魔法少女。いつも自然体で生きている。だが、ゆったりとした物腰や口調とは裏腹に、人をハッとさせる鋭い一言を放つ時もある。伊吹れいら、桑水せいかとは同じ団地に住む幼馴染で、ふたりを何よりも大事に思っている。\n}}\n\n{{Tabs}}\n[[Category:Characters]]\n[[Category:Puella Magi]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "qfh2jghri7vduwayliw9ro393yelui4"
+         }
+      },
+      {
+         "title": "Alina Gray",
+         "ns": "0",
+         "id": "4941",
+         "revision": {
+            "id": "50407",
+            "parentid": "31943",
+            "timestamp": "2019-11-11T11:54:14Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "845",
+               "#text": "{{Alina Gray|Infobox}}\n\n{{Description\n| en = A genius artist obsessed with the theme of magical girl life and death, who is trying to make a world without witches and sometimes uses herself as a subject during a slump. She dreams of making witches the best art and puts in supreme effort for her own purposes.\n| jp = 魔女化のない世界を作ろうとしている魔法少女。生と死というテーマに取り憑かれた天才芸術家で、スランプ時は自分を題材にしたこともある。自身の目的こそが至上で努力を惜しまない彼女は、魔女を最高のアートにすることを夢見ている。\n}}\n\n{{Tabs}}\n[[Category:Characters]]\n[[Category:Puella Magi]]\n[[Category:Wings of Magius]]\n[[Category:Has a Doppel]]\n[[Category:Magius]]\n[[Category:Unlimited]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "pg3czdbxw47q10rp4pc4jtylrixraec"
+         }
+      },
+      {
+         "title": "Kumi Seika",
+         "ns": "0",
+         "id": "7510",
+         "revision": {
+            "id": "31989",
+            "parentid": "28925",
+            "timestamp": "2018-10-25T01:41:17Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "800",
+               "#text": "{{Kumi Seika|Infobox}}\n\n{{Description\n| en = A magical girl who has an introverted personality and cannot express emotions willingly. She lives in the same residential complex with Ibuki Reira and Aino Mito, and, keeps distance when talking to people other than those two. She tends to be regarded as a cold person, but in fact, she secretly likes hot-blooded drama and manga.\n| jp = 内向きな性格で、感情を素直に表現することができない魔法少女。伊吹れいらと相野みとと同じ団地に住んでいて、そのふたり以外とは距離を置いて人付き合いをする。冷たい人間に見られがちだが、実は密かに熱血しているドラマや漫画が好き。\n}}\n\n{{Tabs}}\n[[Category:Characters]]\n[[Category:Puella Magi]]\n[[Category:Limited]]"
+            },
+            "sha1": "j8imj35rlwyw5tkgu0n57j8y86rzbn0"
+         }
+      },
+      {
+         "title": "Ibuki Reira",
+         "ns": "0",
+         "id": "7506",
+         "revision": {
+            "id": "31974",
+            "parentid": "28909",
+            "timestamp": "2018-10-25T01:28:28Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "802",
+               "#text": "{{Ibuki Reira|Infobox}}\n\n{{Description\n| en = A magical girl who lives in a residential complex located in Daito Ward, Kamihama City. She is bright and cheerful, very gentle with kindness, and since she treats everyone warmly, attracted by her personality, many people gather around her. On the other hand, she sometimes sacrifices herself for the harmony in her surroundings.\n| jp = 神浜市・大東区にある団地で暮らしている魔法少女。明朗快活でとても心根が優しく、誰にでも温かく接することから、彼女の人柄に惹かれて、自然と多くの人が周囲に集まる。その反面、周囲の調和のために自分を犠牲にしてしまうこともある。\n}}\n\n{{Tabs}}\n[[Category:Characters]]\n[[Category:Puella Magi]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "djp20i20py60db2ic59i9f3clacebb0"
+         }
+      },
+      {
+         "title": "Madoka-senpai",
+         "ns": "0",
+         "id": "7969",
+         "revision": {
+            "id": "40702",
+            "parentid": "37237",
+            "timestamp": "2019-07-20T19:43:18Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "827",
+               "#text": "{{Madoka-senpai|Infobox}}\n\n{{Description\n| en = A magical girl in Mitakihara City who constantly keeps up with the latest news to deliver MagiReco's charm. Initially, her mission was to make Tamaki Iroha an excellent heroine, but recently they are running around freely in Kamihama City together.\n| jp = マギレコの魅力をお届けするべく、常に最新情報を追い続けている見滝原市の魔法少女。当初は環いろはを立派な主人公にするのが使命だったが、最近では共に神浜市を自由奔放に駆け回っている。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Puella Magi Madoka Magica|Kaname Madoka]]\n[[Category:Limited]]\n[[Category:Doppel Lore Translation Needed]]\n[[Category:Magirepo Girls]]\n[[Category:Has a Doppel]]\n[[Category:Uncapped]]"
+            },
+            "sha1": "09ievbhi36cm0oq3tac7zaq8n6wugi6"
+         }
+      },
+      {
+         "title": "Category:Witch",
+         "ns": "14",
+         "id": "9031",
+         "revision": {
+            "id": "22272",
+            "timestamp": "2018-05-04T11:03:59Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "comment": "Created page with \"[[Category:Characters]]\"",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "23",
+               "#text": "[[Category:Characters]]"
+            },
+            "sha1": "9owpp4e72s07vnkeiqa4f5zkri2n1hq"
+         }
+      },
+      {
+         "title": "Category:Familiar",
+         "ns": "14",
+         "id": "9032",
+         "revision": {
+            "id": "22274",
+            "timestamp": "2018-05-04T11:05:10Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "comment": "Created page with \"[[Category:Characters]]\"",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "23",
+               "#text": "[[Category:Characters]]"
+            },
+            "sha1": "9owpp4e72s07vnkeiqa4f5zkri2n1hq"
+         }
+      },
+      {
+         "title": "Category:Rumor",
+         "ns": "14",
+         "id": "9033",
+         "revision": {
+            "id": "22275",
+            "timestamp": "2018-05-04T11:06:00Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "comment": "Created page with \"[[Category:Characters]]\"",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "23",
+               "#text": "[[Category:Characters]]"
+            },
+            "sha1": "9owpp4e72s07vnkeiqa4f5zkri2n1hq"
+         }
+      },
+      {
+         "title": "Mao Himika",
+         "ns": "0",
+         "id": "4942",
+         "revision": {
+            "id": "33224",
+            "parentid": "31941",
+            "timestamp": "2018-11-24T20:49:12Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "772",
+               "#text": "{{Mao Himika|Infobox}}\n\n{{Description\n| en = A tough merchant as well as a magical girl. As the firstborn daughter in her 8-people family, she supports the home with her father after her mother's death. She feels that a family's living together is an irreplaceable happiness. Since her family is always in poverty, she earns pocket money as long as she has any spare time.\n| jp = たくましい商売人にして魔法少女。８人家族の長女で、母親と死別して以来、父親と共に一家を支えている。家族と共に生きていくことにかけがえのない幸せを感じている。家計はいつも火の車で、それ故に隙があれば小銭稼ぎをしようとする。\n}}\n\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "bio8k7qa016p7rqek13uqk6spcah7c3"
+         }
+      },
+      {
+         "title": "Azusa Mifuyu",
+         "ns": "0",
+         "id": "4943",
+         "revision": {
+            "id": "37062",
+            "parentid": "31937",
+            "timestamp": "2019-04-30T17:28:30Z",
+            "contributor": {
+               "username": "Osakaki",
+               "id": "32983805"
+            },
+            "minor": null,
+            "comment": "translation tweak",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "809",
+               "#text": "{{Azusa Mifuyu|Infobox}}\n\n{{Description\n| en = A Veteran magical girl who has been fighting witches as a partner of Yachiyo for seven years. After realizing that her magical power was declining, she became a leader of [[Wings of Magius]] to gain happiness as an independent woman. Although she is kind, she is weak-hearted, and there are times when she makes mistakes in judgment.\n| jp = ７年間、やちよのパートナーとして魔女と戦ってきたベテランの魔法少女。自身の魔力が衰えていることを実感してから、ひとりの女性としての幸福を得るために、マギウスの翼の幹部になった。優しいが心は弱く、判断を誤ることが間々ある。\n}}\n\n{{Tabs}}\n[[Category:Wings of Magius]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "j1dhcsmovs2iuzut9peufywgtaq3qmn"
+         }
+      },
+      {
+         "title": "Hiiragi Nemu",
+         "ns": "0",
+         "id": "4944",
+         "revision": {
+            "id": "37174",
+            "parentid": "37170",
+            "timestamp": "2019-05-04T17:28:51Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Undo revision 37170 by [[Special:Contributions/Virus1234567890|Virus1234567890]] ([[User talk:Virus1234567890|talk]]) - Google translation / broken formatting",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "541",
+               "#text": "{{Hiiragi Nemu|Infobox}}\n{{Description\n| en = \n| jp = 魔女化のない世界を作ろうとしている魔法少女。自己承認欲求を満たすために物語を書き始め、ネット上で掲載すると天才作家と呼ばれるようになった。だが、今まで誰も彼女には接触できていない。夢は世界中に自分の物語を具現化させること。\n}}\n{{Tabs}}\n[[Category:Wings of Magius]]\n[[Category:Magius]]\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "2lsgcbly7ak1mzkihx5x9xlx00lve0s"
+         }
+      },
+      {
+         "title": "Ami Ria",
+         "ns": "0",
+         "id": "4946",
+         "revision": {
+            "id": "50742",
+            "parentid": "31978",
+            "timestamp": "2019-11-17T19:47:45Z",
+            "contributor": {
+               "username": "ShadowFoxy40",
+               "id": "37051380"
+            },
+            "comment": "English description",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "763",
+               "#text": "{{Ami Ria|Infobox}}\n\n{{Description\n| en =A Magical Girl who moonlights as a fashion model. Often dubbed one of Kamihama’s foremost beauties, she can’t stand the thought of not having the spotlight, so she always puts herself at the front of anything she’s involved in. She acts confident, but from a bystander’s perspective she’s a little incompetent. \n| jp = モデルとしても活躍を見せている魔法少女。神浜屈指の美少女との呼び声も。自分が１番目立っていないと気が済まない性格で、何事においても前へ出る。本人としては自信満々に振る舞ってはいるが、傍から見ていると、どこか間が抜けている。\n}}\n\n{{Tabs}}\n[[Category:Characters]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "8o5l9rxguj20lxnemel8vb2i4pqlyc9"
+         }
+      },
+      {
+         "title": "Satomi Touka",
+         "ns": "0",
+         "id": "4948",
+         "revision": {
+            "id": "37208",
+            "parentid": "36875",
+            "timestamp": "2019-05-04T20:57:16Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "773",
+               "#text": "{{Satomi Touka|Infobox}}\n\n{{Description\n| en =A magical girl seeking to create a world without witches. She is the daughter of the Satomi Medical Center she was hospitalized in and a genius of science astrophysics from an early age. She spends her time doing research while surrounded by countless equipment, and her dream is to know everything there is to the universe. \n| jp = 魔女化のない世界を作ろうとしている魔法少女。入院していた里見メディカルセンターの院長の娘で、幼くして天体物理学を修めた理系の天才。普段は無数の機器に囲まれながら研究を続けており、夢は宇宙の全てを知ること。\n}}\n\n{{Tabs}}\n[[Category:Wings of Magius]]\n[[Category:Magius]]\n[[Category:Has a Doppel]]"
+            },
+            "sha1": "eqe9ifu2l4rhgeo2r7vas1entasxvkr"
+         }
+      },
+      {
+         "title": "Izumi Kanagi",
+         "ns": "0",
+         "id": "5709",
+         "revision": {
+            "id": "31936",
+            "parentid": "31074",
+            "timestamp": "2018-10-25T01:13:54Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "732",
+               "#text": "{{Izumi Kanagi|Infobox}}\n{{Description\n\n| en = Magical girl who wants equality and peace.It is altruistic and vigorous sense of justice and has a charisma that attracts people from its appearance and the strength of words.She has to earn a living expenses to feed poor families and spends days working on multiple part-time jobs.\n\n| jp = 平等と平和を望む魔法少女。利他的で正義感に溢れており、その佇まいや言葉の強さから人々を惹きつけるカリスマ性を持つ。貧しい家族を養うために生活費を稼がなければならず、アルバイトを掛け持ちしながらバイト三昧の日々を送っている。\n}}\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "9uhkhvolws8omlxb2ylfczwj3fozvjo"
+         }
+      },
+      {
+         "title": "Anna Meru",
+         "ns": "0",
+         "id": "6033",
+         "revision": {
+            "id": "31966",
+            "parentid": "31756",
+            "timestamp": "2018-10-25T01:24:53Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "767",
+               "#text": "{{Anna Meru|Infobox}}\n\n{{Description\n| en = A magical girl who decides all her actions of a day by fortune-telling every morning. When the result of divination is good, she would be very positive, but if it is bad, she stays in her room, not even hunting witches. She loves to do fortune-telling but since what she tells seriously comes true, a divination ban is put forward by the magical girls.\n| jp = 毎朝の占いによって一日のすべての行動を決める魔法少女。占いの結果が良いときはとてもポジティブだが、悪いと魔女狩りすらせずに部屋に引き籠る。占いをするのは好きだが冗談抜きで当たるため、魔法少女内では占い禁止令が出ている。\n}}\n\n{{Tabs}}\n[[Category:Unlimited]]"
+            },
+            "sha1": "lhjiip3upymdccnic7h3vioz4jaihmq"
+         }
+      },
+      {
+         "title": "Yukino Kanae",
+         "ns": "0",
+         "id": "6037",
+         "revision": {
+            "id": "32030",
+            "parentid": "31938",
+            "timestamp": "2018-10-25T15:36:31Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "723",
+               "#text": "{{Yukino Kanae|Infobox}}\n{{Description\n\n| en = When she was young she had a gentle personality, but as she grew older, the harsh look in her eyes made it easy to get involved with unsavory people. Coupled with her competitive nature, she is constantly fighting each and every day. She was introduced to music and began playing the guitar.\n\n| jp = 本来は幼い頃から大人しく優しい性格だったが、歳を重ねるにつれ目つきの悪さから悪い連中から絡まれやすく、持ち前の負けず嫌いな性格も相まって、いつしか喧嘩ばかりの毎日に。音楽と出会ったことでギターを弾くようになる。\n}}\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "olgvqbywc1j0v4f2nhymjd1z13m7k3g"
+         }
+      },
+      {
+         "title": "Corbeau",
+         "ns": "0",
+         "id": "7161",
+         "revision": {
+            "id": "41115",
+            "parentid": "40038",
+            "timestamp": "2019-08-04T00:48:27Z",
+            "contributor": {
+               "username": "SirYodaJedi",
+               "id": "32990551"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "433",
+               "#text": "{{Corbeau|Infobox}}\n{{Description\n| en =\n| jp = 百年戦争のさなか、イングランド陣営で暗躍する仮面の魔法少女。三姉妹の次女で、粗暴な言動が目立つ反面、身内には優しい。強敵との嬲り合いに異常な興奮を覚える戦闘好き。母親はとある貴人で、姉と妹に惜しみない愛を注ぐ。\n}}\n{{Tabs}}\n[[Category:Puella Magi Tart Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "p8d4eaipdb44zytbsksdvxwod2nrc2g"
+         }
+      },
+      {
+         "title": "Kozue Mayu",
+         "ns": "0",
+         "id": "7301",
+         "revision": {
+            "id": "31942",
+            "parentid": "28886",
+            "timestamp": "2018-10-25T01:15:24Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "800",
+               "#text": "{{Kozue Mayu|Infobox}}\n\n{{Description\n| en = An alluring magical girl who draws in the attraction of men without realizing it. Her desire for a father figure, which gives her a habit of letting down her guard to older males, is most likely the reason. The influence of her late father leads her to a love of art. She works part-time at an art gallery, with a goal of a job of art reparation.\n| jp = 無自覚に男性の好意を引き寄せてしまう、魔性の魔法少女。父性への憧れから、年上男性には隙を見せてしまいがちなのがその所以。今は亡き父の影響で美術を好きになり、美術品の修復の仕事に就くことを目指して、美術館でアルバイトをしている。\n}}\n\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "fskdd21i01gv784nonm57gpld6a2lwl"
+         }
+      },
+      {
+         "title": "Fumino Sayuki",
+         "ns": "0",
+         "id": "7916",
+         "revision": {
+            "id": "45324",
+            "parentid": "40073",
+            "timestamp": "2019-09-20T20:33:55Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "470",
+               "#text": "{{Fumino Sayuki|Infobox}}\n{{Description\n|en= \n|jp= 日本刀収集という、ちょっと奇怪な趣味を持つ魔法少女。刀絡みで興奮すると、風変わりな感嘆の声を漏らしてしまうなど、好きなこととなると周りが見えなくなりがち。歴史ある水名の町をPRするローカルアイドルとしても活躍中。\n}}\n{{Tabs}}\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "fth2rxb8koenv3msfg0ux1ljf22ootu"
+         }
+      },
+      {
+         "title": "Amano Suzune",
+         "ns": "0",
+         "id": "8689",
+         "revision": {
+            "id": "31939",
+            "parentid": "31389",
+            "timestamp": "2018-10-25T01:14:58Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "828",
+               "#text": "{{Amano Suzune|Infobox}}\n\n{{Description\n| en = A magical girl who decided to transfer to Akanegasaki Middle School. Having neither kith nor kin, she makes her living by doing a part-time job. On one hand she leaves a good impression on people in school, but on the other hand, she has a ruthless 'assassin' face hunting magical girls after school. Deep inside her closed heart, she is hiding a sad past.\n| jp = 茜ヶ咲中学校に転校が決まっている魔法少女。身寄りがなく、アルバイトで生計を立てている。学校などでは人当たりがよい反面、放課後は魔法少女を狙う冷酷な「暗殺者」の顔を持つ。閉ざした心の奥には、悲しい過去を秘めている。\n}}\n\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Puella Magi Suzune Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "4bg3cenywd6hrv1f9wuva6bx106phhj"
+         }
+      },
+      {
+         "title": "Narumi Arisa",
+         "ns": "0",
+         "id": "8692",
+         "revision": {
+            "id": "46497",
+            "parentid": "31970",
+            "timestamp": "2019-09-27T09:57:25Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "716",
+               "#text": "{{Narumi Arisa|Infobox}}\n\n{{Description\n| en = One of the four Magical Girls that go to Akanegazaki Middle School. Her lively personality hates studying. Her crude speech can often chide from a long distance away. Before becoming a magical girl, she was quiet, weak, and completely different than she is now.\n| jp = 茜ヶ咲中学校に通う魔法少女４人組のひとり。活発な性格で勉強嫌い。ガサツな言動を千里によくたしなめられている。魔法少女になる前は現在とはまったくイメージの違う、おとなしく気弱な少女だった。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi Suzune Magica]]\n[[Category:Limited]]\n[[Category:Has a Doppel]]\n[[Category:Uncapped]]"
+            },
+            "sha1": "ssovk4jyf7g3rvwfmg5mysw14rmmnux"
+         }
+      },
+      {
+         "title": "Shion Chisato",
+         "ns": "0",
+         "id": "8695",
+         "revision": {
+            "id": "50741",
+            "parentid": "31971",
+            "timestamp": "2019-11-17T19:41:59Z",
+            "contributor": {
+               "username": "ShadowFoxy40",
+               "id": "37051380"
+            },
+            "comment": "Added English description",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "735",
+               "#text": "{{Shion Chisato|Infobox}}\n\n{{Description\n| en =One of the 4 Magical Girls who attend school at Akanegasaki. Levelheaded and calm, she values being ethical above all else. While she may come off as cold, she has a caring side for her friends, having reformed Arisa’s former bad behaviour. Her father used to write and draw picture books. \n| jp = 茜ヶ咲中学校に通う魔法少女４人組のひとり。冷静沈着で、公明正大な行いを良しとする。クールではあるが、過去に素行が悪かった亜里紗を更生させるなど、仲間思いで面倒見の良い一面もある。父親は“かつて”絵本作家だった。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi Suzune Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "m2yt0zp83jhbfbxtelpfr7edp52h2py"
+         }
+      },
+      {
+         "title": "Category:Puella Magi",
+         "ns": "14",
+         "id": "9088",
+         "revision": {
+            "id": "22879",
+            "timestamp": "2018-05-10T05:26:07Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "comment": "Created page with \" [[Category:Characters]]\"",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "24",
+               "#text": "[[Category:Characters]]"
+            },
+            "sha1": "9rvohid5bttiedcca68jlbvcyl4wpec"
+         }
+      },
+      {
+         "title": "Kanade Haruka",
+         "ns": "0",
+         "id": "8780",
+         "revision": {
+            "id": "50239",
+            "parentid": "49387",
+            "timestamp": "2019-11-09T17:45:01Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "506",
+               "#text": "{{Kanade Haruka|Infobox}}\n\n{{Description\n|en=\n|jp=魔法少女としても学生としても、精力的に善行に勤しむ聖人君子のような魔法少女。学校では勉強においてもスポーツにおいても優秀な成績を収め、さらには生徒会役員までも務めている。魔法少女のチームにおいても皆を統率する、正にリーダーの鑑。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi Suzune Magica]]\n[[Category:Limited]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "3quz10ego1fjkvwcnlma4f3aofb4utc"
+         }
+      },
+      {
+         "title": "Hinata Matsuri",
+         "ns": "0",
+         "id": "8779",
+         "revision": {
+            "id": "49424",
+            "parentid": "49378",
+            "timestamp": "2019-10-31T21:03:46Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "527",
+               "#text": "{{Hinata Matsuri|Infobox}}\n\n{{Description\n|en=\n|jp=茜ヶ咲中学校に通う魔法少女４人組のひとり。純粋で人懐っこく、４人の中ではムードメーカー。友達は多い方が楽しいと思っており誰とでも仲良くしようとする。幼い頃は、目が見えなかったため、あまり外出できず外の世界に憧れを持っていた。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi Suzune Magica]]\n[[Category:Limited]]\n[[Category:Has a Doppel]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "da2i84uugksx8q5u6g6y184yvuhzgov"
+         }
+      },
+      {
+         "title": "Rumor Tsuruno",
+         "ns": "0",
+         "id": "9119",
+         "revision": {
+            "id": "40696",
+            "parentid": "31961",
+            "timestamp": "2019-07-20T19:41:59Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "770",
+               "#text": "{{Rumor Tsuruno|Infobox}}\n\n{{Description\n| en = A magical girl integrated with the Rumor of Chelationland ([[Rumor of the Chelate Mascot|Chelate Mascot]]). She is living leisurely and happily, and, trying to protect the amusement park where all the troubles can be blown away. Her idea of the menu of the food court surprised other rumors.\n| jp = キレーションランドのウワサ（キレートマスコット）と一体化した魔法少女。のんびりダラーっと楽しく過ごして、悩みを全て吹き飛ばせる遊園地を守ろうとしている。フードコートのメニューの発案では、他のウワサを驚かせた。\n}}\n\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Wings of Magius]]\n[[Category:Limited]]\n[[Category:Uncapped]]"
+            },
+            "sha1": "te8ps4nu15f3hi557b91650t9vgyagi"
+         }
+      },
+      {
+         "title": "Chiaki Riko",
+         "ns": "0",
+         "id": "9964",
+         "revision": {
+            "id": "36398",
+            "parentid": "32286",
+            "timestamp": "2019-04-09T16:09:34Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "821",
+               "#text": "{{Chiaki Riko|Infobox}}\n\n{{Description\n| en =A younger sister to all magical girls, she is a magical girl with a sisterly presence.<br />Every day, she acts as the mascot of her home’s bento shop, attracting customers and warming their hearts. While she may seem to be nothing more than an innocent elementary school student,<br />she doesn’t forget to have concern for the adults around her, and is an admirable go-getter.\n| jp = お姉さん魔法少女たち全員の、妹的存在の魔法少女。<br />普段は、家のお弁当屋さんの看板娘として、お客さんの心を和ませている。小学生らしい無邪気さを持ちながらも、<br />周りの大人たちへの気遣いも忘れない、健気な頑張り屋さん。\n}}\n\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "mdelk8jrqhh7b0ukjbl6barkcpk1j7w"
+         }
+      },
+      {
+         "title": "Akemi Homura (Mizugi ver.)",
+         "ns": "0",
+         "id": "10609",
+         "revision": {
+            "id": "31935",
+            "parentid": "31912",
+            "timestamp": "2018-10-25T01:13:44Z",
+            "contributor": {
+               "username": "StygianGrey",
+               "id": "34227103"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "741",
+               "#text": "{{Akemi Homura (Mizugi ver.)|Infobox}}\n\n{{Description\n| en = A magical girl who enjoys summer vacation with friends. Her outfit looks like an ordinary swimsuit, but it is a magical girl's costume with a fishing rod as the weapon. She doesn't have much sense of fishing, but when it's for her companions, she will make her effort to catch any big thing.\n| jp = 友だちと一緒に夏休みを謳歌する魔法少女。普通の水着のように見えるが、魔法少女の衣装であり釣り竿が武器。釣りのセンスはあまりないが、仲間のためになると、どんな大物でも釣り上げる力を発揮する。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Has a Doppel]]\n[[Category:Limited]]"
+            },
+            "sha1": "4gxwub7yyjgwkdfxhnsor7wmena9xod"
+         }
+      },
+      {
+         "title": "Tamaki Iroha (Mizugi ver.)",
+         "ns": "0",
+         "id": "11043",
+         "revision": {
+            "id": "32705",
+            "parentid": "31934",
+            "timestamp": "2018-11-12T05:47:27Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "779",
+               "#text": "{{Tamaki Iroha (Mizugi ver.)|Infobox}}\n{{Description\n| en = A magical girl who enjoys summer vacation with friends. This swimsuit is a magical girl's costume and is ready for a fight at any time. However, because she is not good at swimming, she prepares a swim ring as a weapon for battles in water. In case of emergency, it is also possible for her to escape by rotating the swim ring like a screw.\n| jp = 友だちと一緒に夏休みを謳歌する魔法少女。この水着は魔法少女の衣装でありいつでも戦闘が可能。だが泳ぐのが苦手なので、水中戦に備えて浮き輪を武器にしている。緊急時は浮き輪をスクリューのように回転させて離脱も可能。\n}}\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Limited]]"
+            },
+            "sha1": "pii4h7emk64m834cjd7dgod8qegfcpo"
+         }
+      },
+      {
+         "title": "Ultimate Madoka",
+         "ns": "0",
+         "id": "11131",
+         "revision": {
+            "id": "34343",
+            "parentid": "31933",
+            "timestamp": "2019-01-06T20:07:50Z",
+            "contributor": {
+               "username": "Vakiadia",
+               "id": "34381114"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "735",
+               "#text": "{{Ultimate Madoka|Infobox}}\n\n{{Description\n| en = The Goddess keeping watch over magical girls from past to future and from the present to the other side of the universe. She, who is omniscient, knows all the magical girls and blesses them. However, she found a magical girl she does not know for the first time in her life.\n| jp = 過去と未来と現在から遍く宇宙の向こうまで、魔法少女たちを見守り続ける女神様。全ての魔法少女たちを知り尽くして祝福を授ける彼女には、知らないことは何もない。しかし彼女は、生まれてはじめて知らない魔法少女を見つけてしまった。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Limited]]"
+            },
+            "sha1": "f9fycutdmbt05wj5jvacixo2kzatmm8"
+         }
+      },
+      {
+         "title": "Akemi Homura",
+         "ns": "0",
+         "id": "11298",
+         "revision": {
+            "id": "36508",
+            "parentid": "34776",
+            "timestamp": "2019-04-11T04:36:56Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "796",
+               "#text": "{{Akemi Homura|Infobox}}\n\n{{Description\n| en =  A mysterious magical girl who transferred to [[Kaname Madoka]]'s class.<br />In order to save Madoka from her despairing destiny, she repeats the same period,<br />aiming at defeating 'Walpurgisnacht' without anyone's help.<br />She belongs to a different timeline than the Homura headed to Kamihama City.\n| jp = 鹿目まどかのクラスに転校してきた、謎めいた魔法少女。<br />まどかを絶望の運命から救うため、同じ時を繰り返し、<br />誰にも頼ることなく「ワルプルギスの夜」の打倒を目指す。<br />神浜市に向かった暁美ほむらとは異なる時間軸に属している。\n}}\n\n{{Tabs}}\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Has a Doppel]]\n[[Category:Limited]]"
+            },
+            "sha1": "er7330swak77mzssfakudnevm7clzhi"
+         }
+      },
+      {
+         "title": "Rumor of the Working Bear",
+         "ns": "0",
+         "id": "11691",
+         "revision": {
+            "id": "43847",
+            "parentid": "43791",
+            "timestamp": "2019-09-10T03:52:18Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1507",
+               "#text": "{{WitchInfo\n| Jname = 働きグマのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 7009\n| Drop = Bear's Ruff\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Worker Bears, and the rumor thereof!<br />From a wide variety of repairs to daintily tending the gardens, they can take care of any odd job you can name!<br />The way their heads have plopped onto the ground is a sign that their knowledge and experience are as ripe as can be, and it’s proof that they’re senior staff members of the castle!<br />If anything needs doing, they’ll triumphantly pop into view… but they might start squabbling over who gets to do the work. It’s a rumor that ALL the Feathers are talking about.<br />Giiive meee wooork!\n| jp = アラもう聞いた？誰から聞いた？<br />働きグマのそのウワサ<br />色んなモノの修理からお庭の細かなテイレまで、雑務があれば何でもオマカセ！<br />ポトリと落ちた生首姿は、知識も経験も熟した証拠で、お城で古参のアカシ！<br />何かあったら揚々として、パパッと姿を現わすけれど<br />仕事の奪い合いが始まっちゃうって、羽根たちの間ではもっぱらのうわさ<br />ギブミーワーク！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Soldier Bear]]\n* [[Rumor of the Queen Bear]]\n\n==Trivia==\n[[Category:Characters]]"
+            },
+            "sha1": "3uuc9lmjnssf7kp2fqr0vbqjsv2le3t"
+         }
+      },
+      {
+         "title": "Sengoku Nadeko",
+         "ns": "0",
+         "id": "11768",
+         "revision": {
+            "id": "34337",
+            "parentid": "31932",
+            "timestamp": "2019-01-06T10:13:05Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "788",
+               "#text": "{{Sengoku Nadeko|Infobox}}\n\n{{Description\n| en = The prostrating magical girl. One of the 'what if' forms... of the heroines of the ''Monogatari'' series if they became magical girls. She fights with landmines while crawling because of her extremely timid personality, yet often carelessly steps on them herself. Her wish was \"I don't want anyone to see me.\"\n| jp = 俯伏の魔法少女。もしも〈物語〉シリーズのヒロインたちが魔法少女になったら…という「if」の姿。極度に人見知りな性格で匍匐前進しつつ地雷を使用して戦うが、うっかり自分で踏んでしまうことも多い。願いごとは「人に見られたくない」。\n}}\n\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Limited]]\n[[Category:Madogatari Girls]]"
+            },
+            "sha1": "5bpir0gk2pz5krue0pxcmookt5be20q"
+         }
+      },
+      {
+         "title": "Senjougahara Hitagi",
+         "ns": "0",
+         "id": "11765",
+         "revision": {
+            "id": "40700",
+            "parentid": "36342",
+            "timestamp": "2019-07-20T19:43:01Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "836",
+               "#text": "{{Senjougahara Hitagi|Infobox}}\n\n{{Description\n| en = A gravitational magical girl. One of the 'what if' forms... of the heroines of the Monogatari series if they became magical girls. She seizes the weight of the object attacked by her hammer. The more she seizes, the more massive her hammer grows and is strengthened. Her wish was \"Please grant me memories.\"\n| jp = 重力の魔法少女。もしも〈物語〉シリーズのヒロインたちが魔法少女になったら…という「if」の姿。ハンマーで攻撃した物体の重さを奪い、奪えば奪うほどハンマーは重さを増し、強化される。願いごとは「思い出をください」。\n}}\n\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Madogatari Girls]]\n[[Category:Has a Doppel]]\n[[Category:Doppel Lore Translation Needed]]\n[[Category:Uncapped]]"
+            },
+            "sha1": "bn7m459xw4gptr8s0yyvgs7sf6kq0q8"
+         }
+      },
+      {
+         "title": "Momoe Nagisa",
+         "ns": "0",
+         "id": "12195",
+         "revision": {
+            "id": "33565",
+            "parentid": "32704",
+            "timestamp": "2018-12-12T01:17:06Z",
+            "contributor": {
+               "username": "Silvermoon424",
+               "id": "26948149"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "757",
+               "#text": "{{Momoe Nagisa|Infobox}}\n\n{{Description\n|jp = かつて希望を運び、いつか呪いを振りまいた者。やがて「円環の理」に導かれ、今はその使者となって神浜へと舞い降りた。チーズに対して強い執着を持ち、使命があるにも関わらず、ふとした拍子で頭の中はチーズでいっぱいになってしまう。\n|en = She once wielded hope, and spread curses sometime. Before long she was guided off by the Law of Cycles, and now descends upon Kamihama as its emissary. She has a strong obsession for cheese, and regardless of her duties, her mind is constantly filled with thoughts of cheese.\n}}\n\n{{Tabs}}\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Limited]]\n[[Category:Has a Doppel]]"
+            },
+            "sha1": "n4wbwhti1tx1j97hnbl88p90u0sho6d"
+         }
+      },
+      {
+         "title": "Makino Ikumi",
+         "ns": "0",
+         "id": "12441",
+         "revision": {
+            "id": "34327",
+            "parentid": "33566",
+            "timestamp": "2019-01-06T07:53:18Z",
+            "contributor": {
+               "username": "Thefrozenfish",
+               "id": "24425242"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "467",
+               "#text": "{{Makino Ikumi|Infobox}}\n\n{{Description\n| en = \n| jp = いつ如何なるときも可愛くいたい、ぶりっ子魔法少女。日頃はメイド喫茶でメイドさんとして働き、思う存分キュンキュンビームを炸裂させている。しかし、センスがやや古臭いせいか、意図せずコミカルキャラを確立してしまっている。\n}}\n\n{{Tabs}}\n[[Category:Unlimited]]\n[[Category:Wings of Magius]]\n[[Category:Has a Doppel]]"
+            },
+            "sha1": "cqmwiinsuctcs0uubas72ntuoc3far3"
+         }
+      },
+      {
+         "title": "Midori Ryou",
+         "ns": "0",
+         "id": "12443",
+         "revision": {
+            "id": "34328",
+            "parentid": "33206",
+            "timestamp": "2019-01-06T07:53:31Z",
+            "contributor": {
+               "username": "Thefrozenfish",
+               "id": "24425242"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "452",
+               "#text": "{{Midori Ryou|Infobox}}\n\n{{Description\n| en = \n| jp = 善悪関係なく全てを撮って伝える、ゴシップ生成魔法少女。学校の問題から俗っぽい生徒間のネタまで収集するので、恐れられているが、同時に皆を楽しませている。実は趣味で撮っている“今日のにゃんこ”が、生徒には一番人気があるらしい。\n}}\n\n{{Tabs}}\n[[Category:Unlimited]]\n[[Category:Wings of Magius]]"
+            },
+            "sha1": "qqgoz4hubdtc8dh05vvpw92abotjd2i"
+         }
+      },
+      {
+         "title": "Hachikuji Mayoi",
+         "ns": "0",
+         "id": "12814",
+         "revision": {
+            "id": "34335",
+            "parentid": "33567",
+            "timestamp": "2019-01-06T10:11:53Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "802",
+               "#text": "{{Hachikuji Mayoi|Infobox}}\n\n{{Description\n| en = The labyrinthine magical girl.  One of the 'what if' forms... of the heroines of the ''Monogatari'' series if they became magical girls. Being excellent in defense, attacks from her enemies miss her as if they had gotten lost. Somehow, she can never reach her mother's home by any means. Her wish was \"I want to return home.\"\n| jp = 迷宮の魔法少女。もしも〈物語〉シリーズのヒロインたちが魔法少女になったら…という「if」の姿。防御に秀で、敵の攻撃は道に迷ったように彼女を避ける。なぜか、どうしても母親の家に辿り着けないでいる。願いごとは「家に帰りたい」。\n}}\n\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Has a Doppel]]\n[[Category:Madogatari Girls]]"
+            },
+            "sha1": "4yk3egvn18lekde62mskcnb0qto0pyw"
+         }
+      },
+      {
+         "title": "Hanekawa Tsubasa",
+         "ns": "0",
+         "id": "12858",
+         "revision": {
+            "id": "34336",
+            "parentid": "33568",
+            "timestamp": "2019-01-06T10:12:41Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "781",
+               "#text": "{{Hanekawa Tsubasa|Infobox}}\n\n{{Description\n| en = The memorial magical girl. One of the 'what if' forms... of the heroines of the ''Monogatari'' series if they became magical girls. She lost her memories when she burnt something with a flame bottle, but her top brain in her grade is constantly storing new memories. Her wish was \"I want to forget all\".\n| jp = 記憶の魔法少女。もしも〈物語〉シリーズのヒロインたちが魔法少女になったら…という「if」の姿。火炎瓶で何かを燃やすたびに記憶を失うが、学年トップの頭脳は常に新しい記憶を蓄積し続けている。願いごとは「全部忘れてしまいたい」。\n}}\n\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Has a Doppel]]\n[[Category:Madogatari Girls]]"
+            },
+            "sha1": "4o0qnzvm3wr1bjxag3cfkngv1g4gydf"
+         }
+      },
+      {
+         "title": "Holy Alina",
+         "ns": "0",
+         "id": "12897",
+         "revision": {
+            "id": "34433",
+            "parentid": "33781",
+            "timestamp": "2019-01-08T12:07:42Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "768",
+               "#text": "{{Holy Alina|Infobox}}\n\n{{Description\n| en = A Magical Girl who attempts to express themes that lie in the foundation of humanity in her artwork. In order to obtain the energy she needs, she warms freezing people, then takes their lives as compensation. At the same time, she creates death masks of her victims as just another creative outlet.\n| jp = 人類の根底宿ったテーマを自身のアートとして表現しようとしている魔法少女。 必要なエネルギーを得るために、凍えている人を温めては、代償として寿命を奪う。 同時に対象のデスマスクを作成するが、直接関係のない芸術活動でしかない。\n}}\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Wings of Magius]]\n[[Category:Limited]]"
+            },
+            "sha1": "87b7tvfuop9pfbesfwt0dx3nlu817hp"
+         }
+      },
+      {
+         "title": "Yakumo Mitama (Haregi ver.)",
+         "ns": "0",
+         "id": "13293",
+         "revision": {
+            "id": "41849",
+            "parentid": "34785",
+            "timestamp": "2019-08-14T16:11:15Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "slightly questionable TL removed",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "446",
+               "#text": "{{Yakumo Mitama (Haregi ver.)|Infobox}}\n{{Description\n| en = \n| jp = 新年早々遊びに商売に精を出す魔法少女。やちよに借りた着物がお気に入りで、試しにソウルジェムを調整して魔法少女の力を着物に込めたところ、そのままの姿で戦えるようになった。武器のかるたで、お手付きした敵を直接攻める。\n}}\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Has a Doppel]]"
+            },
+            "sha1": "czb0pnamg5366wb48wgadip0q6hoxhn"
+         }
+      },
+      {
+         "title": "Kanbaru Suruga",
+         "ns": "0",
+         "id": "13776",
+         "revision": {
+            "id": "36511",
+            "parentid": "36484",
+            "timestamp": "2019-04-11T06:20:15Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Removed the Doppel Lore Translation Needed tag.",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "862",
+               "#text": "{{Kanbaru Suruga|Infobox}}\n\n{{Description\n| en = A pioneer magical girl. One of the 'what if' forms... of the heroines of the ''Monogatari'' series if they became magical girls. She is fused with her motorbike after her transformation. Although she is the star who led Naoetsu High School's basketball club to the national tournament, she makes dangerous comments and actions frequently. Her wish was \"I want to be faster than anyone\".\n| jp = 先駆の魔法少女。もしも〈物語〉シリーズのヒロインたちが魔法少女になったら…という「if」の姿。変身時はバイクと一体化。直江津高校バスケ部を全国大会へ導いたスターだが、きわどい言動が多い。願いごとは「誰よりも速く走りたい」。\n}}\n\n{{Tabs}}\n[[Category:Madogatari Girls]]\n[[Category:Has a Doppel]]\n[[Category:Limited]]"
+            },
+            "sha1": "dj261htsafa3lo49gjo04jtajc224hk"
+         }
+      },
+      {
+         "title": "Oshino Shinobu",
+         "ns": "0",
+         "id": "13914",
+         "revision": {
+            "id": "43039",
+            "parentid": "36485",
+            "timestamp": "2019-08-29T21:20:47Z",
+            "contributor": {
+               "username": "Avidius",
+               "id": "40211112"
+            },
+            "comment": "Grammar changes for English translation of biography",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "854",
+               "#text": "{{Oshino Shinobu|Infobox}}\n\n{{Description\n| en = An undying magical girl. One of the 'what if' forms... of the heroines of the ''Monogatari'' series if they became magical girls. As a legendary magical girl, she wished \"I want to die\" and became a magical girl, but in reverse, her life span has been extended for the prey she has hunts has became her nutrition. She loves donuts.\n| jp = 不死の魔法少女。もしも〈物語〉シリーズのヒロインたちが魔法少女になったら…という「if」の姿。伝説の吸血鬼であり、「死にたい」と願って魔法少女になったが、狩った獲物が養分となり、逆に寿命が延びてしまっている。好物はドーナツ。\n}}\n\n{{Tabs}}\n[[Category:Madogatari Girls]]\n[[Category:Limited]]\n[[Category:Has a Doppel]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "l6iu3s7gx61f0tql5nk80ywhn8f5tnt"
+         }
+      },
+      {
+         "title": "Holy Alina (Final Form)",
+         "ns": "0",
+         "id": "14186",
+         "revision": {
+            "id": "41646",
+            "parentid": "35648",
+            "timestamp": "2019-08-13T09:12:02Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "103",
+               "#text": "{{Holy Alina (Final Form)|Infobox}}\n\n{{Description\n| en = \n| jp = \n}}\n\n{{Tabs}}\n[[Category:Unreleased]]"
+            },
+            "sha1": "5a45yzhxkchw78y6v3i4d2bvz1m32bo"
+         }
+      },
+      {
+         "title": "Rumor of the Ten-Thousand-Year Sakura",
+         "ns": "0",
+         "id": "14238",
+         "revision": {
+            "id": "36483",
+            "parentid": "36434",
+            "timestamp": "2019-04-10T00:55:14Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "811",
+               "#text": "{{Rumor of the Ten-Thousand-Year Sakura|Infobox}}\n\n{{Description\n| en = The rumor that four girls went to her place where they awaited the blooming of cherry blossoms. With the adjustment to her content and the introduction of modern technologies, now she can also go out for activities, despite that she can be regarded as a weirdo lacking common sense. She has always longing to go back to the one who loves mountains.\n| jp = ４人の少女が自分の所に訪れて、満開の花を咲かせることを待ち望んでいたウワサ。現在は内容の調整と現代技術の応用によって外でも活動しているが、常識が欠けており特異な人物として見られている。いつも山か大好きな人の所に帰りたい。\n}}\n\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Rumor]]"
+            },
+            "sha1": "smmh75i93apoo77lsjua1q3f0uf6291"
+         }
+      },
+      {
+         "title": "Iroha-chan",
+         "ns": "0",
+         "id": "14633",
+         "revision": {
+            "id": "37717",
+            "parentid": "36867",
+            "timestamp": "2019-06-06T05:54:59Z",
+            "contributor": {
+               "username": "T2stonerain",
+               "id": "35191310"
+            },
+            "minor": null,
+            "comment": "Flavor translation",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "780",
+               "#text": "{{Iroha-chan|Infobox}}\n{{Description\n| en =A magical girl of Kamihama, always chasing down the latest news to promote the wonders of MagiReco. Madoka Senpai's antics has trained her, and she even has developed some face gags. Also, her luck on the gacha is abysmal, making her cry out in frustration from not being able to pull a 4 star. \n| jp = マギレコの魅力をお届けするべく、常に最新情報を追い続けている神浜市の魔法少女。まどか先輩に振り回される中で成長し、今となっては顔芸も達者になった。またプレイヤーきっての引き弱で、いつも★４が手に入らずにもだえている。\n}}\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Characters]]\n[[Category:Limited]]\n[[Category:Magirepo Girls]]"
+            },
+            "sha1": "jikkn8idrv0mx9t4xcavqzsovdxsr6f"
+         }
+      },
+      {
+         "title": "Felicia-chan",
+         "ns": "0",
+         "id": "14674",
+         "revision": {
+            "id": "37718",
+            "parentid": "36869",
+            "timestamp": "2019-06-06T06:00:49Z",
+            "contributor": {
+               "username": "T2stonerain",
+               "id": "35191310"
+            },
+            "minor": null,
+            "comment": "Flavor translation",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "753",
+               "#text": "{{Felicia-chan|Infobox}}\n{{Description\n| en =A magical girl that lives with Iroha-chan et al. in the MagiRepo universe. At times she thrashes like a rabid dog, some other times she goes undercover in a disguise, and some other times appear as a beautiful girl, but she is often found staring at butterflies aloofly with her round mouth wide open. \n| jp = マギレポ世界の中でいろはちゃんたちと一緒に暮らしている魔法少女。時に狂犬として暴れ、時に変装して潜伏し、時に美少女として現れることもあるが、ボーっとしながら丸いお口を開けて、チョウチョを眺めていることも多い。\n}}\n{{Tabs}}\n[[Category:Puella Magi]]\n[[Category:Limited]]\n[[Category:Magirepo Girls]]"
+            },
+            "sha1": "4i6z2bfa6fjm84bpvlc70nlfnn5z6t8"
+         }
+      },
+      {
+         "title": "Tamaki Ui",
+         "ns": "0",
+         "id": "6676",
+         "revision": {
+            "id": "37392",
+            "parentid": "37387",
+            "timestamp": "2019-05-12T09:28:10Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "854",
+               "#text": "{{Tamaki Ui|Infobox}}\n{{Description\n| en =A Magical Girl who's always lost in her own head about what she can do to be happy. She grew up without learning of the outside world, and is a newbie Magical Girl- thus, she does her best in order to not lose to those around her. She's good at finding the good points in everyone and doesn't have any bad personality traits. She's the childhood friend of Touka and Nemu, as well as Iroha's younger sister. \n| jp = 幸せのために何ができるのか迷い続ける魔法少女。外を知らずに育ち、魔法少女としても初心者なので、周りに負けないように努力を続けている。相手の良い面を見つけるのが上手で、人を嫌いになることがない。灯花＆ねむの幼馴染でいろはの妹。\n}}\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Unlimited]]"
+            },
+            "sha1": "lfirftlz1b41gh1bnz3aei51ellrx3t"
+         }
+      },
+      {
+         "title": "Sarasa Hanna",
+         "ns": "0",
+         "id": "15077",
+         "revision": {
+            "id": "45323",
+            "parentid": "40074",
+            "timestamp": "2019-09-20T20:33:09Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "492",
+               "#text": "{{Sarasa Hanna|Infobox}}\n{{Description\n| en = \n| jp = 本来は内向的で人と接するのが苦手な魔法少女。家庭、学校において虐げられる立場に置かれてしまい、この世を憎んでいる。契約後、ある事件に遭遇してから、さらに数奇な運命を辿る。エキセントリックな性格だが、動物が好きという一面も。\n}}\n{{Tabs}}\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "tty24vmlbn9ornh8fm77rz3wola4ng3"
+         }
+      },
+      {
+         "title": "Elisa Celjska",
+         "ns": "0",
+         "id": "15147",
+         "revision": {
+            "id": "45325",
+            "parentid": "40049",
+            "timestamp": "2019-09-20T20:34:28Z",
+            "contributor": {
+               "username": "StellaTheSheep",
+               "id": "26479216"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "613",
+               "#text": "{{Elisa Celjska|Infobox}}\n{{Description\n| en = \n| jp = 名門ドラゴン騎士団に所属する中世の魔法少女。フランス王の戴冠に助力すべくタルトたちと合流した。神聖ローマ皇帝の妃の娘であり、気位が高いが、自身の認めた相手には厚い友情で応える。キューブ（キュゥべえ）を蛇蝎のごとく嫌っている。\n}}\n{{Tabs}}<onlyinclude>\n[[Category:Puella Magi]]<\/onlyinclude><onlyinclude>\n[[Category:Characters]]<\/onlyinclude>\n[[Category:Puella Magi Tart Magica]]\n[[Category:Has a Doppel]]\n[[Category:Doppel Lore Translation Needed]]"
+            },
+            "sha1": "mbkuw2o5i6iw1ifn4vwf6sh09r5u1y6"
+         }
+      },
+      {
+         "title": "Takamachi Nanoha",
+         "ns": "0",
+         "id": "15229",
+         "revision": {
+            "id": "50550",
+            "parentid": "40714",
+            "timestamp": "2019-11-13T18:42:41Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "443",
+               "#text": "{{Takamachi Nanoha|Infobox}}\n{{Description\n|en= \n|jp= 私立聖祥大附属小学校に通う、まっすぐな心の魔法少女。稀有な魔法の天性を持ち、「時空管理局」の空戦魔導師として次元犯罪の取り締まりにあたっている。その手で救える人々を救うため、今日も空を駆ける。左利き。\n}}\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Nanoha Girls]]\n[[Category:Regional Content]]"
+            },
+            "sha1": "o3t1yk94z4zdwl1gb4e52a9lrnz7uhf"
+         }
+      },
+      {
+         "title": "Yagami Hayate",
+         "ns": "0",
+         "id": "15292",
+         "revision": {
+            "id": "50739",
+            "parentid": "40716",
+            "timestamp": "2019-11-17T19:24:54Z",
+            "contributor": {
+               "username": "ShadowFoxy40",
+               "id": "37051380"
+            },
+            "comment": "Added Hayate’s description from the English version",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "738",
+               "#text": "{{Yagami Hayate|Infobox}}\n{{Description\n|en=A Magical Girl who was chosen to become the Mistress of the Night Sky. She was saved by Nanoha after becoming a victim of a space crime. Hayate eventually became a Mage Knight for the Administrative Bureau. She now fights crime with the guardian knights, and is also a talented cook. \n|jp= 私立聖祥大附属小学校に通う、朗らかで家庭的な魔法少女。古代の魔導書「夜天の書」の主に選ばれ、次元犯罪に巻き込まれたが、なのはたちに救われた。その後「時空管理局」の魔導騎士となり、守護騎士らとともに事件に立ち向かう。料理はギガうま。\n}}\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Nanoha Girls]]"
+            },
+            "sha1": "hgihhewxn3yyhcui3dl7j2urnqstfcy"
+         }
+      },
+      {
+         "title": "Fate T. Harlaown",
+         "ns": "0",
+         "id": "15412",
+         "revision": {
+            "id": "40715",
+            "parentid": "38140",
+            "timestamp": "2019-07-22T04:16:24Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "440",
+               "#text": "{{Fate T. Harlaown|Infobox}}\n{{Description\n|en= \n|jp= 私立聖祥大附属小学校に通う、物静かで優しい魔法少女。異世界ミッドチルダの出身で、スピードを活かした一撃離脱が得意。母親が起こした事件でなのはと衝突したが、現在は同じ「時空管理局」の空戦魔導師を務める。シャンプーが苦手。\n}}\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Nanoha Girls]]"
+            },
+            "sha1": "m5jto6opamo1ukvbi7724r6adahpe7x"
+         }
+      },
+      {
+         "title": "Amane Sisters (Mizugi ver.)",
+         "ns": "0",
+         "id": "15486",
+         "revision": {
+            "id": "41078",
+            "parentid": "38478",
+            "timestamp": "2019-08-01T21:42:34Z",
+            "contributor": {
+               "username": "TheRival13",
+               "id": "34931738"
+            },
+            "comment": "Translated Description",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "746",
+               "#text": "{{Amane Sisters (Mizugi ver.)|Infobox}}\n{{Description\n| en =A pair of Magical Girl twins enjoying summer vacation.\n\nUsing the Banana Boat and water pistols to fight, they display a flawless combination in battle. Since they're taking a break from their activites as the Wings of Magius and the matters of their houses, their vacation at the beach is a secret to everyone. \n| jp =夏休みを謳歌する双子の魔法少女。\n\nバナナボートと水鉄砲を駆使して戦いながら、息ぴったりのコンビネーションを発揮する。家のことやマギウスの翼の活動は都合をつけて休んでいるので、海で遊んでいることは周りに秘密。\n}}\n{{Tabs}}\n[[Category:Has a Doppel]]\n[[Category:Limited]]"
+            },
+            "sha1": "11va2s9a1pavohhlymeusbcemgtl3la"
+         }
+      },
+      {
+         "title": "Minou",
+         "ns": "0",
+         "id": "16576",
+         "revision": {
+            "id": "42840",
+            "parentid": "42839",
+            "timestamp": "2019-08-28T10:18:56Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Changed Not Obtainable to Not Released as character has an ID number, is not silhouetted and there for maybe released in the future.",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "228",
+               "#text": "{{Character/Infobox|name = Minou|element = Light|name_na = Minou|school_jp = ―|designer_jp = 枡狐/蛙空|id = 4024|name_jp = ミヌゥ|event_limit = Not Released}}\n[[Category:Puella Magi Tart Magica]]\n[[Category:Unreleased]]"
+            },
+            "sha1": "dimoubvtksx8kumbhh02csgp68jturf"
+         }
+      },
+      {
+         "title": "Lapine",
+         "ns": "0",
+         "id": "16577",
+         "revision": {
+            "id": "42838",
+            "parentid": "42828",
+            "timestamp": "2019-08-28T10:14:19Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "230",
+               "#text": "{{Character/Infobox|name = Lapine|name_jp = ラピヌ|name_na = Lapine|school_jp = ―|designer_jp = 枡狐/蛙空|id = 4027|element = Flame|event_limit = Not Released}}\n[[Category:Puella Magi Tart Magica]]\n[[Category:Unreleased]]"
+            },
+            "sha1": "ru1gwdntodltct8b8bz9yt3v27rafkx"
+         }
+      },
+      {
+         "title": "Sakura Kyouko (Mizugi ver.)",
+         "ns": "0",
+         "id": "16890",
+         "revision": {
+            "id": "40962",
+            "parentid": "40934",
+            "timestamp": "2019-07-29T08:35:45Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "455",
+               "#text": "{{Sakura Kyouko (Mizugi ver.)|Infobox}}\n{{Description\n| en = \n| jp = 夏の海を謳歌する魔法少女。普段は泳げないが、この姿なら自由自在に泳ぐことができ、魚を捕まえるのもお手の物。魔法少女としての戦闘力も健在で、炎をまとったビーチボールは敵を焼き払う。天敵はみたま。\n}}\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Puella Magi Madoka Magica]]\n[[Category:Has a Doppel]]"
+            },
+            "sha1": "54xbvaof7i2opc2x9xz71d2zenn70k1"
+         }
+      },
+      {
+         "title": "Hiroe Chiharu",
+         "ns": "0",
+         "id": "17244",
+         "revision": {
+            "id": "50396",
+            "parentid": "49278",
+            "timestamp": "2019-11-11T11:14:24Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "857",
+               "#text": "{{Hiroe Chiharu|Infobox}}\n{{Description\n| en =A magical girl with a keen sense of smell that belongs to the Tokime clan. She went with her mother to the Tokime village to learn about her bloodline. She's reckless, with a strong sense of justice and a keen nose for evil doings, but in a place with so many incidents and evil going on it could be futile. \n| jp = 時女一族に所属する嗅覚が鋭い魔法少女。母親と共に時女集落に行き自身の血脈を知った。無鉄砲で正義感が強く、悪意に対する嗅覚も鋭いが、事件や悪意が多い場所では、混ざってしまって役に立たない。宿無し探偵、等々力耕一が好き。\n}}\n{{Tabs}}\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Doppel Lore Translation Needed]]\n[[Category:Spirit Enhancement Unlocked]]\n[[Category:Tokime Clan]]"
+            },
+            "sha1": "clc4zvj66vga73b2olb1clr9y63pd5e"
+         }
+      },
+      {
+         "title": "Yumeno Yuusa",
+         "ns": "0",
+         "id": "17320",
+         "revision": {
+            "id": "41649",
+            "parentid": "41644",
+            "timestamp": "2019-08-13T09:13:15Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "2850",
+               "#text": "{{Character/Infobox|name = Yumeno Yuusa|name_jp = ゆめのゆうさ|name_na = Yuusa Yumeno|event_limit = Not Obtainable}}\n<!-- removed spoiler info copied from elsewhere. This would be more appropriate translated correctly for Nagisa or added to trivia page if/when Yuu is ever released\n== Summary ==\nShe is the first magical girl met by Nagisa in the Magia Record timeline and is regarded as an irregular magical girl by Kyubey. Yuu is first mentioned in the dialogue between Kyubey and Inui, where she was referred to as the \"Sleepwalking Ghost\", who reached Kamihama to kill bad people. Inui is worried when she heard that the boy she loves is one of the people of the list, so she asked Kyubey to find information on this mysterious magical girl.\n\nWhen Nagisa was coming back at home, she was caught into a witch barrier and was attacked by an Anthony (Gertrud's familiar), but she was saved by Yuu herself, who easily killed the familiar. Nagisa thanked her and asked Yuu to train herself when she becomes a magical girl, but Yuu replied that she isn't a good teacher and she had lost all the memories of the period before she became a magical girl. Yuu also said that if she didn't have her list, she wouldn't have been able to distinguish good from evil. Yuu asked Nagisa her surname and checked her on the list, finding that she isn't there, meaning she must be a good person. However, she found another Momoe on the list, who was later revealed to be Nagisa's mom.\n\nInui was later able to find Yuu and challenged her to a fight. However, Yuu was too powerful for her, and Inui was seriously wounded by the mysterious magical girl. Inui then asked Kyubey to kill her, so she wouldn't turn into a witch, but the Incubator refused, telling her that she was finally useful in the end. After the magical girl turned into a witch, Kyubey itself said that she had become much stronger than its expectations. Uhrmann (Inui's witch form) was about to engulf an hospital and absorb the energy of the people inside it, but Nagisa (who had become a magical girl in the meantime) challenged her, but the witch was too powerful for her. When Nagisa was about to be killed by Uhrmann, Yuu came out and easily defeated the witch, entrusting the little girl to Kyubey.\n\nWhen Nagisa woke up, she discovered by Kyubey that Yuu went to the hospital to kill Nagisa's mother. She hurried up and reached her mother's hospital room. There, she discovered that Yuu had already mortally wounded her mother, whom was about to die. The \"Sleepwalking Ghost\" told Nagisa that she was about to extract the organs from Nagisa's mother to sell them, but since the dying person is her mother, the little girl can hold her mother corpse. After this, Yuu said that she will always be on Nagisa's side and, in case of need, she will come to help her.-->\n[[Category:Unreleased]]"
+            },
+            "sha1": "eb20mzb7x715d9ufvsogepkk472cymr"
+         }
+      },
+      {
+         "title": "Itsumi Inui",
+         "ns": "0",
+         "id": "17321",
+         "revision": {
+            "id": "41650",
+            "parentid": "41645",
+            "timestamp": "2019-08-13T09:13:22Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "144",
+               "#text": "{{Character/Infobox|name = Itsumi Inui|name_jp = 伊津見いぬい|name_na = Inui Itsumi|event_limit = Not Obtainable}}\n[[Category:Unreleased]]"
+            },
+            "sha1": "gy58v96spcrmuk97iirzzg0i99x6eff"
+         }
+      },
+      {
+         "title": "Iroha & Yachiyo (Final Battle ver.)",
+         "ns": "0",
+         "id": "17513",
+         "revision": {
+            "id": "45175",
+            "parentid": "43324",
+            "timestamp": "2019-09-18T11:00:46Z",
+            "contributor": {
+               "username": "TheRival13",
+               "id": "34931738"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "792",
+               "#text": "{{Iroha & Yachiyo (Final Battle ver.)|Infobox}}\n{{Description\n| en =Magical girls who temporarily regained the power that supported their backs when they once fought against a powerful witch. During their first encounter they were enemies, but their actions together brought them together as friends and they're bound by a connection that can never be cut. The wings appear only for a moment, when they're at full power. \n| jp = かつて強大な魔女と戦った際に背中を支えてくれた力を、一時的に手に入れた魔法少女。出会いこそ敵同士だったが、共に行動をする中で親密になり、いつしか切っても切れない絆で結ばれていた。羽は力を宿した瞬間など、一瞬しか現れない。\n}}\n{{Tabs}}\n[[Category:Limited]]"
+            },
+            "sha1": "1t0m2qsxbq4n6tmeprqk99j8915ia71"
+         }
+      },
+      {
+         "title": "Tokime Shizuka",
+         "ns": "0",
+         "id": "17722",
+         "revision": {
+            "id": "50668",
+            "parentid": "46618",
+            "timestamp": "2019-11-16T06:18:52Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "161",
+               "#text": "{{Character/Infobox|designer_jp = 蒼樹うめ|id = 1025|event_limit = Not Released|name_jp = 時女 静香|voice_actor_jp = 内田秀}}\n[[Category:Tokime Clan]]"
+            },
+            "sha1": "0pcdaqnxdhqeggri2jg9ye7kuz75njx"
+         }
+      },
+      {
+         "title": "Toki Sunao",
+         "ns": "0",
+         "id": "17723",
+         "revision": {
+            "id": "50395",
+            "parentid": "50208",
+            "timestamp": "2019-11-11T11:14:04Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "498",
+               "#text": "{{Toki Sunao|Infobox}}\n\n{{Description\n|en=\n|jp=時女一族に所属する暗殺者だった魔法少女。心配性で思いやりがあり聞き上手。村や集落では大人から非常に愛されており、年下からはお姉さんとして甘えられている。今も過去の自分に苦しめられており、時々暗い影を見せることがある。\n}}\n{{Tabs}}\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Spirit Enhancement Unlocked]]\n[[Category:Tokime Clan]]"
+            },
+            "sha1": "4xcyoetyfe84e8r038bt1rotxr46q0i"
+         }
+      },
+      {
+         "title": "Nanase Yukika",
+         "ns": "0",
+         "id": "18508",
+         "revision": {
+            "id": "49280",
+            "parentid": "45114",
+            "timestamp": "2019-10-30T20:13:18Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "529",
+               "#text": "{{Nanase Yukika|Infobox}}\n\n{{Description\n|en=\n|jp=幼い頃から敷かれたレールを踏み外さないで生きてきた魔法少女。お嬢様育ちで何事もそつなくこなすが、周囲が才媛揃いのため自己評価は極めて低い。退屈な日常に飽きあきしていたが、魔法少女になってからは一転、トラブルに巻き込まれてばかりいる。\n}}\n{{Tabs}}\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Wings of Magius]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "njkjosmlas0uk2ocs7jdgpcfhe63zvz"
+         }
+      },
+      {
+         "title": "Kirari Hikaru",
+         "ns": "0",
+         "id": "19124",
+         "revision": {
+            "id": "49279",
+            "parentid": "49169",
+            "timestamp": "2019-10-30T20:13:11Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "494",
+               "#text": "{{Kirari Hikaru|Infobox}}\n\n{{Description\n|en=\n|jp=プロミストブラッドに所属する従者のような魔法少女。信頼する人のためなら危険も厭わず戦い、日々のサポートも欠かさない。だが、自分の面倒は見られず、ひとりになると自堕落になり、何事にも気合いが入らなくなってしまう。\n}}\n{{Tabs}}\n[[Category:Unlimited]]\n[[Category:Has a Doppel]]\n[[Category:Promise Blood]]\n[[Category:Spirit Enhancement Unlocked]]"
+            },
+            "sha1": "q7v0xa41kgdm6vjllnzklfpre83rsjv"
+         }
+      },
+      {
+         "title": "Tomomi Ranka",
+         "ns": "0",
+         "id": "19469",
+         "revision": {
+            "id": "48397",
+            "parentid": "48385",
+            "timestamp": "2019-10-25T07:45:53Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "148",
+               "#text": "{{Character/Get}}{{Character/Infobox|name_jp = 智珠らんか|designer_jp = Kaou|id = 3044|event_limit = Not Released|school_jp = 栄総合学園}}"
+            },
+            "sha1": "4rw7hi3a0dixhkbommfq639xvgsg4fp"
+         }
+      },
+      {
+         "title": "Wakana Tsumugi",
+         "ns": "0",
+         "id": "19470",
+         "revision": {
+            "id": "48386",
+            "parentid": "48383",
+            "timestamp": "2019-10-25T07:23:04Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "98",
+               "#text": "{{Character/Infobox|name_jp = 若菜つむぎ|designer_jp = くらは|event_limit = Not Released}}"
+            },
+            "sha1": "rsatd7ybzrz6d8enhn503q1zbstpj67"
+         }
+      },
+      {
+         "title": "Yuuki Maria",
+         "ns": "0",
+         "id": "19471",
+         "revision": {
+            "id": "48387",
+            "parentid": "48384",
+            "timestamp": "2019-10-25T07:23:55Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "102",
+               "#text": "{{Character/Infobox|name_jp = 由貴 真里愛|designer_jp = いもあん|event_limit = Not Released}}"
+            },
+            "sha1": "8s3viqxopi31y20spkahy1i03xj6jfp"
+         }
+      },
+      {
+         "title": "Megumi Moka",
+         "ns": "0",
+         "id": "19472",
+         "revision": {
+            "id": "48388",
+            "timestamp": "2019-10-25T07:26:26Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Made a infobox for Megumi Moka",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "90",
+               "#text": "{{Character/Infobox|name_jp = 恵 萌花|designer_jp = GENJIN|event_limit = Not Released}}"
+            },
+            "sha1": "eqxh8bbwqurlhin0p5h32mh1etxfm7y"
+         }
+      },
+      {
+         "title": "Suzuka Sakuya",
+         "ns": "0",
+         "id": "19473",
+         "revision": {
+            "id": "48389",
+            "timestamp": "2019-10-25T07:29:29Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Made a Infobox for Suzuka Sakuya.",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "103",
+               "#text": "{{Character/Infobox|name_jp = 鈴鹿さくや|designer_jp = Hige|id = 3021|event_limit = Not Released}}"
+            },
+            "sha1": "cxrx10xb4qwbxx957yls41au2u9mq54"
+         }
+      },
+      {
+         "title": "Yuuki Rion",
+         "ns": "0",
+         "id": "19474",
+         "revision": {
+            "id": "48395",
+            "parentid": "48390",
+            "timestamp": "2019-10-25T07:43:58Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "122",
+               "#text": "{{Character/Infobox|name_jp = 柚希 りおん|id = 3045|event_limit = Not Released|school_jp = 聖リリアンナ学園}}"
+            },
+            "sha1": "lgv08suhilzwv3ol0j11z53iy4jkq11"
+         }
+      },
+      {
+         "title": "Yuuki Hotori",
+         "ns": "0",
+         "id": "19475",
+         "revision": {
+            "id": "48396",
+            "parentid": "48391",
+            "timestamp": "2019-10-25T07:44:33Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "122",
+               "#text": "{{Character/Infobox|name_jp = 柚希 ほとり|id = 3041|event_limit = Not Released|school_jp = 聖リリアンナ学園}}"
+            },
+            "sha1": "e4r9s8i4b4yu2aztwsupfhb30eq45zz"
+         }
+      },
+      {
+         "title": "Satori Kagome",
+         "ns": "0",
+         "id": "19476",
+         "revision": {
+            "id": "48392",
+            "timestamp": "2019-10-25T07:37:26Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Made a infobox for Satori Kagome.",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "111",
+               "#text": "{{Character/Infobox|name_jp = 佐鳥かごめ|id = 1020|event_limit = Not Released|designer_jp = 蒼樹うめ}}"
+            },
+            "sha1": "jtqsqds8tlwxgn71aorn6nvzyut0tvo"
+         }
+      },
+      {
+         "title": "Minamitsu Ryouko",
+         "ns": "0",
+         "id": "19477",
+         "revision": {
+            "id": "48394",
+            "parentid": "48393",
+            "timestamp": "2019-10-25T07:42:02Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "113",
+               "#text": "{{Character/Infobox|name_jp = 南津 涼子|id = 3058|event_limit = Not Released|school_jp = 南凪自由学園}}"
+            },
+            "sha1": "99jg0y5k2rjsi8ab1gmexc8bhn20e1l"
+         }
+      },
+      {
+         "title": "Kureha Yuna",
+         "ns": "0",
+         "id": "19478",
+         "revision": {
+            "id": "49177",
+            "parentid": "48398",
+            "timestamp": "2019-10-29T02:31:29Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "136",
+               "#text": "{{Character/Infobox|name_jp = 紅晴 結菜|designer_jp = 蒼樹うめ|id = 1021|event_limit = Not Released}}\n[[Category:Promise Blood]]"
+            },
+            "sha1": "hqsju7fs2rc60853o921g04fhzcpnr6"
+         }
+      },
+      {
+         "title": "Kasane Ao",
+         "ns": "0",
+         "id": "19479",
+         "revision": {
+            "id": "49180",
+            "parentid": "48399",
+            "timestamp": "2019-10-29T02:31:53Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "136",
+               "#text": "{{Character/Infobox|name_jp = 笠音 アオ|designer_jp = 蒼樹うめ|id = 1023|event_limit = Not Released}}\n[[Category:Promise Blood]]"
+            },
+            "sha1": "3y4tzyw4msx1mjdbo5lzn3ibeuzn5zr"
+         }
+      },
+      {
+         "title": "Ooba Juri",
+         "ns": "0",
+         "id": "19480",
+         "revision": {
+            "id": "49181",
+            "parentid": "48816",
+            "timestamp": "2019-10-29T02:32:11Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Adding categories",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "153",
+               "#text": "{{Character/Get}}{{Character/Infobox|name_jp = 大庭 樹里|id = 1024|event_limit = Not Released|designer_jp = 蒼樹うめ}}\n[[Category:Promise Blood]]"
+            },
+            "sha1": "m19h5etcsax69xdiz9noti8qv9xc34k"
+         }
+      },
+      {
+         "title": "Himuro Rabi",
+         "ns": "0",
+         "id": "19729",
+         "revision": {
+            "id": "49438",
+            "parentid": "49436",
+            "timestamp": "2019-11-01T00:21:37Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "128",
+               "#text": "{{Character/Infobox|name = Himuro Rabi|designer_jp = 蒼樹うめ|id = 1033|event_limit = Not Released|name_jp = 氷室 ラビ}}"
+            },
+            "sha1": "5ew8o8a0tmd5u1varcg5exou6b7advm"
+         }
+      },
+      {
+         "title": "Livia Medeiros",
+         "ns": "0",
+         "id": "19730",
+         "revision": {
+            "id": "49437",
+            "timestamp": "2019-11-01T00:20:44Z",
+            "contributor": {
+               "username": "Fenixray",
+               "id": "35032167"
+            },
+            "comment": "Made an infobox for Livia Mederiros.",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "99",
+               "#text": "{{Character/Infobox|name_jp = リヴィア・メディロス|id = 1041|event_limit = Not Released}}"
+            },
+            "sha1": "d126ccvrwortisognf4yy4gq66ccael"
+         }
+      }
+   ]
+}
