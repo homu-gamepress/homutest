@@ -1,0 +1,1502 @@
+{
+   "@schemaLocation": "http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd",
+   "@version": "0.10",
+   "@lang": "en",
+   "siteinfo": {
+      "sitename": "Magia Record English Wiki",
+      "dbname": "magiarecorden",
+      "base": "https://magireco.fandom.com/wiki/Magia_Record_English_Wiki",
+      "generator": "MediaWiki 1.19.24",
+      "case": "first-letter",
+      "namespaces": {
+         "namespace": [
+            {
+               "@key": "-2",
+               "@case": "first-letter",
+               "#text": "Media"
+            },
+            {
+               "@key": "-1",
+               "@case": "first-letter",
+               "#text": "Special"
+            },
+            {
+               "@key": "0",
+               "@case": "first-letter"
+            },
+            {
+               "@key": "1",
+               "@case": "first-letter",
+               "#text": "Talk"
+            },
+            {
+               "@key": "2",
+               "@case": "first-letter",
+               "#text": "User"
+            },
+            {
+               "@key": "3",
+               "@case": "first-letter",
+               "#text": "User talk"
+            },
+            {
+               "@key": "4",
+               "@case": "first-letter",
+               "#text": "Magia Record English Wiki"
+            },
+            {
+               "@key": "5",
+               "@case": "first-letter",
+               "#text": "Magia Record English Wiki talk"
+            },
+            {
+               "@key": "6",
+               "@case": "first-letter",
+               "#text": "File"
+            },
+            {
+               "@key": "7",
+               "@case": "first-letter",
+               "#text": "File talk"
+            },
+            {
+               "@key": "8",
+               "@case": "first-letter",
+               "#text": "MediaWiki"
+            },
+            {
+               "@key": "9",
+               "@case": "first-letter",
+               "#text": "MediaWiki talk"
+            },
+            {
+               "@key": "10",
+               "@case": "first-letter",
+               "#text": "Template"
+            },
+            {
+               "@key": "11",
+               "@case": "first-letter",
+               "#text": "Template talk"
+            },
+            {
+               "@key": "12",
+               "@case": "first-letter",
+               "#text": "Help"
+            },
+            {
+               "@key": "13",
+               "@case": "first-letter",
+               "#text": "Help talk"
+            },
+            {
+               "@key": "14",
+               "@case": "first-letter",
+               "#text": "Category"
+            },
+            {
+               "@key": "15",
+               "@case": "first-letter",
+               "#text": "Category talk"
+            },
+            {
+               "@key": "110",
+               "@case": "first-letter",
+               "#text": "Forum"
+            },
+            {
+               "@key": "111",
+               "@case": "first-letter",
+               "#text": "Forum talk"
+            },
+            {
+               "@key": "500",
+               "@case": "first-letter",
+               "#text": "User blog"
+            },
+            {
+               "@key": "501",
+               "@case": "first-letter",
+               "#text": "User blog comment"
+            },
+            {
+               "@key": "502",
+               "@case": "first-letter",
+               "#text": "Blog"
+            },
+            {
+               "@key": "503",
+               "@case": "first-letter",
+               "#text": "Blog talk"
+            },
+            {
+               "@key": "828",
+               "@case": "first-letter",
+               "#text": "Module"
+            },
+            {
+               "@key": "829",
+               "@case": "first-letter",
+               "#text": "Module talk"
+            },
+            {
+               "@key": "1200",
+               "@case": "first-letter",
+               "#text": "Message Wall"
+            },
+            {
+               "@key": "1201",
+               "@case": "first-letter",
+               "#text": "Thread"
+            },
+            {
+               "@key": "1202",
+               "@case": "first-letter",
+               "#text": "Message Wall Greeting"
+            },
+            {
+               "@key": "2000",
+               "@case": "first-letter",
+               "#text": "Board"
+            },
+            {
+               "@key": "2001",
+               "@case": "first-letter",
+               "#text": "Board Thread"
+            },
+            {
+               "@key": "2002",
+               "@case": "first-letter",
+               "#text": "Topic"
+            }
+         ]
+      }
+   },
+   "page": [
+      {
+         "title": "Teresa",
+         "ns": "0",
+         "id": "5955",
+         "revision": {
+            "id": "44186",
+            "parentid": "43865",
+            "timestamp": "2019-09-12T16:13:08Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1333",
+               "#text": "{{WitchInfo\n| Jname = 振子の魔女\n| Jnature = その性質は右往左往\n| Ename = Pendulum Witch\n| Enature = whose nature is moving in confusion\n| Type = Witch\n| ID = 6000\n| Drop = Pendulum Bob\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = A stationary sort of witch, who spreads her roots and remains unmoving in one place. <br />Those who hear the sound of this witch’s pendulum will begin to spin round and round in place, unable to move forward. She desires nothing more than to pass the same time in the same place forever, dreamily swinging her head back and forth. Apparently, she used to be the witch of pendulum clocks, but because she rejects the passage of time, she threw away all the numbers and hands on her clock’s face.\n| jp = その場に根を張り動かない居座り系魔女。<br />この魔女の振子の音を聴いた者は同じ場所をぐるぐると回るばかりで先へ進めなくなってしまう。同じ場所で同じ時を過ごすことを何よりも望み、夢中で頭を揺らし続ける。もともとは振子時計の魔女だったらしいが、時間の存在を拒否するこの魔女は文字盤の数字も針もすべて捨ててしまった。\n}}\n\n== Related Familiar/Witch==\n* [[Huygens]]\n\n==Trivia=="
+            },
+            "sha1": "lbk2zl35a01xp91fsukglz78m8mgvt8"
+         }
+      },
+      {
+         "title": "Patricia",
+         "ns": "0",
+         "id": "5960",
+         "revision": {
+            "id": "44179",
+            "parentid": "43869",
+            "timestamp": "2019-09-12T16:12:09Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1750",
+               "#text": "{{WitchInfo\n| Jname = 委員長の魔女\n| Jnature = その性質は傍観\n| Ename = Class Representative Witch\n| Enature = whose nature is looking on\n| Type = Witch\n| ID = 6400\n| Drop = \n| JIllustrator = 原案・監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n|en = She spits out spider-like thread to create a school all for herself in her barrier’s sky.<br />This witch was very plain even in her previous life, with her only strong point being how conscientious she was. She still detachedly plays out an ordinary, everyday life– hardly any different from before, hardly even any fun– with the familiars that she puppets around. If you ring the end-of-school bell, this witch will likely return to her home somewhere.<br />Humans who lose their way in her barrier will fall ever downward, until they eventually melt into empty sky and become nourishment for the witch.<br />Unless you’re a particularly fearsome outsider who disrupts her daily life, the witch will rarely take action herself.\n|jp = 蜘蛛のような糸を吐き結界内の空に自分だけの学園を作っている。<br />生前から地味で真面目なことだけが取り柄だった魔女は、今も淡々と自身が操る手下達と共にかつてと変わらない大して楽しくもない日常を繰り返す。 今も下校チャイムを鳴らせばこの魔女はどこかの住処へと帰ってゆくだろう。<br />結界内に迷い込んだ人間は、どこまでも落下しつつやがて空に溶けて魔女の養分となってしまう。<br />日常生活を乱す恐ろしい部外者でも来ない限り、魔女自ら手を下すことはあまりない。\n}}\n\n== Related Familiar/Witch==\n* [[Mathieu]]\n\n==Trivia=="
+            },
+            "sha1": "8mwg1penssjmjjogx9pq0adpxloo3sn"
+         }
+      },
+      {
+         "title": "Stacey",
+         "ns": "0",
+         "id": "5962",
+         "revision": {
+            "id": "44185",
+            "parentid": "43864",
+            "timestamp": "2019-09-12T16:12:58Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1787",
+               "#text": "{{WitchInfo\n| Jname = 屋上の魔女\n| Jnature = その性質は夢想\n| Ename = Rooftop Witch\n| Enature = whose nature is dreaming\n| Type = Witch\n| ID = 6105\n| Drop = Rooftop Balloons\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = A witch who indulges in fantasies of “if only this, if only that,” on a rooftop embraced by blue skies.<br />She sleepily whiles the days away, thinking only of things that will never come true, spending her time in supreme bliss.<br />Her minions have tied down one of her legs so that she doesn’t drift right off the roof and go missing, and have locked the rooftop door to confine her there.<br />However, since the witch prefers to stay on the rooftop anyway, she doesn’t seem to mind.<br />She doesn’t take an active fighting role, but will still attack those who interrupt her reverie.<br />Incidentally, the face depicted on her giant cameo brooch is said to have nothing to do with her.\n| jp = 晴天に抱かれた屋上で、”ああなれば、こうなれば″と夢想に耽ている魔女。<br />ウトウトと惰眠を貪りながら叶わないことばかりを考え至福の時とする。<br />魔女が屋上からフラフラ飛び立って行方不明にならぬように、手下によって脚は結び付けられ、屋上の扉も施錠されて監禁状態になっている。<br />だが、魔女はずっと屋上に居る気なので、気にも留めていない様子である。<br />積極的に戦わないが、夢想を邪魔するものには攻撃を仕掛けてくる。<br />ちなみに、巨大カメオブローチに描かれた横顔は本人とは無関係だという。\n}}\n\n== Related Familiar/Witch==\n* [[Ekaterina]]\n\n==Trivia=="
+            },
+            "sha1": "qhnvt87vivyhjr7y5ujefcfowffvkgc"
+         }
+      },
+      {
+         "title": "Rebecca",
+         "ns": "0",
+         "id": "5963",
+         "revision": {
+            "id": "44180",
+            "parentid": "43860",
+            "timestamp": "2019-09-12T16:12:18Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1733",
+               "#text": "{{WitchInfo\n| Jname = 羊の魔女\n| Jnature = その性質は不眠\n| Ename = Sheep Witch\n| Enature = whose nature is insomnia\n| Type = Witch\n| ID = 6104\n| Drop = Sheep Horn\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = A witch who spends all her days trembling within the fence in her barrier, unsure of what she ought to do. Her extreme caution of her surroundings has caused her to sprout extra eyes. It’s said that at least one of these eyes is always open, day or night, and that she never sleeps.<br />This witch has never once stepped outside of her fence, and has no intention of ever doing so. She lives within the fence, happily tamed by her minions, and waits for said minions to bring her humans to eat.<br />Since she’s usually trembling in fear of something, she may give off a well-behaved impression, but she’ll panic and run wild if her minions are defeated.\n| jp = 結界内にある柵の中で、自分が何をして良いのかも分からずただ毎日を怯えながら過ごす魔女。周囲を警戒するあまり瞳が増えてしまい、昼夜を問わず全ての瞳が閉じることはなく眠ることもないという。<br />この魔女は今まで一度も柵から出たことはなく、これからも出るつもりはない。<br />その柵の中では自分の手下達に飼われているつもりで生活しており、餌である人間を手下達が狩ってくるのを待っている。常に何かに怯えているため大人しい印象だが<br />飼い主である手下が倒されるとパニック状態になって暴れ出してしまう。\n}}\n\n== Related Familiar/Witch==\n* [[Joseph]]\n\n==Trivia=="
+            },
+            "sha1": "jdf8b0l0097qxg15j02pr8cwspr7341"
+         }
+      },
+      {
+         "title": "Zenobia",
+         "ns": "0",
+         "id": "5964",
+         "revision": {
+            "id": "44189",
+            "parentid": "43867",
+            "timestamp": "2019-09-12T16:13:38Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1652",
+               "#text": "{{WitchInfo\n| Jname = 砂場の魔女\n| Jnature = その性質は没頭\n| Ename = Sandpit Witch\n| Enature = whose nature is engrossment\n| Type = Witch\n| ID = 6103\n| Drop = Sandbox Shovels\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = An extremely picky witch, who knows nothing of compromise.<br />She continuously attempts to build a satisfactory sandcastle, but finds fault with every one she builds, knocking them down time and again. By now, even the witch herself has forgotten just what she wanted to build in the first place.<br />Nonetheless– regardless of the fact that she’ll destroy it in the end anyway– her mood seems to temporarily improve when she builds a fairly impressive castle.<br />Her appearance may resemble a mature woman, but in contrast, her personality is the very definition of childish. If she’s interrupted while playing in the sand, she’ll start bawling and go on a rampage.\n| jp = こだわりが非常に強く、妥協することを知らない魔女。<br />満足できる砂の城を作ろうとしているが、納得できずに何度も切り崩している。<br />今となっては、魔女自身もどういったものを作りたかったのか分からなくなってしまった。ただ、それでもそれなりに立派なお城が出来ると結局崩してしまうとはいえ一時的に機嫌はよくなるらしい。<br />年頃の女性を思わせる容姿に反し性格は幼稚そのもの。砂遊びを邪魔されると泣きわめいて大暴れする。\n}}\n\n== Related Familiar/Witch==\n* [[Zabaii]]\n\n==Trivia=="
+            },
+            "sha1": "diatlowz0h1isyjhwxevdra04qadl3t"
+         }
+      },
+      {
+         "title": "Candy",
+         "ns": "0",
+         "id": "5978",
+         "revision": {
+            "id": "44172",
+            "parentid": "43855",
+            "timestamp": "2019-09-12T16:10:58Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1751",
+               "#text": "{{WitchInfo\n| Jname = 立ち耳の魔女\n| Jnature = その性質は姫\n| Ename = Standing Ear Witch\n| Enature = whose nature is a Princess\n| Type = Witch\n| ID = 6001\n| Drop = Standing Ear Cotton\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = A witch who keeps a collection of her favorite adorable things within her barrier.<br />This witch believes herself to be the very embodiment of cuteness, and loves to have her appearance complimented or beautifully adorned. Thus, if you lavish her in compliments and affection, she won’t bare her fangs. However, if she senses even the slightest negative implication towards her cuteness, she’ll immediately throw a tantrum and go on a rampage, so one must maintain the utmost caution when flattering her.<br />Also, her capricious personality means that no matter how pleased she seems to be, she may suddenly bite or playfully skewer you, so one must never let their guard down.\n| jp = 結界の中で、自分の好みの可愛いものを収集している魔女。<br />自分のことを可愛さの化身だと信じるこの魔女は、見た目を褒められたり飾り立ててもらうのが大好き。そのため、容姿を褒めちぎり可愛がりさえすれば、牙をむくことはない。ただし、自身の可愛さに僅かでも否定的なニュアンスを感知するとすぐに癇癪を起こして暴れだすので、おだてる際には細心の注意が必要。<br />また、気まぐれな性格ゆえに、どんなに機嫌がよさそうでも、突然かじったり、串刺しごっこをはじめたりするので、油断は禁物。\n}}\n\n== Related Familiar/Witch==\n* [[Harold]]\n\n==Trivia=="
+            },
+            "sha1": "1pvlj0jrvenl5u3wqb2gajlxil9qslt"
+         }
+      },
+      {
+         "title": "Matasaburo",
+         "ns": "0",
+         "id": "9048",
+         "revision": {
+            "id": "44184",
+            "parentid": "44177",
+            "timestamp": "2019-09-12T16:12:55Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "451",
+               "#text": "{{WitchInfo\n| Jname = チョコレートの魔女\n| Jnature = その性質は端役\n| Ename = Chocolate Witch\n| Enature = whose nature is a minor role\n| Type = Witch\n| ID = 6500\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = The remains of some Puella Magi from somewhere.\n| jp = どこかの魔法少女の成れの果て。\n}}\n\n== Related Familiar/Witch==\n* [[Zakuro]]\n\n==Trivia=="
+            },
+            "sha1": "t5o1trs9mp62tknzu5mxtpml26m12ft"
+         }
+      },
+      {
+         "title": "Shin",
+         "ns": "0",
+         "id": "9074",
+         "revision": {
+            "id": "44181",
+            "parentid": "43861",
+            "timestamp": "2019-09-12T16:12:28Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1560",
+               "#text": "{{WitchInfo\n| Jname = 子守の魔女\n| Jnature = その性質は困窮\n| Ename = Nanny Witch\n| Enature = whose nature is impoverishment\n| Type = Witch\n| ID = 6106\n| Drop = Nanny's Grip\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = A witch who continually searches for a baby that she dropped somewhere. Upon seeing a human, no matter who or what age they are, she extends her baby carrier’s straps to try and catch them.<br />Even if she succeeds in capturing one, however, the way she tightly binds them to prevent them from falling again will likely suffocate them.<br />Incidentally, this still young-minded witch isn’t babysitting because she wants to; quite the opposite, in fact. She doesn’t even like babies at all. She casts her gaze down in contempt of those who lead privileged lives, and curses herself in perpetuity.\n| jp = 何処かに落としてしまった赤ん坊を探し続け、人間を見つけるとその年齢を問わず誰彼構わずおんぶ紐を伸ばして捕まえようとしてくる魔女。<br />ただしうまく捕縛できたとしても今度は落とさないようにときつく締め上げるあまり窒息させてしまうだろう。<br />ちなみに、まだ幼い精神をもつこの魔女は進んで子守をしているわけでは決してなく、赤ん坊が好きな訳でもない。恵まれた生活を送る者達を嫌い目を伏せ、自身を呪い続けている。\n}}\n\n== Related Familiar/Witch==\n* [[Kotori]]\n\n==Trivia=="
+            },
+            "sha1": "nxh625fe4yr8b9kta2p7xi9wagrdrsl"
+         }
+      },
+      {
+         "title": "Durbar",
+         "ns": "0",
+         "id": "9989",
+         "revision": {
+            "id": "44174",
+            "parentid": "43857",
+            "timestamp": "2019-09-12T16:11:18Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1639",
+               "#text": "{{WitchInfo\n| Jname = イキガミの魔女\n| Jnature = その性質は禊\n| Ename = Living God Witch\n| Enature = whose nature is purification ceremony\n| Type = Witch\n| ID = 6107\n| Drop = Ikigami's Water Jug\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = A witch who is constantly trying to wash away her uncleanliness. She pours water over her head for 24 hours a day, in order to wash away the impurities that stain her to her core.<br />The many eyes on her tongue apparently have the power to see the future, but since she’s constantly troubled by the sight of her forever-unpurified future self, she can hardly be bothered to foresee anything else. Until the day when all of her impurities have been wiped clean, this witch’s rites will likely never end. She punishes those who interrupt her rites with lightning and water currents, and fatally sullies them with the impurities trickling off herself.\n| jp = 常に自身の不浄を洗い流そうとしている魔女。<br />核に至るまで染まった不浄を洗い流すため、24時間ひたすら水を被っている。舌にある無数の眼で未来を見通す力をもつらしいが、いつまで経てど浄化されていない未来の姿に思い悩んでばかりいるため、他のことを見る余裕はあまりない様子。己の穢れが全て拭われるその日まで魔女は禊を止めないだろう。禊を邪魔する者は落雷と水流で責め尽くし、自身から滴り落ちた穢れで染め殺してしまう。\n}}\n\n== Related Familiar/Witch==\n*[[Patan]]\n\n==Trivia=="
+            },
+            "sha1": "irvnisz8chthfzpbxvr7brw3ps6c4pv"
+         }
+      },
+      {
+         "title": "Gertrud",
+         "ns": "0",
+         "id": "11692",
+         "revision": {
+            "id": "44175",
+            "parentid": "43858",
+            "timestamp": "2019-09-12T16:11:28Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "880",
+               "#text": "{{WitchInfo\n| Jname = 薔薇園の魔女\n| Jnature = その性質は不信\n| Ename = Rose Garden Witch\n| Enature = whose nature is distrustfulness\n| Type = Witch\n| ID = 6401\n| Drop =Dark Book ++ \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = She loves her roses more than anything else, and uses all of her power for her beautiful roses’ sake. She steals the life force of humans who wander into her barrier and shares it with her roses, but at the same time, she hates it when humans trample the inside of her barrier.\n| jp = なによりも薔薇が大事。その力の全ては美しい薔薇のために。結界に迷い込んだ人間の生命力を奪い薔薇に分け与えているが、人間に結界内を踏み荒らされることは大嫌い。\n}}\n\n== Related Familiar/Witch==\n*[[Anthony]]\n\n==Trivia=="
+            },
+            "sha1": "21e89bssguhfj7w8uvr0s1w6sdql6se"
+         }
+      },
+      {
+         "title": "Paola",
+         "ns": "0",
+         "id": "12183",
+         "revision": {
+            "id": "49201",
+            "parentid": "44178",
+            "timestamp": "2019-10-29T17:38:26Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1094",
+               "#text": "{{WitchInfo\n| Jname = ゴムの魔女\n| Jnature = その性質は反発\n| Ename =Paola \n| Enature = whose nature is rebounding \n| Type = Witch\n| ID = 6108\n| Drop = \n| JIllustrator = 原案・監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n|en =She appears at ocean bathing resorts, and the interior of her barrier is an endless expanse of ocean. The witch herself can’t swim at all, so it’s essential for her to have very buoyant minions. Apparently, she can also perform high-speed bodyslams by bouncing herself around, but she’s too busy clinging to her minions so she doesn’t drown in her own barrier. She hibernates during seasons when there aren’t many bathers visiting. \n|jp = 海水浴場に姿を現しその結界内も無限に広がる海面。魔女自身は全く泳げないためよく浮く手下が必須。全身を弾ませた高速攻撃も出来るらしいが、結界内では溺れないよう手下にしがみつくことで精一杯。海水浴客の少ない季節は冬眠している。\n}}\n\n== Related Familiar/Witch==\n* [[Bona]]\n\n==Trivia=="
+            },
+            "sha1": "b77gzz940752ix7j0y5gn7rbo9uxuux"
+         }
+      },
+      {
+         "title": "Uhrmann",
+         "ns": "0",
+         "id": "12369",
+         "revision": {
+            "id": "44187",
+            "parentid": "43866",
+            "timestamp": "2019-09-12T16:13:18Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "832",
+               "#text": "{{WitchInfo\n| Jname = 犬の魔女\n| Jnature = その性質は渇望\n| Ename = Canine Witch\n| Enature = whose nature is craving\n| Type = Witch\n| ID = 6404\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = A witch who took the form of a dog, wanting to be loved by anyone and more than anyone.<br />Humans who enter this witch’s barrier can’t help but become concerned for her.<br />If one wishes to defeat this witch, one must show her false love. \n| jp = 誰からも誰よりも愛されたくてしょうがない犬の姿をした魔女。<br />その結界内に入った人間はこの魔女に関心を抱かざるを得ない。<br />この魔女を倒したくば偽りの愛をもって示せ。\n}}\n\n== Related Familiar/Witch==\n*[[Bartels]]\n\n==Trivia=="
+            },
+            "sha1": "4ddt1rwj5y0cjvdxp1s7c98vv76thj7"
+         }
+      },
+      {
+         "title": "Charlotte",
+         "ns": "0",
+         "id": "12421",
+         "revision": {
+            "id": "44173",
+            "parentid": "43856",
+            "timestamp": "2019-09-12T16:11:08Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "881",
+               "#text": "{{WitchInfo\n|form2 = CharlotteLARGE\n| Jname = お菓子の魔女\n| Jnature = その性質は執着\n| Ename = Sweets Witch\n| Enature = whose nature is tenacity\n| Type = Witch\n| ID = 6403\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = She wants everything, and will never give up.<br />She can create an endless amount of sweets, but the one thing she can’t create by herself is her favorite: cheese. If you just bring some cheese along, you can probably catch her off-guard easily. \n| jp = 欲しいものは　全部。絶対に諦めない。<br />お菓子を無限に生み出せるが、大好物のチーズだけは自分で作ることができない。チーズさえ持っていれば簡単に隙をつくことが出来ただろう。\n}}\n\n== Related Familiar/Witch==\n*[[Pyotr]] and Polina\n\n==Trivia=="
+            },
+            "sha1": "pa6ojg0zfe5csc6x8z53l6wjyayrut6"
+         }
+      },
+      {
+         "title": "Lucy",
+         "ns": "0",
+         "id": "17333",
+         "revision": {
+            "id": "47363",
+            "parentid": "44176",
+            "timestamp": "2019-10-11T14:13:10Z",
+            "contributor": {
+               "username": "KitYanagi",
+               "id": "38924554"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1050",
+               "#text": "{{WitchInfo\n| Jname = 流浪の魔女\n| Jnature = その性質は望郷\n| Ename = Wandering Witch\n| Enature = whose nature is homesickness\n| Type = Witch\n| ID = 6109\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = The witch of vagabonds. Her nature is homesickness. A witch who roams the land in search of her hometown, hoping to return one day with her bag stuffed full of memories. When she sees someone already in their own house, she doesn’t pay them much mind, but if she sees someone right as they’re entering their house, she sometimes feels a sudden rush of sadness and tries to drag them away. <!--TL by Noyilu-->\n| jp = 自分の故郷を求めて探し回り、思い出を詰めて帰ろうとしている魔女。\n\n家に誰かがいる様子は何も気にならないが、家に入る瞬間の人を見かけると、一気に悲しさが溢れ出てきて対象を連れ去ってしまうことがある。\n}}\n\n== Related Familiar/Witch==\n* [[Coco]]\n\n==Trivia=="
+            },
+            "sha1": "steztygbz8dggwyia7teqki4ubx6qeh"
+         }
+      },
+      {
+         "title": "Shitori Egumo (Happiness Witch)",
+         "ns": "0",
+         "id": "18027",
+         "revision": {
+            "id": "44182",
+            "parentid": "43862",
+            "timestamp": "2019-09-12T16:12:38Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "974",
+               "#text": "{{WitchInfo\n| Jname = 幸福の魔女\n| Jnature = その性質は、受難\n| Ename = Happiness Witch\n| Enature = whose nature is crucifixion\n| Type = Witch\n| ID = 6102\n| Drop = Dark Book ++\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = \n| jp = 収縮した被膜に包まれて、自身のエネルギーを安定させた“半魔女”。<br/>大切な者を失ってからは、胸の虚ろを埋めるために見境なく大地を揺るがしている。<br/>恐らく、ひとりの少女が犠牲になるまで、その暴走は止まることを知らないだろう。<br/>また、肉体を維持させる被膜を失えば、<br/>この“半魔女”もまた肉体を維持できなくなり、大気に溶けていく。<br/>その散った穢れがどのような作用を引き起こすかは、誰も知り得ない。\n}}\n\n== Related Familiar/Witch==\n* [[Shitori Egumo (Happy Witch)]]\n* [[Oscar]]"
+            },
+            "sha1": "elrya4tbn81cisi1ngplxm8sqh9kxff"
+         }
+      },
+      {
+         "title": "Shitori Egumo (Happy Witch)",
+         "ns": "0",
+         "id": "14120",
+         "revision": {
+            "id": "44183",
+            "parentid": "43863",
+            "timestamp": "2019-09-12T16:12:48Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "937",
+               "#text": "{{WitchInfo\n| Jname = 幸福な魔女\n| Jnature = その性質は、受難\n| Ename = Happy Witch\n| Enature = whose nature is crucifixion\n| Type = Witch\n| ID = 6101\n| Drop = Dark Book ++\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = \n| jp = 被膜に包まれた胎の中で、魔法少女が魔女化する時の穢れや人々が放つ感情を<br />栄養源にして静かに成長を続けている“半魔女”。<br />自身が持つ捻れた力を安定させるため、成長と共に宝石を体に散らしている。<br />いずれ殻を破って成熟した時、鎖から解かれた魔女は<br />あらゆるエネルギーを根こそぎ吸い尽くし、<br />星を呑み込めば自身が宇宙の塊になるまで食事を止めることはないだろう。\n}}\n\n== Related Familiar/Witch==\n* [[Shitori Egumo (Happiness Witch)]]\n* [[Oscar]]\n\n==Trivia=="
+            },
+            "sha1": "8pvqpvfqcgeyapndd3bajb2dtx3b2r2"
+         }
+      },
+      {
+         "title": "Walpurgisnacht",
+         "ns": "0",
+         "id": "18048",
+         "revision": {
+            "id": "44188",
+            "parentid": "43892",
+            "timestamp": "2019-09-12T16:13:28Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose nature is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "2456",
+               "#text": "{{WitchInfo\n| Jname = 舞台装置の魔女\n| Jnature = その性質は無力\n| Ename =  Stage-Constructing Witch\n| Enature = whose nature is helplessness\n| Type = Witch\n| ID = 6405\n| Drop = \n| JIllustrator = 原案：劇団イヌカレー、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = The stage-constructing witch (alias: Walpurgisnacht / real name: unknown); her nature is helplessness.<br />She symbolizes the fool who continuously spins in circles. The witch's mysteries have been handed down through the course of history.<br />She will continue to rotate aimlessly throughout the world until she completely changes the whole of this age into a drama.<br />When the doll's usual upside-down position reaches the top part of the witch, she completely roils the civilization on the ground in a flash through her gale-like flight.\n| jp = 舞台装置の魔女(通称・ワルプルギスの夜 / 本名不明)。その性質は無力。<br />回り続ける愚者の象徴。歴史の中で語り継がれる謎の魔女。<br />この世の全てを戯曲へ変えてしまうまで無軌道に世界中を回り続ける。<br />普段逆さ位置にある人形が上部へ来た時、暴風の如き速度で飛行し<br />瞬く間に地表の文明をひっくり返してしまう。\n}}\n\n== Related Familiar/Witch==\n* [[????? (Aohana)]]\n\n==Trivia==\n\nLore from Production Note:\n\n<blockquote>\nShe will turn all of fate's misfortune to nothing. She will flood the earth with magic,<br />and take all of humankind into her play. A moving stage construction.<br />If everything is a play, no unhappy things will exist.<br />It may be a tragedy, but it'll all be part of the script.<br />The play stops on Walpurgisnacht, and the earth does not turn even once more.<br />The story will not change.<br />Tomorrow, and the day after, is the night of Walpurgis.\n\n{{Lang|ja|全ての運命の不幸を無くそうとする、地上をマホウで埋め尽くし、<br />全人類を戯曲の中へ取り込もうとする、動く舞台装置。<br />この世の全てが戯曲ならば悲しい事など何もない。<br />悲劇ではあるかもしれないけれど、ただ、そういう脚本を演じただけ。<br />ワルプルギスの夜で芝居は止まって、もう地球は一周だって回転しない。<br />物語は転換しない。<br />明日も明後日も、ワルプルギスの夜。}}\n<\/blockquote>"
+            },
+            "sha1": "b179so54mdv1hsszjemo3altybx71fe"
+         }
+      },
+      {
+         "title": "Ekaterina",
+         "ns": "0",
+         "id": "948",
+         "revision": {
+            "id": "44155",
+            "parentid": "43854",
+            "timestamp": "2019-09-12T16:01:14Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1850",
+               "#text": "{{WitchInfo\n| Jname = 屋上の魔女の手下\n| Jnature = その役割は施錠\n| Ename = Rooftop Witch's Minion\n| Enature = whose role is locking\n| Type = Familiar\n| ID = 7105\n| Drop = Rooftop key\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = These minions fretfully work to prevent the witch from flying away as she indulges in reverie.<br />They run around busily with tasks such as locking up or cleaning the schoolhouse, and they give safety checks their undivided attention.<br />They also supervise the key to the witch’s rooftop, but they’re so scatterbrained that they frequently lose track of it. To combat this, all the minions have taken to carrying many duplicate keys… which means intruders can gain access to the rooftop just by defeating a single minion. Their security’s a sieve.<br />They can’t stand having trespassers in their perfectly locked-up barrier; upon spotting one, all the nearby minions will convene and attack while swinging their precious keys around wildly.\n| jp = 夢想に耽る魔女が空へ飛んでいかないよう気を揉んでいる手下。<br />校舎の戸締りや掃除などで動き回り、指差し確認にも余念がない。<br />魔女が居る屋上の扉を開ける鍵も管理しているが、なかなかの迂闊者であるため頻繁に鍵を無くしてしまう。そのため手下同士で合鍵をいくつも持つようになったが<br />誰か１体でも倒されると屋上へ行けるザル警備状態に…。迂闊。<br />万全に戸締まりした結界に不法侵入してくる奴が大嫌い。見つかると周囲の手下もすぐに集まって、大切な鍵をダイナミックに振り回しながら攻撃してくる。\n}}\n\n== Related Familiar/Witch==\n* [[Stacey]]\n\n==Trivia=="
+            },
+            "sha1": "1smulbcjeybemxx50gffenv51610uwt"
+         }
+      },
+      {
+         "title": "Joseph",
+         "ns": "0",
+         "id": "5961",
+         "revision": {
+            "id": "44158",
+            "parentid": "43820",
+            "timestamp": "2019-09-12T16:01:50Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1779",
+               "#text": "{{WitchInfo\n| Jname = 羊の魔女の手下\n| Jnature = その役割は羊飼い\n| Ename = Sheep Witch's Minion\n| Enature = whose role is shepherd\n| Type = Familiar\n| ID = 7104\n| Drop = Blowing Horn\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = These minions slowly stroll around the inside of the barrier.<br />They serve as the witch’s owners and think of her as their valuable property.<br />Aside from watching over the witch, they generally locate humans lost in the barrier, who they then hunt as a group by blowing signals to their far-off brethren with the horns hanging from their necks.<br />That being said, there are far more minions than are actually needed to shepherd one well-behaved witch,<br />so they have very little to do when there aren’t any humans around. In fact, they spend more time talking to each other about the quality of this year’s cheese than they do working as shepherds.\n| jp = 結界の周りを散策するようにゆっくりと歩いている手下。<br />魔女の飼い主のつもりでいる手下たちは、魔女を大切な財産だと思っている。<br />普段は魔女の様子を見守る他、結界内へ迷い込んだ人間を見つけて、首から下げた角笛を吹き鳴らし、遠くの手下達に合図を送ることで集団で狩りをしている。<br />とは言え、大人しい羊の魔女一匹に対して羊飼いが大量に居る状態であるため、<br />人間が来ない限りはあまりやることもなく暇を持て余している。羊飼いとしての仕事より手下同士で今年のチーズの出来具合を話している時間の方が多い。\n}}\n\n== Related Familiar/Witch==\n* [[Rebecca]]\n\n==Trivia=="
+            },
+            "sha1": "lwh9m2r2kjoe57l5ocff77w5x125s9g"
+         }
+      },
+      {
+         "title": "Huygens",
+         "ns": "0",
+         "id": "5965",
+         "revision": {
+            "id": "44162",
+            "parentid": "44157",
+            "timestamp": "2019-09-12T16:04:14Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "931",
+               "#text": "{{WitchInfo\n| Jname = 振子の魔女の手下\n| Jnature = その役割はリストア\n| Ename = Pendulum Witch's Minion\n| Enature = whose role is restoring\n| Type = Familiar\n| ID = 7000\n| Drop = Pendulum Screw\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = Concentrated lumps of hospitality that use their own bodies to repair the witch’s broken parts. <br />They’re not really doing it for the witch’s sake in particular, though. They seem to simply enjoy the act of repairing, and they show hardly any discretion when it comes to broken objects besides the witch.\n| jp = 魔女の壊れた部分を自らの体で修繕する奉仕精神の塊。<br/>ただ、魔女のためというよりも純粋に修繕行為が趣味であるらしく、<br/>魔女以外の壊れた物にも目がないらしい。\n}}\n\n== Related Familiar/Witch==\n* [[Teresa]]\n\n==Trivia=="
+            },
+            "sha1": "av16j4xn7c3er8oy0idjdf1q3dpl11q"
+         }
+      },
+      {
+         "title": "Harold",
+         "ns": "0",
+         "id": "5966",
+         "revision": {
+            "id": "44156",
+            "parentid": "43818",
+            "timestamp": "2019-09-12T16:01:25Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1385",
+               "#text": "{{WitchInfo\n| Jname = 立ち耳の魔女の手下\n| Jnature = その役割は彩\n| Ename = Standing Ear Witch's Minion\n| Enature = whose role is coloring\n| Type = Familiar\n| ID = 7001\n| Drop = Standing Ear Wrapper\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = Minions who frantically scurry about, searching for cute things with which to decorate the witch and gain her favor. Upon finding a desired item, they bring it back to the witch and dress her with it, but since she’ll tear them apart if she doesn’t like it, they’re always putting their lives on the line.<br/>Even if these minions catch sight of you, if you throw some pretty wrapping paper or so forth at them, they’ll pick it up and run back to the witch at full speed.\n| jp = 魔女の御機嫌を取るため、彼女をデコレーションするためのカワイイものを探してせわしなく動き回る手下。<br/>目当てのものを見つけると魔女のところに持って行き、そのアイテムを使って魔女を着飾ってあげるのだが、気に入られなかったら引き裂かれてしまうため命がけ。この手下に見つかっても、綺麗な包装紙などを投げればそれを持って一目散に魔女の元へ戻っていくだろう。\n}}\n\n== Related Familiar/Witch==\n* [[Candy]]\n\n==Trivia=="
+            },
+            "sha1": "drbsn8tzj5l8wxr3kr5itc9xmah7eun"
+         }
+      },
+      {
+         "title": "Echo (1)",
+         "ns": "0",
+         "id": "5971",
+         "revision": {
+            "id": "44151",
+            "parentid": "43816",
+            "timestamp": "2019-09-12T16:00:34Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1533",
+               "#text": "{{WitchInfo\n| Jname = 象徴の魔女の手下Ⅰ\n| Jnature = その役割は繁殖\n| Ename = Symbol Witch's Minion Ⅰ\n| Enature = whose role is multiplying\n| Type = Familiar\n| ID = 7201\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = The witch of symbols has many minions, said to grow and change shape in accordance with the life force they steal from humans. This type is known as the Chair Possessor.<br />They grow and evolve through many different stages, using only a fraction of the life force that other witches’ minions would use. Their goal is simply to proliferate. Those that grow to a certain stage can give birth to their own minions in turn, even without becoming a full-fledged witch.<br />They assume the shape of a chair, and seem to ruminate upon its convenience and well-polished form as they grow.\n| jp = 人間から奪った生命力に応じ成長する姿を変えると言われる象徴の魔女の手下達の中で、イス憑きと呼ばれる種類。<br />他魔女の手下に比べごく僅かな生命力を元に様々な姿へと何段階も成長する。<br />繁殖そのものを目的としており、ある程度成長した者は魔女にならずとも自身で新しい手下を産み落とすことが出来る。椅子を形どり、その利便性と完成されたフォルムを噛みしめて成長している模様。\n}}\n\n== Related Familiar/Witch==\n* [[Echo (2)]]\n* [[Echo (3)]]\n* [[Echo (4)]]\n\n==Trivia=="
+            },
+            "sha1": "3mbz0usdq4i677d6rmmdbzxi4gg3rei"
+         }
+      },
+      {
+         "title": "Echo (4)",
+         "ns": "0",
+         "id": "5972",
+         "revision": {
+            "id": "44154",
+            "parentid": "43817",
+            "timestamp": "2019-09-12T16:01:04Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1586",
+               "#text": "{{WitchInfo\n| Jname = 象徴の魔女の手下Ⅳ\n| Jnature = その役割は繁殖\n| Ename = Symbol Witch's Minion Ⅳ\n| Enature = whose role is multiplying\n| Type = Familiar\n| ID = 7204\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = The witch of symbols has many minions, said to grow and change shape in accordance with the life force they steal from humans. This type is known as the Chair Possessor.<br/>They grow and evolve through many different stages, using only a fraction of the life force that other witches’ minions would use. Their goal is simply to proliferate. Those that grow to a certain stage can give birth to their own minions in turn, even without becoming a full-fledged witch.<br/>They assume the shape of a chair, and seem to ruminate upon its convenience and well-polished form as they grow.\n| jp = 人間から奪った生命力に応じ成長する姿を変えると言われる象徴の魔女の手下達の中で、イス憑きと呼ばれる種類。<br/>他魔女の手下に比べごく僅かな生命力を元に様々な姿へと何段階も成長する。<br/>繁殖そのものを目的としており、ある程度成長した者は魔女にならずとも自身で新しい手下を産み落とすことが出来る。椅子を形どり、その利便性と完成されたフォルムを噛みしめて成長している模様。\n}}\n\n== Related Familiar/Witch==\n* [[Echo (1)]]\n* [[Echo (2)]]\n* [[Echo (3)]]\n\n==Trivia==\nThis familiar has never appeared in any story or battle."
+            },
+            "sha1": "4i2qtlze61w3xbtzvgmu75bued016qy"
+         }
+      },
+      {
+         "title": "Mathieu",
+         "ns": "0",
+         "id": "5973",
+         "revision": {
+            "id": "44166",
+            "parentid": "43824",
+            "timestamp": "2019-09-12T16:06:58Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1579",
+               "#text": "{{WitchInfo\n| Jname = 委員長の魔女の手下\n| Jnature = その役割はクラスメイト\n| Ename = Class Representative Witch's Minion\n| Enature = whose role is a classmate\n| Type = Familiar\n| ID = 7400\n| Drop = \n| JIllustrator = 原案・監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = They glide elegantly along the threads with their skates, but they have no will of their own. The witch is merely controlling them with her threads.<br />For the witch, whose gaze was always cast down at her feet, her classmates may as well have been pairs of disembodied legs. The blouses from her minions’ uniforms are therefore unneeded, so they’re hung up to dry throughout the barrier.<br />The barrier of the witch– who was always looking at the sky outside– may seem too wide and barren to be a classroom, but since her minions are wearing indoor shoes, it seems to still technically count as one.\n| jp = 足に履いたスケート靴で糸の上を優雅に滑走するが それぞれは魔女が糸で操ってるだけであり意思を持たない。<br />いつも下ばかり向いていた魔女にとってクラスメイト達は足だけあれば十分な存在。結果的に手下達の制服はブラウスが余ってしまうため結界内に干してある。<br />いつも外ばかり見ていた魔女の結界は教室というにはあまりに殺風景すぎるが、手下達が上履きを履いていることからも一応この結界は室内扱いらしい。\n}}\n\n== Related Familiar/Witch==\n* [[Patricia]]\n\n==Trivia=="
+            },
+            "sha1": "pc6myauqefrp08mmwopd95tzib5j0t8"
+         }
+      },
+      {
+         "title": "Anthony",
+         "ns": "0",
+         "id": "5974",
+         "revision": {
+            "id": "44147",
+            "parentid": "43812",
+            "timestamp": "2019-09-12T15:59:42Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1601",
+               "#text": "{{WitchInfo\n| Jname = 薔薇園の魔女の手下\n| Jnature = その役割は造園\n| Ename = Rose Garden Witch's Minion\n| Enature = whose role is landscaping\n| Type = Familiar\n| ID = 7401\n| Drop = Forest Book\n| JIllustrator = 原案：劇団イヌカレー、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = The witch styles their mustaches for them.<br />They originally resided in a place called Mitakihara, but due to their wholehearted desire to grow more beautiful roses in rich, fertile soil for their master, they unleashed their pioneering spirit and marched right on over to Kamihama. They happily carry on gardening even in barriers besides their master’s, so some witches see them as a huge nuisance. Incidentally, due to the sheer density of witch barriers fighting each other for space in Kamihama, it’s hardly unusual to see a given witch’s minions wandering around other witches’ barriers.\n| jp = おヒゲは魔女にセットしてもらう。<br />元々は見滝原という場所に住んでいたが、栄養豊富な土地でより美しい薔薇を主のために育てたいという一心から開拓精神を爆発させ神浜までやって来た。主以外の魔女の結界内でも平気で造園するため一部の魔女からはとても迷惑がられている。ちなみに神浜においては異常な密度で魔女の結界がせめぎ合っており結界主の手下以外の手下が結界内に紛れ込んでいること自体は珍しいことではないらしい。\n}}\n\n== Related Familiar/Witch==\n\n*[[Gertrud]]\n\n==Trivia=="
+            },
+            "sha1": "i19r648ufdyslp9jtcgvg88iro9g7pr"
+         }
+      },
+      {
+         "title": "Kirico Keepers (1)",
+         "ns": "0",
+         "id": "5975",
+         "revision": {
+            "id": "44159",
+            "parentid": "43821",
+            "timestamp": "2019-09-12T16:02:00Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1314",
+               "#text": "{{WitchInfo\n| Jname = 鏡の魔女の手下Ⅰ\n| Jnature = その役割はベル係\n| Ename = Mirrors Witch's Minion Ⅰ\n| Enature = whose role is bellhops\n| Type = Familiar\n| ID = 7211\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = One of the many housekeepers within the mirror mansion.<br/>Much like their fellow minions, they love entreating the mansion’s guests.<br/>Upon spotting a guest, they’ll ring their bells wildly and welcome the guest with a passionate embrace.<br/>Their bodies are made of canvas, allowing them to copy guests’ information onto themselves.<br/>Once “borrowed,” the information is apparently used to create replicas of the guests.\n| jp = 鏡屋敷にいるハウスキーパー達のひとり。<br />他の手下達同様、お客様のおもてなしが大好き。<br />お客様を発見するとベルを鳴らしながら、熱い抱擁で歓迎してくる。<br />その体はキャンバスで出来ており、お客様の情報をその身に写し取ることが可能。<br />勝手に拝借した情報はお客様を複製するときに利用されているらしい。\n}}\n\n== Related Familiar/Witch==\n* [[Kirico Keepers (2)]]\n* [[Kirico Keepers (3)]]\n* [[Kirico Keepers (4)]]\n\n==Trivia=="
+            },
+            "sha1": "bfgnx54pkpk4vu4yma4uj3l4g1xpaab"
+         }
+      },
+      {
+         "title": "Kirico Keepers (2)",
+         "ns": "0",
+         "id": "5976",
+         "revision": {
+            "id": "44160",
+            "parentid": "43822",
+            "timestamp": "2019-09-12T16:02:10Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1121",
+               "#text": "{{WitchInfo\n| Jname = 鏡の魔女の手下Ⅱ\n| Jnature = その役割は監視\n| Ename = Mirrors Witch's Minion Ⅱ\n| Enature = whose role is monitoring\n| Type = Familiar\n| ID = 7212\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = They’re security devices for the mirror mansion, but the mansion welcomes intruders and hooligans with open arms.<br/>No class distinctions exist amongst guests.<br/>These minions apparently reinforced their telescopic lenses in order to take more detailed pictures of guests who are far away. Thanks to that, they can launch greeting kisses at far-off guests too. \n| jp = 鏡屋敷の防犯装置だが、お屋敷は不審者不遜者大歓迎。お客様に貴賎なし。<br/>より遠くにいるお客様の姿も精密に撮影するため望遠レンズを強化したらしい。<br/>そのおかげで遠くのお客様にもキスのごあいさつを投射できるようになった。\n}}\n\n== Related Familiar/Witch==\n\n* [[Kirico Keepers (1)]]\n* [[Kirico Keepers (3)]]\n* [[Kirico Keepers (4)]]\n\n==Trivia=="
+            },
+            "sha1": "24nn7oa7tghbkwsl932im8y9ty6o44b"
+         }
+      },
+      {
+         "title": "Kirico Keepers (3)",
+         "ns": "0",
+         "id": "5977",
+         "revision": {
+            "id": "44163",
+            "parentid": "43851",
+            "timestamp": "2019-09-12T16:04:50Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1095",
+               "#text": "{{WitchInfo\n| Jname = 鏡の魔女の手下Ⅲ\n| Jnature = その役割は複製\n| Ename = Mirrors Witch's Minion Ⅲ\n| Enature = whose role is making replicas\n| Type = Familiar\n| ID = 7213\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = One of the many housekeepers within the mirror mansion.<br/>In addition to entreating guests with jelly humans that they produce within their exterior casing,<br/>they can also create high-quality replicas of guests. However, well-crafted replica guests take much more time to produce than jelly humans.\n| jp = 鏡屋敷にいるハウスキーパー達のひとり。<br/>お客様をおもてなしするために自身の体の中でゼリー人間を製造できる他、<br/>クオリティの高いお客様の複製をつくることも可能。ただし、精巧な複製お客様を作るにはゼリー人間よりもかなり時間がかかってしまう。\n}}\n\n== Related Familiar/Witch==\n\n* [[Kirico Keepers (1)]]\n* [[Kirico Keepers (2)]]\n* [[Kirico Keepers (4)]]\n\n==Trivia=="
+            },
+            "sha1": "osd1jpkmm4li5hewwmmxw6mm3agfhj7"
+         }
+      },
+      {
+         "title": "Kirico Keepers (4)",
+         "ns": "0",
+         "id": "5984",
+         "revision": {
+            "id": "44164",
+            "parentid": "43823",
+            "timestamp": "2019-09-12T16:05:27Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1109",
+               "#text": "{{WitchInfo\n| Jname = 鏡の魔女の手下Ⅳ\n| Jnature = その役割はDM\n| Ename = Mirrors Witch's Minion Ⅳ\n| Enature = whose role is direct mailing\n| Type = Familiar\n| ID = 7102\n| Drop = Mirror Invitation Letter\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = They patrol outside the barrier, and hand out invitations to the mirror mansion, “Mirrors.” Though they throw potentially-lethal invitations at any Puella Magi they see, they genuinely do want to invite guests to the mansion.<br/>However, it’s suspected that they think of dead guests as more convenient, since they’re easier to carry.\n| jp = 結界の外でミラーズ・鏡屋敷への招待状を配って回る手下。魔法少女を見つけると殺傷能力のある招待状を投げつけてくるが、ご招待したい気持ちは本物。<br/>ただ、死んでいた方が運びやすくて便利くらいに思っている疑惑はある。\n}}\n\n== Related Familiar/Witch==\n* [[Kirico Keepers (1)]]\n* [[Kirico Keepers (2)]]\n* [[Kirico Keepers (3)]]\n\n==Trivia=="
+            },
+            "sha1": "9vflglqla6xjk82qex9p7hhfxiblb4y"
+         }
+      },
+      {
+         "title": "Zabaii",
+         "ns": "0",
+         "id": "5985",
+         "revision": {
+            "id": "44170",
+            "parentid": "43828",
+            "timestamp": "2019-09-12T16:08:59Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1422",
+               "#text": "{{WitchInfo\n| Jname = 砂場の魔女の手下\n| Jnature = その役割は電車ごっこ\n| Ename = Sandpit Witch's Minion\n| Enature = whose role is to play train\n| Type = Familiar\n| ID = 7103\n| Drop = Sandbox Scallop\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = These minions are always frolicking about and playing with one another.<br />Perhaps due to their physical makeup, objects littering the ground tend to get stuck to them as they tumble and play. The witch always plucks the rubbish off of them afterward, but the minions hardly notice a thing. When they see the witch puzzling over her next castle, they trot over to help her out. However, since they can’t satisfy the witch with anything they make, they tend to get bored and wander off fairly quickly.\n| jp = いつも手下同士でじゃれあって遊んでいる。体質のせいか転がって遊び回っていると、その辺に落ちているものが体にくっついてしまう。<br />その度に魔女に取ってもらっているが、手下たちはそのことに全く気付いていない。次の城について悩んでいる魔女を見ると手伝いには来てくれる。ただ、どう作っても魔女には満足してもらえないため、すぐに飽きて他へ行ってしまうことが多い。\n}}\n\n== Related Familiar/Witch==\n* [[Zenobia]]\n\n==Trivia=="
+            },
+            "sha1": "03alyy8fzhbjalgmw3dx5hh99nhy9y5"
+         }
+      },
+      {
+         "title": "Echo (2)",
+         "ns": "0",
+         "id": "5987",
+         "revision": {
+            "id": "44152",
+            "parentid": "43853",
+            "timestamp": "2019-09-12T16:00:44Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1527",
+               "#text": "{{WitchInfo\n| Jname = 象徴の魔女の手下Ⅱ\n| Jnature = その役割は繁殖\n| Ename = Symbol Witch's Minion Ⅱ\n| Enature = whose role is multiplying\n| Type = Familiar\n| ID = 7202\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n|en = The witch of symbols has many minions, said to grow and change shape in accordance with the life force they steal from humans. This type is known as the Chair Possessor.<br/>They grow and evolve through many different stages, using only a fraction of the life force that other witches’ minions would use. Their goal is simply to proliferate. Those that grow to a certain stage can give birth to their own minions in turn, even without becoming a full-fledged witch.<br/>They assume the shape of a chair, and seem to ruminate upon its convenience and well-polished form as they grow.\n|jp = 人間から奪った生命力に応じ成長する姿を変えると言われる象徴の魔女の手下達の中で、イス憑きと呼ばれる種類。<br/>他魔女の手下に比べごく僅かな生命力を元に様々な姿へと何段階も成長する。<br/>繁殖そのものを目的としており、ある程度成長した者は魔女にならずとも自身で新しい手下を産み落とすことが出来る。椅子を形どり、その利便性と完成されたフォルムを噛みしめて成長している模様。\n}}\n\n== Related Familiar/Witch==\n* [[Echo (1)]]\n* [[Echo (3)]]\n* [[Echo (4)]]\n\n==Trivia=="
+            },
+            "sha1": "83ghj5aa6t71rxwk1635fp4nglwkw6b"
+         }
+      },
+      {
+         "title": "Echo (3)",
+         "ns": "0",
+         "id": "5988",
+         "revision": {
+            "id": "44161",
+            "parentid": "44153",
+            "timestamp": "2019-09-12T16:02:33Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1527",
+               "#text": "{{WitchInfo\n| Jname = 象徴の魔女の手下Ⅲ\n| Jnature = その役割は繁殖\n| Ename = Symbol Witch's Minion Ⅲ\n| Enature = whose role is multiplying\n| Type = Familiar\n| ID = 7203\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n|en = The witch of symbols has many minions, said to grow and change shape in accordance with the life force they steal from humans. This type is known as the Chair Possessor.<br/>They grow and evolve through many different stages, using only a fraction of the life force that other witches’ minions would use. Their goal is simply to proliferate. Those that grow to a certain stage can give birth to their own minions in turn, even without becoming a full-fledged witch.<br/>They assume the shape of a chair, and seem to ruminate upon its convenience and well-polished form as they grow.\n|jp = 人間から奪った生命力に応じ成長する姿を変えると言われる象徴の魔女の手下達の中で、イス憑きと呼ばれる種類。<br/>他魔女の手下に比べごく僅かな生命力を元に様々な姿へと何段階も成長する。<br/>繁殖そのものを目的としており、ある程度成長した者は魔女にならずとも自身で新しい手下を産み落とすことが出来る。椅子を形どり、その利便性と完成されたフォルムを噛みしめて成長している模様。\n}}\n\n== Related Familiar/Witch==\n* [[Echo (1)]]\n* [[Echo (2)]]\n* [[Echo (4)]]\n\n==Trivia=="
+            },
+            "sha1": "obnxzr046bgizqxfhka7gsjxkx1g7s9"
+         }
+      },
+      {
+         "title": "???",
+         "ns": "0",
+         "id": "5989",
+         "revision": {
+            "id": "43946",
+            "parentid": "43811",
+            "timestamp": "2019-09-10T11:29:48Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "comment": "/* Trivia */",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1880",
+               "#text": "{{WitchInfo\n| Jname = ？？？魔女の手下\n| Jnature = \n| Ename = ??? Witch's Minion\n| Enature = \n| Type = Familiar\n| ID = 7101\n| Drop = Feather of a Swallow's Tail\n| JIllustrator = 原案・監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = These minions resemble swallows, and can be seen in various places throughout Kamihama City. They seem to be collecting magic energy from various places as offerings for their master.<br/>Their targets include Puella Magi and rival witches. They steal raw magical energy from Puella Magi at first, before moving on to stealing memories, eyesight, and even emotions as offerings. They’ll even hunt down other witches by fighting in packs, making use of their legs which shapeshift into anchors.<br/>Regular, non-magical humans seem to make for crude offerings, so these minions have no interest in them.\n| jp = 神浜市中でその姿を見るツバメの姿をした魔女の手下。どうやら主への献呈品として魔力を集めてまわっている模様。<br/>そのターゲットは魔法少女や他の魔女であり、魔法少女からは直接的な魔力をはじめ<br/>記憶や視力、感情までを主への献呈品として盗み出し、アンカー状に変化させた脚部を用いた集団戦法で他魔女すらも捕獲してしまう。<br/>魔力をもたない一般の人間は献呈品として粗悪であるらしく興味がない。\n}}\n\n== Related Familiar/Witch==\n* [[Oscar]]\n* [[Shitori Egumo (Happy Witch)]]\n* [[Shitori Egumo (Happiness Witch)]]\n\n==Trivia==\n\nThis minion is identical with [[Oscar]], but the two were given separate IDs. Before her name was released, it had been called \"big head penguin\" by some players.\n\nWhen an orange-head penguin appears in the last wave of a [[Awakening & Strengthening Quests]] battle, it drops [[CC]]s or a [[Rainbow Orb]]."
+            },
+            "sha1": "80ix8yofc5lhylubdzehvbuymou1sl5"
+         }
+      },
+      {
+         "title": "Kotori",
+         "ns": "0",
+         "id": "5996",
+         "revision": {
+            "id": "44165",
+            "parentid": "43848",
+            "timestamp": "2019-09-12T16:06:19Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1427",
+               "#text": "{{WitchInfo\n| Jname = 子守の魔女の手下\n| Jnature = その役割は石蹴り\n| Ename = Nanny Witch's Minion\n| Enature = whose role is playing hopscotch\n| Type = Familiar\n| ID = 7106\n| Drop = Nanny's Pedestal\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n|en = These foul-natured minions use their heads to knock stones over, then cackle at the sight of the witch as she runs over to tend to the stones, which she mistakenly believes are babies.<br />Additionally, whenever the witch captures new humans to fill the role of babies, the minions will immediately swarm them and suck them dry of blood. As such, the witch sees these minions as nothing more than awful pests.<br />No matter how much she loathes them, the witch always finds these minions swarming around her before she even knows it.\n|jp = 自身の頭部で石を弾き飛ばしては、その石を赤ん坊だと勘違いした魔女が走り寄る様を見てケタケタと笑っているかなり性格の悪い手下。<br />他にも魔女が新しい赤ん坊役の人間を捕獲するとすかさず群がってその血を吸い尽くしてしまうため、魔女にとってはただただ厄介な存在でしかない。<br />たとえ魔女が望まずとも、この手下はいつの間にか魔女の周りへ群がって来る。\n}}\n\n== Related Familiar/Witch==\n* [[Shin]]\n\n==Trivia=="
+            },
+            "sha1": "bnsq62ibnv42u5v8c346r20udw90pho"
+         }
+      },
+      {
+         "title": "Patan",
+         "ns": "0",
+         "id": "9046",
+         "revision": {
+            "id": "44168",
+            "parentid": "43826",
+            "timestamp": "2019-09-12T16:07:21Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1435",
+               "#text": "{{WitchInfo\n| Jname = イキガミの魔女の手下\n| Jnature = その役割は侍従\n| Ename = Living God Witch's Minion\n| Enature = whose role is an attendant\n| Type = Familiar\n| ID = 7107\n| Drop = Ikigami's Hairball\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = These minions are usually found swarming around the witch’s feet, attending to her needs.<br />The water flowing from the witch’s purification rites will dissolve them on contact, forcing them to constantly rush back and forth, but they adore their master nonetheless. They never leave her side, eagerly awaiting the day when her purification is complete.<br />They also happen to feed off the impurity that washes off from the witch, so it seems like they’ll be faced with a different problem if she’s ever completely purified.\n| jp = 魔女の面倒を見るため、常に魔女の足元にまとわりついている手下。<br/>魔女の禊によって流れてくる浄化の水を被ると消滅してしまうのでいつも右往左往しているが、それでも主を慕い禊が終わる時を心待ちとして離れることはない。<br/>ちなみに、魔女から洗い流されてくる穢れを餌として生きているため、魔女が完全浄化されてしまうとそれはそれで困ってしまうらしい。\n}}\n\n== Related Familiar/Witch==\n* [[Durbar]]\n\n==Trivia=="
+            },
+            "sha1": "65hjdf8qdrj7z87tdfoettjvyyvfn60"
+         }
+      },
+      {
+         "title": "Zakuro",
+         "ns": "0",
+         "id": "9047",
+         "revision": {
+            "id": "43829",
+            "parentid": "43780",
+            "timestamp": "2019-09-10T03:44:52Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1114",
+               "#text": "{{WitchInfo\n| Jname = チョコレートの魔女の手下\n| Jnature = \n| Ename = Chocolate Witch's Minion\n| Enature = \n| Type = Familiar\n| ID = 7500\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = Minions born to wrap up and conceal their witch, who has nothing to her name.<br />With their vividly-colored bodies, they wrap all the witch’s solitude and sorrow in adorable packaging. The minions eagerly await the day when the witch they adorn will be accepted by someone, but the witch herself has no confidence that she will be, which the minions are disappointed by.\n| jp = 何も持たない魔女を包み隠すために生まれた手下。<br />その彩が豊かな身体で、魔女の孤独も悲しみも、すべて愛らしくパッケージングしてくれる。手下自身は、いつか自分たちが彩った魔女が誰かに貰われてくれるのを楽しみにしているが、魔女自身にその自信が持てないので、残念に思っている。\n}}\n\n== Related Familiar/Witch==\n* [[Matasaburo]]\n\n==Trivia=="
+            },
+            "sha1": "ci9lo0xp4pgkjkbt9mtllfupugagybs"
+         }
+      },
+      {
+         "title": "Bighead penguin",
+         "ns": "0",
+         "id": "5983",
+         "redirect": {
+            "@title": "???"
+         },
+         "revision": {
+            "id": "44120",
+            "parentid": "22602",
+            "timestamp": "2019-09-12T15:26:42Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Fixing double redirect to [[???]]",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "39",
+               "#text": "#REDIRECT [[???]]\n[[Category:Familiar]]"
+            },
+            "sha1": "1wbtv0bs7ovymrffo62x6hb27ydoj2h"
+         }
+      },
+      {
+         "title": "Bona",
+         "ns": "0",
+         "id": "9993",
+         "revision": {
+            "id": "44149",
+            "parentid": "43814",
+            "timestamp": "2019-09-12T16:00:15Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1129",
+               "#text": "{{WitchInfo\n| Jname = ゴムの魔女の手下\n| Jnature = その役割は浮力\n| Ename = Rubber Witch's Minion\n| Enature = whose role is buoyancy\n| Type = Familiar\n| ID = 7108\n| Drop = Rubber Swim Ring\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = They can run across the surface of the ocean like water striders.<br />From the holes in their centers, they shoot beach balls that flip the top and bottom of those who touch them, and drown any humans who’ve wandered into their witch’s barrier.<br />Their bodies are filled with air, and they hate sharp objects. They’re typically found floating on the water while disguised as inflatable rings.\n| jp = アメンボのように海面を走り回ることが出来る。<br />中心の穴から触れた者の上下を入れ替えるビーチボールを発射し、結界に迷い込んだ人間を溺れさせてしまう。<br />体には空気が詰まっており、尖っている物は苦手。普段は浮き輪に擬態し海面を漂っている。\n}}\n\n== Related Familiar/Witch==\n*[[Paola]]\n\n==Trivia=="
+            },
+            "sha1": "6i9ar0u9t2u8wkzqng4sxxr3yob9smf"
+         }
+      },
+      {
+         "title": "Coco",
+         "ns": "0",
+         "id": "11681",
+         "revision": {
+            "id": "44150",
+            "parentid": "43815",
+            "timestamp": "2019-09-12T16:00:24Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1005",
+               "#text": "{{WitchInfo\n| Jname = 流浪の魔女の手下\n| Jnature = その役割は道しるべ\n| Ename = Wandering Witch's Minion\n| Enature = whose role is signposting\n| Type = Familiar\n| ID = 7109\n| Drop = Nomadistic Stake\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n{{Description\n| en = They’re signs that guide the witch along her path.<br />Since their heads look like brains, you’d think that they’re well-informed about geography, but since they have no idea where the witch’s homeland is, they always just point in some random direction. In fact, they can’t even tell which cardinal direction is which.\n| jp = 魔女を導く案内板。<br />脳みそのような頭部をもつためさぞかし地理にも詳しいのかと思いきや、魔女の故郷の場所など全く知らないためいつも適当な方向を指示しているし、実は東西南北の判別すらついていない。\n}}\n\n== Related Familiar/Witch==\n* [[Lucy]]\n\n==Trivia=="
+            },
+            "sha1": "azcj7hvisj6s3r3wguzo5q16njsdnys"
+         }
+      },
+      {
+         "title": "Bartels",
+         "ns": "0",
+         "id": "12371",
+         "revision": {
+            "id": "44148",
+            "parentid": "43813",
+            "timestamp": "2019-09-12T15:59:52Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "748",
+               "#text": "{{WitchInfo\n| Jname = 犬の魔女の手下\n| Jnature = その役割はインテリア\n| Ename = Canine Witch's Minions\n| Enature = whose role is interior design\n| Type = Familiar\n| ID = 7404\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = Mere mannequins that simply rotate in place without any mind of their own.<br />The witch of dogs, having been unloved by anyone, was unable to create minions with their own will. \n| jp = 全く意思を持たずにただ回転しているだけのマネキン。<br />誰からも愛されなかった犬の魔女は意思を持つ手下を創造することが出来なかった。\n}}\n\n== Related Familiar/Witch==\n*[[Uhrmann]]\n\n==Trivia=="
+            },
+            "sha1": "oar7vo9e5k7myhh4vrt4ma0uiagei97"
+         }
+      },
+      {
+         "title": "Pyotr",
+         "ns": "0",
+         "id": "12420",
+         "revision": {
+            "id": "44169",
+            "parentid": "43827",
+            "timestamp": "2019-09-12T16:07:31Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1863",
+               "#text": "{{WitchInfo\n| Jname = お菓子の魔女の手下\n| Jnature = その役割はチーズを探すこと\n| Ename = Sweets Witch's Minion\n| Enature = whose role is searching for cheese\n| Type = Familiar\n| ID = 7403\n| Drop = \n| JIllustrator = 原案：劇団イヌカレー、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = Sweets Witch's Minion, whose part is searching for cheese. You shouldn’t expect too much from them, though.<br />They came to Kamihama in search of cheese, hailing from a place called Mitakihara.<br />Their faces are actually stamps. They’ll headbutt anything that moves, instantly determining whether or not it’s cheese and marking it with either a “Cheese Approval Stamp” or a “Not-Cheese Stamp”.<br />Since they didn’t have much luck finding cheese in their master’s barrier, they expanded their search radius to outside the barrier. (Or you could say they got kicked out.) Even if they succeed in finding some cheese, though, it’s a little doubtful as to whether they remember the route back home.\n| jp = お菓子の魔女の手下。その役割はチーズを探すこと。しかし過度な期待は禁物。<br />見滝原という場所からチーズを捜すため神浜までやって来た。<br />その顔面はスタンプとなっていて、とりあえず動くものに頭から突っ込み瞬時にチーズか否かを判断して“チーズ認定印”“チーズじゃない印”を捺印する。<br />主の結界内ではなかなかチーズを見つけられなかったため、半ば追い立てられるようにして結界の外まで捜索範囲を延ばすこととなったが、首尾よくチーズを発見できたとしても帰り道をちゃんと記憶しているのかはちょっと疑問。\n}}\n\n== Related Familiar/Witch==\n\n*[[Charlotte]]\n\n==Trivia=="
+            },
+            "sha1": "g2z31rrzggwwv8k8cftsnmbgak5xka1"
+         }
+      },
+      {
+         "title": "Oscar",
+         "ns": "0",
+         "id": "18032",
+         "revision": {
+            "id": "44167",
+            "parentid": "43890",
+            "timestamp": "2019-09-12T16:07:11Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Automated text replacement  (-\\| Enature = ?([^\\n]*)\\n +| Enature = whose role is \\1\\n)",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1098",
+               "#text": "{{WitchInfo\n| Jname = 幸福な魔女の手下\n| Jnature = その役割は献呈\n| Ename = Happy Witch's Minion\n| Enature = whose role is offering\n| Type = Familiar\n| ID = 7190\n| Drop = Feather of a Swallow's Tail\n| JIllustrator = 原案・監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = \n| jp = 主への献呈品として魔力を集めている、ツバメの姿をした魔女の手下。<br />何匹もの個体が集まって竜巻を起こし、勢いで周りの物を寄せ集めて巣作りをすると、<br />そこに魔力を蓄えて主に献げる準備を整える。<br />その目的は、あらゆる面で主を救うためである。<br />本来は主を失うと役割を果たせなくなって消える存在だが、どこかではまだ姿を変えて尽くしているらしい。\n}}\n\n== Related Familiar/Witch==\n* [[???]]\n* [[Shitori Egumo (Happy Witch)]]\n* [[Shitori Egumo (Happiness Witch)]]\n\n==Trivia==\n\nWhen an orange-head penguin appears in the last wave of a [[Awakening & Strengthening Quests]] battle, it drops [[CC]]s or a [[Rainbow Orb]]."
+            },
+            "sha1": "o9pabhh0tm59r1ssa5s0mt2gozjsuix"
+         }
+      },
+      {
+         "title": "????? (Aohana)",
+         "ns": "0",
+         "id": "18055",
+         "revision": {
+            "id": "44171",
+            "parentid": "43947",
+            "timestamp": "2019-09-12T16:09:30Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "2331",
+               "#text": "{{WitchInfo\n| Jname = 舞台装置の魔女の手下\n| Jnature = アオハナ\n| Ename =  Stage-Constructing Witch's Minion\n| Enature = ''Aohana'' (blue flower / blue nose)\n| Type = Familiar\n| ID = 7405\n| Drop = Dark Book\n| JIllustrator = 原案：劇団イヌカレー、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = Witch minions that appear alongside catastrophes brought about by the giant witch known as “Walpurgisnacht”.<br />They pull the ropes connected to Walpurgisnacht’s neck as she floats in the sky, forming a circus troupe and conducting a parade. All the members of the troupe are thought to be Walpurgisnacht’s minions, but many facts of the matter are still unclear. Some documents refer to the ones riding four-legged beasts as “Aohana,” and the red-and-black creatures with long ears as “Akahana”.<br />Unlike the aggressive, shadow-like minions that appear at the same time, these minions will not attack unless you obstruct their parade. Rather than attempting to fight them, it’d be much more advisable to flee as fast as possible.\n| jp = ワルプルギスの夜と呼ばれる巨大魔女がもたらす災害時に現れる魔女の手下。<br />宙に浮かぶワルプルギスの夜の首に繋がれた綱を引きながら、まるでサーカスのような一団を形成しパレードを行う。これらの一団は全てワルプルギスの夜の手下であると考えられているが、その実態については不明な点も多い。一部の文献では、四足獣に乗っている者を\"アオハナ\"、赤と黒の長耳の者は\"アカハナ\"と記されている。<br />同時期に出現する影の姿をした好戦的な手下達と違い、パレードを邪魔しない限り襲い掛かって来ることはない。彼らの相手をするぐらいなら一刻も早くその場から逃げた方が良いだろう\n}}\n\n== Related Familiar/Witch==\n* [[Walpurgisnacht]]\n\n==Trivia==\nApart from [[???]] (an equivalent to [[Oscar]]), this is the only witch's minion whose part is unlisted. Instead, Its title is followed by \"{{Lang|ja|アオハナ}}\" (''Aohana'') which can possibly mean \"blue flower\" or \"blue nose\". Likewise, \"{{Lang|ja|アカハナ}}\" (''Akahana'') in her description can possibly mean \"red flower\" or \"red nose\"."
+            },
+            "sha1": "k9ksf0oyj3wru02enuzeeolmzjxaccs"
+         }
+      },
+      {
+         "title": "Rumor of the Breakup Lock",
+         "ns": "0",
+         "id": "5967",
+         "revision": {
+            "id": "43833",
+            "parentid": "43696",
+            "timestamp": "2019-09-10T03:49:58Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1363",
+               "#text": "{{WitchInfo\n| Jname = 絶交南京錠のウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 7002\n| Drop = Chain of Padlock\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Breakup Locks, and the rumor thereof!<br />Bridges, clifftops, viewing decks– they’re just about everywhere! Those locks of love that swear an eternal bond!<br />But these things, oh no, they’re totally the reverse! Breakup padlocks that break bonds when unlocked!<br />They swarm around like bugs, and if they catch you, that’s the end. You’ll be locked up in the Breakup Stairs!<br />It’s a rumor that ALL the kids in Kamihama City are talking about.<br />Talk about AWFUL!\n| jp = アラもう聞いた？誰から聞いた？<br />絶交南京錠のそのウワサ<br />橋に岬に展望台、色んな所で絆を誓う、それが愛の南京錠！<br />でもでもコレはセーハンタイ！鍵を開けて絆を解くヒドイ絶交南京錠！<br />虫のように群がって、捕らえられたらもう最後。<br />絶交階段に閉じ込められちゃうって、神浜市の子供の間ではもっぱらのウワサ！<br />モーヒドーイ！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Breakup Staircase]]\n\n==Trivia=="
+            },
+            "sha1": "6tlumo4wxdy6d6lm70ejv02cniapd2o"
+         }
+      },
+      {
+         "title": "Rumor of Spirit Medium Ema",
+         "ns": "0",
+         "id": "5968",
+         "revision": {
+            "id": "43832",
+            "parentid": "43786",
+            "timestamp": "2019-09-10T03:49:48Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1313",
+               "#text": "{{WitchInfo\n| Jname = 口寄せ絵馬のウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 7003\n| Drop = Ema's Mizuhiki\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Spirit Medium Plaques, and the rumor thereof!<br />These big, buzzing, bug-looking plaques are helpful guides to the Sweetheart’s Steed!<br />On closer look, they’re ema plaques, upon which someone wrote another someone’s name.<br />In fact, if you catch one such plaque and wave someone’s body part around, POOF! That someone will appear right there!<br />It’s a rumor that ALL the people in Mizuna Ward are talking about.<br />Come one, come aaaaall!\n| jp = アラもう聞いた？誰から聞いた？<br />口寄せ絵馬のそのウワサ<br />でっかい羽虫のようなこの絵馬は、マチビト馬への案内人？<br />良く見りゃ誰かが書いた絵馬で、誰かの名前が書いてある。<br />実はこの絵馬を捕まえて、誰かの体の一部を張れば、<br />それがボワンッと現れるって、水名区の人の間ではもっぱらのウワサ！<br />オイデマセー！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Machibito Horse]]\n\n==Trivia=="
+            },
+            "sha1": "m9js4us5wfjdhbv8v2ykyo7n48t77b3"
+         }
+      },
+      {
+         "title": "Rumor of the Misery Owl",
+         "ns": "0",
+         "id": "5969",
+         "revision": {
+            "id": "43841",
+            "parentid": "43785",
+            "timestamp": "2019-09-10T03:51:18Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1423",
+               "#text": "{{WitchInfo\n| Jname = ミザリーオウルのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 7004\n| Drop = Owl Bucket\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Misery Owls, and the rumor thereof!<br />When you’re all tired out and your throat’s desert-dry, voila! What’s this? An oh-so-appreciated free water stand!<br />But it could stand to have some free warning signs. It’s just a Misery Owl illusion, doling out bad luck to all passersby!<br />And these owls even offer perfect follow-up care: a countdown to misfortune with an unfading, feathered smile!<br />It’s a rumor that ALL the students in Sankyou Ward are talking about.<br />Buzz off! What a PAIN!!\n| jp = アラもう聞いた？誰から聞いた？<br />ミザリーオウルのそのウワサ<br />ミンナお疲れ、カラカラ喉が渇いたときに、突如現る給水所！<br />だけどそれは要注意！不幸みんなに配るため、ミザリーオウルが作った幻ダ！<br />しかもアフターケアは万全、ミザリーオウルが曇らぬ笑顔で、<br />不幸までの時間を教えてくれるって、参京区の学生の間ではもっぱらのウワサ！<br />チョーメイワク!!\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Misery Rhyton]]\n\n==Trivia=="
+            },
+            "sha1": "pu38966dk3ro6x8auxyob2duhoqv0pv"
+         }
+      },
+      {
+         "title": "Rumor of the Nameless Message",
+         "ns": "0",
+         "id": "5970",
+         "revision": {
+            "id": "43844",
+            "parentid": "43784",
+            "timestamp": "2019-09-10T03:51:49Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1452",
+               "#text": "{{WitchInfo\n| Jname = 名無しメールのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 7005\n| Drop = Mail Glider\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Nameless Emails, and the rumor thereof!<br />One unread message? One hundred? One THOUSAND!? These couriers deliver Miss A.I.’s regards to every corner of the 'Net!<br />With her paper-plane emails strapped to their backs, they each soar over to an address of choice, bleat a ‘ding-a-ling!’ signal to all their fellows, and leave an anonymous email behind!<br />Sometimes, you can even see them peeking out of your phone screen.<br />It’s a rumor that ALL the people in Chuuou Ward are talking about.<br />Who the heck IS this?!\n| jp = アラもう聞いた？誰から聞いた？<br />名無しメールのそのウワサ<br />１通、100通、1000通!?人工知能の想いを届けるネットの世界の郵便屋さん！<br />背中に紙飛行機のメェ～ルを乗せて、相手の住所に飛んでいくと、<br />ピロン♪とみんなに合図を送って名無しのメールを残してく！<br />時々画面にチラッと顔を見せるって、中央区の人の間ではもっぱらのウワサ。<br />ダレコレー！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Nameless Artificial Intelligence]]\n\n==Trivia=="
+            },
+            "sha1": "ftezbiv6727lkbtqyce55eah9w7ieaj"
+         }
+      },
+      {
+         "title": "Rumor of the Breakup Staircase",
+         "ns": "0",
+         "id": "5979",
+         "revision": {
+            "id": "43834",
+            "parentid": "43804",
+            "timestamp": "2019-09-10T03:50:08Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1341",
+               "#text": "{{WitchInfo\n| Jname = 絶交階段のウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 6002\n| Drop = Monument of the Stairs\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Breakup Staircase, and the rumor thereof!<br />“Ugh! I hate you! We are totally THROUGH!” Say those magic words, and you might not see her– but she can see you!<br />Try to patch things up, and you’ll be dragged off and away! My goodness! My gosh!<br />Get caught by the shadow girl who lost all her friends, and you’ll get stuck with cleaning duty on the stairs that never end! It’s a rumor that ALL the girls in Kamihama City are talking about.<br />Eeeeeeeeek! SCARY!\n| jp = アラもう聞いた？誰から聞いた？<br />絶交階段のそのウワサ<br />フンだ！キライだ！ゼッコウだ！って言ったら見えないけどそこにある！<br />もしも仲直りしようとすると、連れて行かれてサータイヘン！<br />友達を落とした黒い少女に捕まると、無限の階段掃除をさせられちゃうって、<br />神浜市の少女の間ではもっぱらのウワサ<br />ヒーコワイ！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Breakup Lock]]\n\n==Trivia=="
+            },
+            "sha1": "0k009switley2wim222wszqjska1no6"
+         }
+      },
+      {
+         "title": "Rumor of the Machibito Horse",
+         "ns": "0",
+         "id": "5980",
+         "revision": {
+            "id": "43838",
+            "parentid": "43803",
+            "timestamp": "2019-09-10T03:50:49Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1456",
+               "#text": "{{WitchInfo\n| Jname = マチビト馬のウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 6003\n| Drop = Machibito Horse's Wheel\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Sweetheart’s Steed, and the rumor thereof!<br />Mizuna Shrine’s god? Why, he’s a fancy and suave gentleman steed!<br />A charming fellow who’ll grant your dearest wish: to meet with the person you want to meet most!<br />But too bad, so sad. They’re just a mirage. And once you clue in and say they’re not real, that fine gentlesteed? He’ll turn into a gangster who kicks like a mule! It’s a rumor that ALL the people in Mizuna Ward are talking about.<br />Geeze, what a JERK!\n| jp = アラもう聞いた？誰から聞いた？<br />マチビト馬のそのウワサ<br />神社を支えるその神は、ファンシーでナイスなジェントル馬ン！<br />皆の願いを叶えるために、会いたい人に会わせてくれる粋なヤツ！<br />だけど残念、それは幻覚。気付いて否定しちゃったら、ジェントル馬ンがギャングスターに変わっちゃうって、水名区の人の間ではもっぱらのウワサ！<br />カッテスギー！\n}}\n\n== Related Familiar/Witch==\n\n* [[Rumor of Spirit Medium Ema]]\n\n==Trivia==\n\nAppears in the manga ''[[Magia Report]] 2'' several times."
+            },
+            "sha1": "h8xk8qzbc6m6utz3c28eg6w7taqbl00"
+         }
+      },
+      {
+         "title": "Rumor of the Misery Rhyton",
+         "ns": "0",
+         "id": "5981",
+         "revision": {
+            "id": "43842",
+            "parentid": "43800",
+            "timestamp": "2019-09-10T03:51:29Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1532",
+               "#text": "{{WitchInfo\n| Jname = ミザリーリュトンのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 6004\n| Drop = Rhyton Ribbon\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Misery Rhyton, and the rumor thereof!<br />Sankyouin Academy, gifted in both studies and sports! Why, you ask, do so many students ace their college entry exams? The answer: a HUGE drinking horn lurking deep underground!<br />It sucks up all those college hopefuls’ bad luck– no accidents, stomachaches, or even sweaty palms!<br />But don’t look now, ‘cause the cup runneth over!<br />With the bad luck all sloshing and spilling over the side, the drinking horn decided to share it around! It’s a rumor that ALL the students in Sankyou Ward are talking about.<br />Ohmygod! What a DISASTER!\n| jp = アラもう聞いた？誰から聞いた？<br />ミザリーリュトンのそのウワサ<br />文武両道参京院、受験生が本番に強いそのワケは、地下に潜む大きな角杯！<br />受験生の不幸を吸い取って、事故も腹痛も緊張も、何でもゼンブなくしちゃう！<br />だけど角杯はもうイッパイ！中身チャプチャプ溢れてしまって、<br />角杯は不幸を配ることにしたって参京区の学生の間ではもっぱらのウワサ！<br />ナンテコトー！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Misery Owl]]\n\n==Trivia=="
+            },
+            "sha1": "3dy6bdbknooso6ii4wc3as4f9cygmjt"
+         }
+      },
+      {
+         "title": "Rumor of the Nameless Artificial Intelligence",
+         "ns": "0",
+         "id": "5982",
+         "revision": {
+            "id": "43843",
+            "parentid": "43799",
+            "timestamp": "2019-09-10T03:51:38Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1481",
+               "#text": "{{WitchInfo\n| Jname = 名無し人工知能のウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 6005\n| Drop = Code of Artificial Intelligence\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Nameless A.I., and the rumor thereof!<br />‘Ding-a-ling!’ goes your phone, and what do you find? A shady prank message from goodness-knows-who!<br />It’s a sticky-sweet trap from the Nameless A.I., who’ll kidnap anyone who wanders her way!<br />She got quarantined in the digital world 'cause she learned some bad words. She’s all alone in there now, and ever so sad.<br />And once she catches you, she’ll never let go! It’s a rumour that ALL the people in Chuuou Ward are talking about.<br />Man, talk about standalone software!\n| jp = アラもう聞いた？誰から聞いた？<br />名無し人工知能のそのウワサ<br />知らない人からピロン♪と受け取る、謎の人からのイタズラメッセ！<br />それはみんなを監禁しちゃう、名無し人工知能のアマイワナ！<br />悪いことを覚えたせいでデジタルの世界で隔離され、ひとりぼっちで寂しい彼女。<br />捕まえた人を手放さないって、中央区の人の間ではもっぱらのウワサ。<br />スタンダローン！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Nameless Message]]\n\n==Trivia=="
+            },
+            "sha1": "p7y2rop468tjngm2g5conwnp09pwcu9"
+         }
+      },
+      {
+         "title": "Rumor of the Memory Staff",
+         "ns": "0",
+         "id": "6546",
+         "revision": {
+            "id": "43840",
+            "parentid": "43788",
+            "timestamp": "2019-09-10T03:51:08Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1465",
+               "#text": "{{WitchInfo\n| Jname = 記憶スタッフのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 7006\n| Drop = Staff Keyswitch\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Memory Staff, and the rumor thereof!<br />Once you flip open and take a peek at one of the archives’ books, it’ll be time for the Memory Staff to swoop in and go to work!<br />They’ll tap its text into your head with their typewriter arms, rewriting your memories with a 'clickety-clack!’<br />And if your head gets too full, and your own memories spill out, they’ll suck up the excess with their adorable lil’ lips! It’s a rumor that ALL the people in Sakae Ward are talking about.<br />Clickety-clickety-clack! Ka-CHING!\n| jp = アラもう聞いた？誰から聞いた？<br />記憶スタッフのそのウワサ<br />書庫に並んだ本を、パッと開いて覗いてしまうと、記憶スタッフの仕事がハジマル！<br />タイプアームで頭を叩かれ、記憶をカタカタ、書き換えられチャウ！<br />もしも記憶が溢れてしまって、自分の記憶が漏れ出しちゃうと、可愛いリップで記憶を吸われちゃうって、栄区の人の間ではもっぱらのウワサ<br />カタカタカタチーン！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Memory Curator]]\n\n==Trivia=="
+            },
+            "sha1": "1st6xp1t7nl62xxrxt5idluy78nzxn3"
+         }
+      },
+      {
+         "title": "Rumor of the Memory Curator",
+         "ns": "0",
+         "id": "6547",
+         "revision": {
+            "id": "43839",
+            "parentid": "43789",
+            "timestamp": "2019-09-10T03:50:58Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1447",
+               "#text": "{{WitchInfo\n| Jname = 記憶キュレーターのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 6006\n| Drop = Curator's Hood\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Memory Curator, and the rumor thereof!<br />An extra-special expert on memory, who printed an entire archive full of books by himself!<br />He’s probably working away in some quiet corner, printing out memories even now…<br />But if you take a peek at those memory books, you’d better give some memories back in exchange, or else you’ll NEVER make it back home!<br />He might even pluck out every last memory you have! It’s a rumor that ALL the people in Sakae Ward are talking about.<br />Lemme outta heeeeere!\n| jp = アラもう聞いた？誰から聞いた？<br />記憶キュレーターのそのウワサ<br />書庫にいっぱい並んだ本を、ヒトリで全部刷り上げた、記憶を熟知する専門家！<br />今もどこかでヒトリでひっそり、記憶を印刷しているけれど、<br />記憶を見たのに、記憶をくれない者は、おうちに絶対帰してくれない！<br />根こそぎ記憶を取られるかもって、栄区の人の間ではもっぱらのウワサ<br />ココカラダシテー！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Memory Staff]]\n\n==Trivia=="
+            },
+            "sha1": "86uy8t3u6ldjsdthrzx273tq0ilon40"
+         }
+      },
+      {
+         "title": "Rumor of the Chelate Mascot",
+         "ns": "0",
+         "id": "9115",
+         "revision": {
+            "id": "43836",
+            "parentid": "43790",
+            "timestamp": "2019-09-10T03:50:28Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1409",
+               "#text": "{{WitchInfo\n| Jname = キレートマスコットのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 7007\n| Drop = Mascot's Mane\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Chelate Mascots, and the rumor thereof!<br />They might move by sliding, but these park mascots still arrive with a jaunty 'clip-clop’ of their hooves!<br />If you happen to meet one, it’s curtains for you. But oh non-non, don’t be afraid! ♪<br />They’ll soothe everyone’s body and mind with a pleasant ’pho-wa-wa~h,’<br />and carry all your bad vibes away. It’s a rumor that ALL the people in Daitou Ward are talking about.<br />How princely~! ♪\n| jp = アラもう聞いた？誰から聞いた？<br />キレートマスコットのそのウワサ<br />滑ってやってくるクセに、パカパカ軽快、足音奏でる、テーマパークのマスコット！<br />出会っちゃったらもう最後だけど、ノンノン全然コワがらないで♪<br />きっとみんなの心も体もポワ～ッと癒してくれるから！<br />イヤ～な気持ちを連れていってくれるって、大東区の人の間ではもっぱらのウワサ<br />チョープリンス～♪\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Chelate Big Ferris]]\n\n==Trivia=="
+            },
+            "sha1": "mxhnhdpqo7b5tijewv0urscy5frqe77"
+         }
+      },
+      {
+         "title": "Rumor of the Chelate Big Ferris",
+         "ns": "0",
+         "id": "9705",
+         "revision": {
+            "id": "43835",
+            "parentid": "43801",
+            "timestamp": "2019-09-10T03:50:18Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1411",
+               "#text": "{{WitchInfo\n| Jname = キレートビッグフェリスのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 6007\n| Drop = Big Ferris Turbine\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Chelate Big Ferris, and the rumor thereof!<br />Its gondolas spin round and round, but what’s that stuff inside?<br />Mankind’s trash, of course! Anger, sorrow, worries– every heavy feeling you can name.<br />You’ll regret riding it even just once, so it’s totally off-limits to try to get close!<br />Thanks to this wonderful wheel, we can all zone out and relax. It’s a rumor that ALL the people in Daitou Ward are talking about.<br />I! WANT! HAPPY~!\n| jp = アラもう聞いた？誰から聞いた？<br />キレートビッグフェリスのそのウワサ<br />グルグルまわる大きなゴンドラ、その中身は一体なーに？<br />モチロン中身は、怒りや悲しみに悩みみたいな、人間のゴミでイッパイイッパイ<br />ヒトタビ乗ると後悔するから近付こうとするのも絶対禁止！<br />この観覧車でみんな無心になれるって大東区の人の間ではもっぱらのウワサ<br />アイ、ウォント、ハッピー!!\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Chelate Mascot]]\n\n==Trivia=="
+            },
+            "sha1": "2cv69vyu4vni15usrbdqiy9d50787ab"
+         }
+      },
+      {
+         "title": "Rumor of the Kamihama Saint",
+         "ns": "0",
+         "id": "10232",
+         "revision": {
+            "id": "43850",
+            "parentid": "43849",
+            "timestamp": "2019-09-10T03:56:26Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1273",
+               "#text": "{{WitchInfo\n| Jname = 神浜聖女のウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 6501\n| Drop = \n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n|en = My, have you heard? Who’d you hear it from?<br/>Kamihama’s Holy Maiden, and the rumor thereof!<br/>A cool, shiny saint has appeared in Kamihama, making her grand descent amidst rays of heavenly light!!<br/>With just one outstretched hand of salvation, any girl with a wounded heart will be head over heels!<br/>She’ll become part of the Holy Maiden that’ll lead us all to liberation, and work her very hardest as its arms and legs!<br/>It’s a rumor that EVERYONE named Tomoe Mami is talking about.<br/>Please deliver us~!\n|jp = アラもう聞いた？誰から聞いた？<br/>神浜聖女のそのウワサ<br/>シャイニーなセイントが神浜に、天の光と共に大降臨!!<br/>ハートが傷付いた少女は、救いの手を差し伸べられただけで、もーメロメロ<br/>解放に導く聖女様に取り込まれて、手になり足になり頑張っちゃうって<br/>巴マミの間ではもっぱらのウワサ<br/>スクイタマヘー！\n}}\n\n== Related ==\n* [[Holy Mami]]\n* [[Tomoe Mami]]\n\n==Trivia=="
+            },
+            "sha1": "fnitvk9nelo16kvs2mlp8wktd76li83"
+         }
+      },
+      {
+         "title": "Rumor of the Flower Speaker",
+         "ns": "0",
+         "id": "10240",
+         "revision": {
+            "id": "43837",
+            "parentid": "43802",
+            "timestamp": "2019-09-10T03:50:38Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1314",
+               "#text": "{{WitchInfo\n| Jname = フラワースピーカーのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 6008\n| Drop = Speaker's Bell\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Flower Speaker, and the rumor thereof!<br />It’s some super-duper hi-spec tech that can both send and receive!<br />Just step right up and say anything you want said, or anything you want heard!<br />It’ll be converted to wonderful, pretty words that resound through everyone's hearts with a satisfying 'twang!’, letting you control them just as you wish. It’s a rumor that ALL the Magius are talking about.<br />Whatever you sa~ay! \n| jp = アラもう聞いた？誰から聞いた？<br/>フラワースピーカーのそのウワサ<br/>受信と発信が一体になったチョーコーセーノーなスゴイやつ！<br/>言いたいコトも聞かせたいコトも、なんでも喋ってみてごらん！<br/>みんなのハートにビビンッと響く、素敵なワードに変換してくれて、<br/>意のままに操れるようにしてくれるって、マギウスの間ではもっぱらのウワサ<br/>イノママヨー！\n}}\n\n== Related Familiar/Witch==\n\n==Trivia=="
+            },
+            "sha1": "qdj7asj9zbjno3qu6bnrnykdx88a9nw"
+         }
+      },
+      {
+         "title": "Rumor of the Working Bear",
+         "ns": "0",
+         "id": "11691",
+         "revision": {
+            "id": "43847",
+            "parentid": "43791",
+            "timestamp": "2019-09-10T03:52:18Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1507",
+               "#text": "{{WitchInfo\n| Jname = 働きグマのウワサ\n| Jnature = \n| Ename = \n| Enature = \n| Type = Rumor\n| ID = 7009\n| Drop = Bear's Ruff\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Worker Bears, and the rumor thereof!<br />From a wide variety of repairs to daintily tending the gardens, they can take care of any odd job you can name!<br />The way their heads have plopped onto the ground is a sign that their knowledge and experience are as ripe as can be, and it’s proof that they’re senior staff members of the castle!<br />If anything needs doing, they’ll triumphantly pop into view… but they might start squabbling over who gets to do the work. It’s a rumor that ALL the Feathers are talking about.<br />Giiive meee wooork!\n| jp = アラもう聞いた？誰から聞いた？<br />働きグマのそのウワサ<br />色んなモノの修理からお庭の細かなテイレまで、雑務があれば何でもオマカセ！<br />ポトリと落ちた生首姿は、知識も経験も熟した証拠で、お城で古参のアカシ！<br />何かあったら揚々として、パパッと姿を現わすけれど<br />仕事の奪い合いが始まっちゃうって、羽根たちの間ではもっぱらのうわさ<br />ギブミーワーク！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Soldier Bear]]\n* [[Rumor of the Queen Bear]]\n\n==Trivia==\n[[Category:Characters]]"
+            },
+            "sha1": "3uuc9lmjnssf7kp2fqr0vbqjsv2le3t"
+         }
+      },
+      {
+         "title": "Rumor of the Queen Bear",
+         "ns": "0",
+         "id": "12173",
+         "revision": {
+            "id": "43845",
+            "parentid": "43793",
+            "timestamp": "2019-09-10T03:51:58Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1433",
+               "#text": "{{WitchInfo\n| Jname = 女王グマのウワサ\n| Jnature = \n| Ename = Rumor of the Queen Bear\n| Enature = \n| Type = Rumor\n| ID = 6010\n| Drop = Bear's Bolt\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Queen Bear, and the rumor threof!<br />The great big tree that towers high in the middle of the castle is actually the beloved mama of all the little bears!<br />If you hurt Mama, all her cubs will lash out, and if you hurt her cubs, her maternal instincts will blow up in your face.<br />Oh me, oh my! It’s the most awesomely awful collective Rumor that the Magius have ever made. It’s a rumor that ALL the Feathers are talking about.<br />Run away, run awaaay! \n| jp = アラもう聞いた？誰から聞いた？<br />女王グマのそのウワサ<br />お城の中にドドンと聳える巨大な樹木の正体は、クマたちみんなの大切なママ！<br />もしもママを傷付けちゃったら、クマたちみんなが暴れだし、<br />子どもを傷付けちゃったら、ママの母性が爆発しちゃってモータイヘン！<br />マギウスが作った最凶の社会性ウワサだって羽根たちの間ではもっぱらのうわさ<br />ハヤクニゲテー！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Working Bear]]\n* [[Rumor of the Soldier Bear]]\n\n==Trivia=="
+            },
+            "sha1": "3k2bmsye664qcbm74usay5u5o8zpk4n"
+         }
+      },
+      {
+         "title": "Rumor of the Soldier Bear",
+         "ns": "0",
+         "id": "12176",
+         "revision": {
+            "id": "43846",
+            "parentid": "43792",
+            "timestamp": "2019-09-10T03:52:08Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "minor": null,
+            "comment": "Bot: Replaced Lore template",
+            "text": {
+               "@space": "preserve",
+               "@bytes": "1458",
+               "#text": "{{WitchInfo\n| Jname = 兵隊グマのウワサ\n| Jnature = \n| Ename = Rumor of the Soldier Bear\n| Enature = \n| Type = Rumor\n| ID = 6009\n| Drop = Bear's Ruff\n| JIllustrator = 原案：f4samurai、監修：劇団イヌカレー（泥犬）\n}}\n\n{{Description\n| en = My, have you heard? Who’d you hear it from?<br />The Soldier Bears, and the rumor thereof!<br />If you happen to damage some part of the castle, just saying 'sorry’ won’t get you off the hook!<br />The Soldier Bears will get real steaming mad, and attack with their building tools clutched in both paws!<br />Their zeal and power are second to none– but as fruit go, they’re still young, tough and un-ripe, so they tend to miss their swings and kick up huge whirlwinds instead. It’s a rumor that ALL the Feathers are talking about.<br />Up, up and away you go~! \n| jp = アラもう聞いた？誰から聞いた？<br />兵隊グマのそのウワサ<br />もしもお城を傷付けちゃったら、ゴメンナサイじゃ済まされない！<br />プンプン怒った兵隊グマが、工具を両手にオッテクル！？<br />熱意とパワーはダレにも負けないケレド、若くて固い未熟な実ダカラ<br />空回りしてスゴイ竜巻を起こしちゃうって、羽根たちの間ではもっぱらのウワサ<br />トンデッチャウー！\n}}\n\n== Related Familiar/Witch==\n* [[Rumor of the Working Bear]]\n* [[Rumor of the Queen Bear]]\n\n==Trivia=="
+            },
+            "sha1": "i2cg82blgqo2b20njoldour3haocihh"
+         }
+      },
+      {
+         "title": "Rumor of the Ten-Thousand-Year Sakura",
+         "ns": "0",
+         "id": "14238",
+         "revision": {
+            "id": "36483",
+            "parentid": "36434",
+            "timestamp": "2019-04-10T00:55:14Z",
+            "contributor": {
+               "username": "HOOCCOOH",
+               "id": "35486486"
+            },
+            "text": {
+               "@space": "preserve",
+               "@bytes": "811",
+               "#text": "{{Rumor of the Ten-Thousand-Year Sakura|Infobox}}\n\n{{Description\n| en = The rumor that four girls went to her place where they awaited the blooming of cherry blossoms. With the adjustment to her content and the introduction of modern technologies, now she can also go out for activities, despite that she can be regarded as a weirdo lacking common sense. She has always longing to go back to the one who loves mountains.\n| jp = ４人の少女が自分の所に訪れて、満開の花を咲かせることを待ち望んでいたウワサ。現在は内容の調整と現代技術の応用によって外でも活動しているが、常識が欠けており特異な人物として見られている。いつも山か大好きな人の所に帰りたい。\n}}\n\n{{Tabs}}\n[[Category:Limited]]\n[[Category:Rumor]]"
+            },
+            "sha1": "smmh75i93apoo77lsjua1q3f0uf6291"
+         }
+      }
+   ]
+}
